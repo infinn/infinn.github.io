@@ -14,7 +14,7 @@ a{
     display: flex;
     position: sticky;
     top: 0;
-    padding: 2dvw;
+    padding: 2dvw; 
     background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
 }
 header{
@@ -30,43 +30,57 @@ header{
 }
 .fift{
     width: 50%;
-    margin: 10px;
+    margin: 2vw;
 }
 #main{
     display: flex;
     margin-left: 10dvw;
     margin-right: 10dvw;
     height: 100%;
-    background-color: rgb(16, 112, 112);
+}
+#nombre{
+    font-size: 4vw;
+}
+#sobre{
+    font-size: 2vw;
 }
 img{
-    background-color: aqua;
+    width: 40vw;
 }
-#testChild{
-    position: relative;
-    display: block;
-    transform: translate(-50%, -50%);
-    overflow: hidden;
-}
-.testChild span{
-    display: inline-block;
-    padding-left: 100%;
-    text-align: center;
-    white-space: nowrap;
-    min-width: 100%;
-    height: 100%;
-    line-height: 140px;
-    animation: marquee 10s linear infinite;
-}
-.testChild2{
-    animation-delay: 5s;
-}
-@keyframes marquee {
-    0% {
-        transform: translate(0,0);
+@media screen and (max-width: 850px){
+    .fift{
+        margin: 0;
+        width: 100%;
     }
-    100% {
-        transform: translate(-100%,0);
+    #main{
+        width:  100vw;
+        margin-left: 0;
+        margin-right: 0;
+        flex-direction: column;
+        justify-content: space-between;
+        justify-content: center;
     }
-    
+    #nombre{
+        font-size: 2rem;
+        padding: 2vw;
+    }
+    #sobre{
+        font-size: 1rem;
+        padding: 2vw;
+    }
+    img{
+        width: 80vw;
+    }
+    #fotomia{
+        padding: 0;
+        display: flex;
+        justify-content: center;
+    }
+    #more{
+        display: none;
+    }
+    #top{
+        display: flex;
+        justify-content: center;
+    }
 }

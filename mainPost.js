@@ -72,4 +72,5 @@ function crearPost(datos){
             padre.appendChild(articulo);
         }
     }
+    
 }

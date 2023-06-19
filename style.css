@@ -139,7 +139,7 @@ a{
     padding-left: 20px;
 }
 #fotoSeccion{
-    width: 50dvw;
+    width: 50vw;
     transition: 0.5s;
     object-fit: cover;
 }
