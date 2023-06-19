@@ -1,0 +1,165 @@
+{
+    "0001": {
+        "esp":{
+            "Poster Cosmos":{
+                "01" : {
+                    "text" : "Encargo para el curso instrumental"
+                },
+                "02" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1u1Trd2NJ7gqSNzp475YHMgjn1qMmX37M"
+                },
+                "03" : {
+                    "text" : "El encargo consistía en crear un póster inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1gzZJ-O6VhN-utLcfLqo8kiwgKgCj34A8"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "29.06.2022"
+    },
+    "0002": {
+        "esp":{
+            "Poster Dualidad":{
+                "01" : {
+                    "text" : "Encargo para el curso de taller"
+                },
+                "02" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1RK97FWLewdwqWQzsS5VzUaONGrh3H43A"
+                },
+                "03" : {
+                    "title" : "hola"
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1op1RYlKHOGcfyDDGeTnRsmvgvDw4Cbg_"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "05.05.2022"
+    },
+    "0003": {
+        "esp":{
+            "Leo":{
+                "01" : {
+                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat orci, tincidunt nec erat sagittis, posuere lacinia tellus. Morbi maximus orci augue, quis tristique lacus feugiat nec. Etiam eget fermentum odio, id placerat dolor. Nulla eu imperdiet felis, at vestibulum nisi. Sed quis facilisis leo. Aenean non rhoncus nisl. Duis sit amet magna in sapien accumsan ullamcorper. Vivamus aliquam, ipsum eget dapibus vulputate, odio sapien pretium mauris, ut mattis urna diam id lectus. Nam egestas auctor massa, id tempus ipsum condimentum bibendum"
+                },
+                "02" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                },
+                "03" : {
+                    "title" : "hola Soy un texto"
+                },
+                "04": {
+                    "text" : "hola soy un parrafo "
+                },
+                "05" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                },
+                "06" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                },
+                "07" : {
+                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat orci, tincidunt nec erat sagittis, posuere lacinia tellus. Morbi maximus orci augue, quis tristique lacus feugiat nec. Etiam eget fermentum odio, id placerat dolor. Nulla eu imperdiet felis, at vestibulum nisi. Sed quis facilisis leo. Aenean non rhoncus nisl. Duis sit amet magna in sapien accumsan ullamcorper. Vivamus aliquam, ipsum eget dapibus vulputate, odio sapien pretium mauris, ut mattis urna diam id lectus. Nam egestas auctor massa, id tempus ipsum condimentum bibendum"
+                },
+                "08" : {
+                    "link": "https://www.youtube.com/watch?v=YcgzHoB-k0g&ab_channel=SupraPixel"
+                }
+                
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1hPVL5kmPmzPO7a26gSZdtdgaWdKD2nqB"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 0,
+            "Music" : 1 
+        },
+        "fecha" : "01.08.2023"
+    },
+    "0004": {
+        "esp":{
+            "prueba4":{
+                "01" : {
+                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat orci, tincidunt nec erat sagittis, posuere lacinia tellus. Morbi maximus orci augue, quis tristique lacus feugiat nec. Etiam eget fermentum odio, id placerat dolor. Nulla eu imperdiet felis, at vestibulum nisi. Sed quis facilisis leo. Aenean non rhoncus nisl. Duis sit amet magna in sapien accumsan ullamcorper. Vivamus aliquam, ipsum eget dapibus vulputate, odio sapien pretium mauris, ut mattis urna diam id lectus. Nam egestas auctor massa, id tempus ipsum condimentum bibendum"
+                },
+                "02" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                },
+                "03" : {
+                    "title" : "hola"
+                },
+                "04": {
+                    "text" : "eso era..."
+                },
+                "05" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Beautiful_Zebra_in_South_Africa.JPG/250px-Beautiful_Zebra_in_South_Africa.JPG"
+        },
+        "categoria":{
+            "Developer" : 1,
+            "Design" : 0,
+            "Music" : 0 
+        },
+        "fecha" : "10.05.2023"
+    },
+    "0005": {
+        "esp":{
+            "cristian":{
+                "01" : {
+                    "text" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat orci, tincidunt nec erat sagittis, posuere lacinia tellus. Morbi maximus orci augue, quis tristique lacus feugiat nec. Etiam eget fermentum odio, id placerat dolor. Nulla eu imperdiet felis, at vestibulum nisi. Sed quis facilisis leo. Aenean non rhoncus nisl. Duis sit amet magna in sapien accumsan ullamcorper. Vivamus aliquam, ipsum eget dapibus vulputate, odio sapien pretium mauris, ut mattis urna diam id lectus. Nam egestas auctor massa, id tempus ipsum condimentum bibendum"
+                },
+                "02" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                },
+                "03" : {
+                    "title" : "hola"
+                },
+                "04": {
+                    "text" : "eso era..."
+                },
+                "05" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1umZbGFGP1DkyM7pPZWzo0cfvOa2gCPDf"
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Beautiful_Zebra_in_South_Africa.JPG/250px-Beautiful_Zebra_in_South_Africa.JPG"
+        },
+        "categoria":{
+            "Developer" : 1,
+            "Design" : 0,
+            "Music" : 0 
+        },
+        "fecha" : "10.05.2023"
+    }
+}

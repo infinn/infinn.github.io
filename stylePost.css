@@ -1,0 +1,92 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.designHeader{
+    display: flex;
+    position: sticky;
+    top: 0;
+    padding: 2dvw;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
+}
+.fift{
+    width: 50%;
+}
+#ab{
+    display: flex;
+    justify-content: right;
+}
+#mainName{
+    font-size: 15px;
+}
+.letrasTop{
+    margin-left: 15px;
+}
+.main{
+    padding: 3dvw;
+    display: flex;
+    flex-direction: column;
+    width: 80dvw;
+    justify-content: space-between;
+}
+.post{
+    display: flex;
+    justify-content: center;
+}
+#centro{
+    display: flex;
+    justify-content: center;
+    margin: 5dvw;
+}
+#fotopost{
+    width: 100%;
+}
+#titulo{
+    justify-content: left;
+    font-size: 5dvw;
+}
+#descripcion{
+    padding-bottom: 30px;
+    font-size: 1dvw;
+    justify-content: left;
+}
+#titulo2{
+    justify-content: left;
+    font-size: 2.5dvw;
+}
+
+@media screen and (max-width: 850px){
+    .main{
+        width: 100dvw;
+        padding: 0;
+    }
+    #titulo{
+        font-size: 45px;
+        padding: 3dvw;
+    }
+    #titulo2{
+        padding: 3dvw;
+    }
+    #descripcion{
+        font-size: 10px;
+        padding: 3dvw;
+    }
+    #titulo2{
+        font-size: 15px;
+    }
+    #centro{
+        margin: 0;
+    }
+}
+@media screen and (max-width: 500px){
+    .designHeader{
+        display: none;
+    }
+}

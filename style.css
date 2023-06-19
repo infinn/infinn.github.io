@@ -1,0 +1,205 @@
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    background-color: black;
+    margin: 0;
+}
+header{
+    display: flex;
+    height: 10vh;
+    color: white;
+}
+#ab{
+    display: flex;
+    justify-content: right;
+}
+.letrasTop{
+    margin-left: 15px;
+}
+footer{
+    padding: 1dvw;
+    height: 20dvw;
+    display: flex;
+    color: white;
+    background-color: rgb(1, 10, 19);
+}
+#sec1{
+
+    padding: 10px;
+    width: 25%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+#sec1 h1, h2, h3{
+    padding: 10px;
+    font-size: 15px;
+}
+
+#leftTop{
+    padding: 5px;
+}
+#izq{
+    display: flex;
+    justify-content: right;
+}
+.vei{
+    width: 25%;
+}
+
+.fift{
+    width: 50%;
+    margin: 10px;
+}
+#Numero{
+    margin: 10px;
+}
+
+.encabezado{
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
+    position: sticky;
+    display: flex;
+    top: 0;
+    border-top: 1px solid white;
+    color: white;
+    font-size: 2vh;
+    
+}
+#foto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 50vw;
+    padding: 2dvw;
+    transition: 0.5s;
+    object-fit: cover;
+}
+.post{
+    display: flex;
+}
+#buttonBotton{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+#fecha{
+    display: flex;
+    justify-content: right;
+    margin: 10px;
+}
+#mainName{
+    font-size: 15px;
+}
+#texto{
+    font-size: 10dvw;
+    padding: 5px;
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 40dvw;
+    margin-bottom: 4dvw;
+}
+#work, #vibe, #about, #divisor{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+#postGeneral{
+    background-color: black;
+    color: white;
+}
+.designHeader{
+    position: sticky;
+    top: 0;
+    padding: 2dvw;
+    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
+}
+.headerMain{
+    padding: 2dvw;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#seccionPost{
+    padding: 5dvw;
+    display: flex;
+    margin: 5dvw;
+    color: white;
+}
+#info{
+    position: sticky;
+    top: 7.5dvw;
+    padding-left: 20px;
+}
+#fotoSeccion{
+    width: 50dvw;
+    transition: 0.5s;
+    object-fit: cover;
+}
+#fotoSeccion:hover{
+    transform: scale(1.05);
+}
+#foto:hover{
+    transform: scale(1.1);
+}
+.textoHome{
+    transition: 0.5s;
+}
+.textoHome:hover{
+    transform: scale(1.05);
+}
+#fechaPst{
+    display: flex;
+    position: sticky;
+    padding: 10px;
+}
+@media screen and (max-width: 850px){
+    .post{
+        display: block;
+    }
+    #texto{
+        font-size: 50px;
+        height: 40vh;
+    }
+    #seccionPost{
+        flex-direction: column;
+        justify-content: space-between;
+        justify-content: center;
+        margin: 0;
+        padding: 0;
+    }
+    #seccionArreglo{
+        width: 100%;
+    }
+    #foto{
+        margin: 0;
+        padding: 0;
+        max-width:  100dvw;
+    }
+    .fift{
+        width: 100%;
+        margin: 0;
+    }
+    .vei{
+        width: 100%;
+    }
+    #namePost{
+        display: flex;
+        justify-content: center;
+    }
+    #fotoSeccion{
+        width: 100vw;
+    }
+}
+@media screen and (max-width: 500px){
+    .designHeader{
+        display: none;
+    }
+}
