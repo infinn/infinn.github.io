@@ -19,6 +19,7 @@ function crearPost(datos){
     console.log(posicion)
     let datosGeneral = datos[keysPost[posicion]]["esp"];
     let titulo = Object.keys(datosGeneral);
+    document.title=titulo;
     console.log(titulo[0])
 
     const father = document.querySelector(".main");

@@ -48,6 +48,7 @@ footer{
 }
 .vei{
     width: 25%;
+    display: flex;
 }
 
 .fift{
@@ -84,6 +85,13 @@ footer{
     position: fixed;
     bottom: 50px;
     right: 50px;
+    background-color: white;
+    transition: 0.5s;
+}
+#buttonBotton img{
+    display: flex;
+    justify-content: center;
+    height: 2vw;
 }
 #fecha{
     display: flex;
@@ -156,8 +164,6 @@ a{
     transform: scale(1.05);
 }
 #fechaPst{
-    display: flex;
-    position: sticky;
     padding: 10px;
 }
 @media screen and (max-width: 850px){
@@ -196,6 +202,9 @@ a{
     }
     #fotoSeccion{
         width: 100vw;
+    }
+    #buttonBotton img{
+        height: 20px;
     }
 }
 @media screen and (max-width: 500px){

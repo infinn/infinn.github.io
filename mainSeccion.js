@@ -35,5 +35,5 @@ function crearPost(datos){
         document.getElementById("work").innerHTML=seccion;
         document.getElementById(seccion).style.color = "gray";
     }
-    
+    document.title=seccion;
 }
