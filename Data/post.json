@@ -24,7 +24,7 @@
             "Design" : 1,
             "Music" : 0 
         },
-        "fecha" : "29.06.2022"
+        "fecha" : "29.04.2022"
     },
     "0002": {
         "esp":{
@@ -34,9 +34,6 @@
                 },
                 "02" : {
                     "img" : "https://drive.google.com/uc?export=download&id=1RK97FWLewdwqWQzsS5VzUaONGrh3H43A"
-                },
-                "03" : {
-                    "title" : "hola"
                 }
             }            
         },
@@ -55,6 +52,51 @@
     },
     "0003": {
         "esp":{
+            "Tarot la Vega":{
+                "01" : {
+                    "text" : "Encargo Taller sobre la Vega"
+                },
+                "02" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1pWqe7F8nmUuv00GffGznAgZUSuig2Kdu"
+                },
+                "03":{
+                    "text":"El encargo consiste en buscar inspiración en la Vega de Santiago de Chile, utilizando el entorno para crear un tarot con técnica y estética libre."
+                },
+                "04":{
+                    "img" : "https://drive.google.com/uc?export=download&id=1hyQPKhUk2huClioUugR_DCrBhKvdx--I"
+                },
+                "05":{
+                    "img" : "https://drive.google.com/uc?export=download&id=1m5soxy5q64oL3I1JkIu8rupbFJ8X88KP"
+                },
+                "06":{
+                    "img" : "https://drive.google.com/uc?export=download&id=1PQdNRL3Riy8yOL5Hv2gcTafsZhrfASvf"
+                },
+                "07":{
+                    "title" : "Mi solucion"
+                },
+                "08":{
+                    "text":"Mi solución consistió en crear un collage utilizando las imágenes de las portadas de la revista 'The Saturday Evening Post' y darles un giro para reflejar la vida en la Vega, mostrando situaciones comunes del lugar. De esta manera, hice referencia a las respectivas cartas del tarot."
+                },
+                "09":{
+                    "img" : "https://drive.google.com/uc?export=download&id=1G0fuSBMIlH5RcdaizJFReTtb2YzcVAZn"
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1h1tNeZ2W3Cv2yG2eZTfCoHDbY0M1u4rw"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "05.07.2022"
+    },
+    "0004": {
+        "esp":{
             "El sacristan post instagram":{
                 "01" : {
                     "text" : "Encargo Taller sobre violeta parra"
@@ -66,6 +108,9 @@
                     "img" : "https://drive.google.com/uc?export=download&id=1GPYLyXeSLh7FoNqXIOCXt50qYyQcJYZN"
                 },
                 "04":{
+                    "text":"Para poder ver el Instagram y otros proyectos, haz clic en el enlace proporcionado."
+                },
+                "05":{
                     "link":"https://www.instagram.com/parraytierra/"
                 }
             }            
@@ -81,6 +126,63 @@
             "Design" : 1,
             "Music" : 1 
         },
-        "fecha" : "01.08.2023"
+        "fecha" : "09.11.2022"
+    },
+    "0005": {
+        "esp":{
+            "Libro objeto Violeta Parra":{
+                "01" : {
+                    "text" : "Libro objeto basada en la cancion el sacristan de Violeta Parra"
+                },
+                "02":{
+                    "text":"ESTA PUBLICACION SE ESTA HACIENDO"
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1eAxmAxdySdJNNlQDdGMQ4bTTCmqSCaG9"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "09.12.2022"
+    },
+    "0006": {
+        "esp":{
+            "Pagina builds LOL":{
+                "01" : {
+                    "text" : "Pagina para crear y analizar builds del juego LOL"
+                },
+                "02":{
+                    "img":"https://drive.google.com/uc?export=download&id=1FYaUOE57QCSNn5sspga3UFDgdlnaTgAe"
+                },
+                "03":{
+                    "text":"El objetivo de esta página web es analizar las builds de los campeones del juego League of Legends, enfrentando a dos campeones para determinar cuántos golpes básicos puede resistir tu personaje antes de morir."
+                },
+                "04":{
+                    "img":"https://drive.google.com/uc?export=download&id=1PC7k-2Mi21IGZAV-WjHuXUIaYVp-EPMC"
+                },
+                "05":{
+                    "text":"EL PROYECTO POR AHORA ES PRIVADO PROXIMAMENTE SERA PUBLICADO"
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1SHPIdSVY3Y72oPFQpUl-m2Xgij4KBggg"
+        },
+        "categoria":{
+            "Developer" : 1,
+            "Design" : 0,
+            "Music" : 0 
+        },
+        "fecha" : "21.02.2023"
     }
 }
