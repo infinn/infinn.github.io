@@ -73,5 +73,23 @@ function crearPost(datos){
             padre.appendChild(articulo);
         }
     }
-    
+    const more = document.getElementById("more");
+    const largo = keysPost.length;
+    let check = 0;
+    while (check == 0){
+        let x = random(0,largo);
+        if (x == posicion){
+            check = 0;
+        }   else if (x != posicion){
+            let nuevo = keysPost[x];
+            more.href="post.html?post="+nuevo;
+            check = 1;
+        }   else if (x>largo){
+            check =0;
+        }
+    }
+} 
+
+function random(min,max){
+    return Math.round(Math.random() * (max - min) + min);
 }

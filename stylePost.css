@@ -50,11 +50,11 @@ a{
 }
 #titulo{
     justify-content: left;
-    font-size: 5dvw;
+    font-size: 4rem;
 }
 #descripcion{
     padding-bottom: 30px;
-    font-size: 1dvw;
+    font-size: 0.7rem;
     justify-content: left;
 }
 #titulo2{
@@ -69,11 +69,15 @@ footer{
 #more{
     padding-top: 5vw;
     padding-bottom: 5vw;
-    font-size: 10vw;
+    font-size: 5rem;
     transition: 0.5s;
 }
 #more:hover{
     transform: scale(1.1);
+}
+#ab a:hover{
+    transition: 0.5s;
+    transform: translate(0, -5px);
 }
 
 @media screen and (max-width: 850px){
@@ -97,6 +101,9 @@ footer{
     }
     #centro{
         margin: 0;
+    }
+    #more{
+        font-size: 3rem;
     }
 }
 @media screen and (max-width: 500px){

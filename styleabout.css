@@ -44,6 +44,10 @@ header{
 #sobre{
     font-size: 2vw;
 }
+#sobre a:hover{
+    transition: 0.5s;
+    transform: translate(0, -5px);
+}
 img{
     width: 40vw;
 }
