@@ -71,6 +71,13 @@ function crearPost(datos){
             articulo.setAttribute("id", "descripcion");
             articulo.setAttribute("class", "post");
             padre.appendChild(articulo);
+        }   else if(tipo[0] == "disc"){
+            const padre = document.querySelector(".main");
+            let articulo = document.createElement("div");
+            articulo.innerHTML = '<h2>'+ref+'</h2>';
+            articulo.setAttribute("id", "disclaimer");
+            articulo.setAttribute("class", "post");
+            padre.appendChild(articulo);
         }
     }
     const more = document.getElementById("more");

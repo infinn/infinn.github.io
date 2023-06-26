@@ -10,6 +10,8 @@
                 },
                 "03" : {
                     "text" : "El encargo consistía en crear un póster inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
+                },"04":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
@@ -17,7 +19,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1gzZJ-O6VhN-utLcfLqo8kiwgKgCj34A8"
+            "link" : "https://drive.google.com/uc?export=download&id=1HhWGZFG3Fy3GjwR660ZQ4UgYPimtyMEh"
         },
         "categoria":{
             "Developer" : 0,
@@ -34,6 +36,8 @@
                 },
                 "02" : {
                     "img" : "https://drive.google.com/uc?export=download&id=1RK97FWLewdwqWQzsS5VzUaONGrh3H43A"
+                },"03":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
@@ -41,7 +45,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1op1RYlKHOGcfyDDGeTnRsmvgvDw4Cbg_"
+            "link" : "https://drive.google.com/uc?export=download&id=1VsVqVT_OMYiCu7WOLYMQemS4zI4WG1yP"
         },
         "categoria":{
             "Developer" : 0,
@@ -112,6 +116,8 @@
                 },
                 "05":{
                     "link":"https://www.instagram.com/parraytierra/"
+                },"06":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
@@ -130,30 +136,6 @@
     },
     "0005": {
         "esp":{
-            "Libro objeto Violeta Parra":{
-                "01" : {
-                    "text" : "Libro objeto basada en la cancion el sacristan de Violeta Parra"
-                },
-                "02":{
-                    "text":"ESTA PUBLICACION SE ESTA HACIENDO"
-                }
-            }            
-        },
-        "eng":{
-            "test" : "lorem ipsum"
-        },
-        "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1eAxmAxdySdJNNlQDdGMQ4bTTCmqSCaG9"
-        },
-        "categoria":{
-            "Developer" : 0,
-            "Design" : 1,
-            "Music" : 0 
-        },
-        "fecha" : "09.12.2022"
-    },
-    "0006": {
-        "esp":{
             "Pagina builds LOL":{
                 "01" : {
                     "text" : "Pagina para crear y analizar builds del juego LOL"
@@ -169,6 +151,8 @@
                 },
                 "05":{
                     "text":"EL PROYECTO POR AHORA ES PRIVADO PROXIMAMENTE SERA PUBLICADO"
+                },"06":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
@@ -184,5 +168,102 @@
             "Music" : 0 
         },
         "fecha" : "21.02.2023"
+    },
+    "0006": {
+        "esp":{
+            "SNKRS megazine":{
+                "01" : {
+                    "text" : "Revista para el curso de instrumental"
+                },"02":{
+                    "img":"https://drive.google.com/uc?export=download&id=1TdFhmVjDEIdLAHl2v_df5SDmijTaeATG"
+                },"03":{
+                    "img":"https://drive.google.com/uc?export=download&id=1Nt9vJIn0hiYztXkDPNYBFfmUZ_zqV6SE"
+                },"04":{
+                    "img":"https://drive.google.com/uc?export=download&id=1JoSVbRMdMGkiAQ1P9pOVhr5WsFdW7yXf"
+                },"05":{
+                    "img":"https://drive.google.com/uc?export=download&id=12mOtRNVW2WqBxpMJEDzrkr9nTpjtteyt"
+                },"06":{
+                    "img":"https://drive.google.com/uc?export=download&id=1T9v8HUFMpEb622xYd4G4lP0NIVpxwlvI"
+                },"07":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=106G3wY5qDcfhOH-DtYz0d-hfIAM10zkM"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "04.04.2023"
+    },
+    "0007": {
+        "esp":{
+            "Molchat Doma afiche":{
+                "01" : {
+                    "text" : "Afiche de la banda Molchat Doma"
+                },"02":{
+                    "img":"https://drive.google.com/uc?export=download&id=1_IT1XH9Jm9sltOlrHOHSmUznK-QDym_7"
+                },"03":{
+                    "img":"https://drive.google.com/uc?export=download&id=1j_MxDSqilFvN-pV4DFjNHBoAQuUX5jwv"
+                },"04":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1bb_d15hD-hyqV14imgMCSnFT3nvkWZvd"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 1 
+        },
+        "fecha" : "29.05.2023"
+    },
+    "0008": {
+        "esp":{
+            "La llamada de Cthulhu":{
+                "01" : {
+                    "text" : "Libro la llamada de Cthulhu"
+                },"02":{
+                    "img":"https://drive.google.com/uc?export=download&id=11Z4jn77Ig18ELAJHvbzoNy9kvxAloqzu"
+                },"03":{
+                    "img":"https://drive.google.com/uc?export=download&id=1aXgrUVfVTcb3pEvGfoceHKYR1-eMqrWb"
+                },"04":{
+                    "img":"https://drive.google.com/uc?export=download&id=1H8LxbOrprSBuQDKdinfuT5FDq2-Dypwh"
+                },"05":{
+                    "img":"https://drive.google.com/uc?export=download&id=1x3N_DUDfVhmKjBYR7Is7NubVWGD20QgQ"
+                },"06":{
+                    "img":"https://drive.google.com/uc?export=download&id=1S5aZDDmyeYvRaIjAvNhMll0tCag7anBn"
+                },"07":{
+                    "img":"https://drive.google.com/uc?export=download&id=1XthbhkYDjC2_ufYqcl9Dcm9FCHzLe9sm"
+                },"08":{
+                    "img":"https://drive.google.com/uc?export=download&id=1WLP6CP1x0gmHriIap_i45tZzoVaewklL"
+                },"09":{
+                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
+                }
+            }            
+        },
+        "eng":{
+            "test" : "lorem ipsum"
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1Hq6JrvRq19gcfpSEUCsVzRL6hy3CjONv"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "27.06.2023"
     }
 }

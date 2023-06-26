@@ -80,6 +80,10 @@ footer{
     transform: translate(0, -5px);
 }
 
+#disclaimer h2{
+    font-size: 0.7rem;
+    color: rgb(184, 184, 184);
+}
 @media screen and (max-width: 850px){
     .main{
         width: 100dvw;
@@ -96,6 +100,12 @@ footer{
         font-size: 10px;
         padding: 3dvw;
     }
+    #disclaimer h2{
+        padding: 3dvw;
+    }
+        
+    
+
     #titulo2{
         font-size: 15px;
     }
