@@ -1,7 +1,7 @@
 {
     "0001": {
         "esp":{
-            "Poster Cosmos":{
+            "Afiche Cosmos":{
                 "01" : {
                     "text" : "Encargo para el curso instrumental"
                 },
@@ -9,7 +9,7 @@
                     "img" : "https://drive.google.com/uc?export=download&id=1u1Trd2NJ7gqSNzp475YHMgjn1qMmX37M"
                 },
                 "03" : {
-                    "text" : "El encargo consistía en crear un póster inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
+                    "text" : "El encargo consistía en crear un afiche inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
                 },"04":{
                     "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
@@ -101,9 +101,9 @@
     },
     "0004": {
         "esp":{
-            "El sacristan post instagram":{
+            "El sacristán post instagram":{
                 "01" : {
-                    "text" : "Encargo Taller sobre violeta parra"
+                    "text" : "Encargo Taller sobre Violeta Parra"
                 },
                 "02" : {
                     "img" : "https://drive.google.com/uc?export=download&id=1_Jac8myDYx1xX-gxAXGa5hqO7Jrc8PxW"
@@ -112,7 +112,7 @@
                     "img" : "https://drive.google.com/uc?export=download&id=1GPYLyXeSLh7FoNqXIOCXt50qYyQcJYZN"
                 },
                 "04":{
-                    "text":"Para poder ver el Instagram y otros proyectos, haz clic en el enlace proporcionado."
+                    "text":"Para poder ver el Instagram y otros proyectos, haz clic en el siguiente enlace."
                 },
                 "05":{
                     "link":"https://www.instagram.com/parraytierra/"
@@ -150,7 +150,7 @@
                     "img":"https://drive.google.com/uc?export=download&id=1PC7k-2Mi21IGZAV-WjHuXUIaYVp-EPMC"
                 },
                 "05":{
-                    "text":"EL PROYECTO POR AHORA ES PRIVADO PROXIMAMENTE SERA PUBLICADO"
+                    "text":"EL PROYECTO POR AHORA ES PRIVADO PRÓXIMAMENTE SERÁ PUBLICADO"
                 },"06":{
                     "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
@@ -184,7 +184,11 @@
                     "img":"https://drive.google.com/uc?export=download&id=12mOtRNVW2WqBxpMJEDzrkr9nTpjtteyt"
                 },"06":{
                     "img":"https://drive.google.com/uc?export=download&id=1T9v8HUFMpEb622xYd4G4lP0NIVpxwlvI"
-                },"07":{
+                },
+                "07":{
+                    "text":"La revista fue de temática libre, a la cual yo escogí las zapatillas, el objetivo del curso era comprender cómo funciona indesign."
+                }
+                "08":{
                     "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
@@ -209,9 +213,13 @@
                     "text" : "Afiche de la banda Molchat Doma"
                 },"02":{
                     "img":"https://drive.google.com/uc?export=download&id=1_IT1XH9Jm9sltOlrHOHSmUznK-QDym_7"
-                },"03":{
+                },
+                "03":{
+                    "text":"La imagen usada en el afiche fue creada por la inteligencia artificial Dall-e 2 con el prompt: maniki sad."
+                }
+                "04":{
                     "img":"https://drive.google.com/uc?export=download&id=1j_MxDSqilFvN-pV4DFjNHBoAQuUX5jwv"
-                },"04":{
+                },"05":{
                     "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
