@@ -87,12 +87,15 @@ function crearPost(datos){
         let x = random(0,largo);
         if (x == posicion){
             check = 0;
+            console.log("x = "+x);
         }   else if (x != posicion){
             let nuevo = keysPost[x];
             more.href="post.html?post="+nuevo;
             check = 1;
+            console.log("x = "+x);
         }   else if (x>largo){
             check =0;
+            console.log("x = "+x);
         }
     }
 } 
