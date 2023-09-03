@@ -1,19 +1,28 @@
+html {
+    scroll-behavior: smooth;
+    color: white;
+    user-select: none;
+}
 body{
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
-    background-color: black;
-    color: white;
+    background-color: #1c1c1c;
     margin: 0;
+    font-size: 0.7rem;
 }
 a{
-    text-decoration: none;
+    text-decoration: none; 
     color: white;
 }
+
+
 .designHeader{
+    padding: 2dvw;
     display: flex;
+    height: 10vh;
+    max-height: 1rem;
     position: sticky;
     top: 0;
-    padding: 2dvw;
     background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
 }
 .fift{
@@ -22,9 +31,6 @@ a{
 #ab{
     display: flex;
     justify-content: right;
-}
-#mainName{
-    font-size: 15px;
 }
 .letrasTop{
     margin-left: 15px;
@@ -36,13 +42,36 @@ a{
     width: 80dvw;
     justify-content: space-between;
 }
+
+#topp{
+    position: relative;
+    z-index: -1;
+}
+#topp::before{
+    content: "";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0), rgba(0,0,0,0.6));
+}
+#topp img{
+    width: 100%;
+    display: block;
+}
+#topp h1{
+    position: absolute;
+    bottom: 0;
+    margin-left: 1.5rem;
+    font-size: 3rem;
+}
 .post{
     display: flex;
-    justify-content: center;
+    margin-top: 1rem;
+    margin-bottom: 1.2rem;
 }
 #centro{
-    display: flex;
-    justify-content: center;
     margin: 5dvw;
 }
 #fotopost{
@@ -53,13 +82,20 @@ a{
     font-size: 4rem;
 }
 #descripcion{
+    width: 50%;
     padding-bottom: 30px;
-    font-size: 0.7rem;
-    justify-content: left;
+    font-size: 1rem;
+    left: 0;
+    font-weight: 300;
 }
 #titulo2{
     justify-content: left;
-    font-size: 2.5dvw;
+    font-size: 2rem;
+    font-weight: 600;
+}
+#notfound{
+    font-size: 10rem;
+    font-weight: 800;
 }
 footer{
     display: flex;
@@ -71,6 +107,7 @@ footer{
     padding-bottom: 5vw;
     font-size: 5rem;
     transition: 0.5s;
+    font-weight: 800;
 }
 #more:hover{
     transform: scale(1.1);
@@ -83,6 +120,7 @@ footer{
 #disclaimer h2{
     font-size: 0.7rem;
     color: rgb(184, 184, 184);
+    font-weight: 300;
 }
 @media screen and (max-width: 850px){
     .main{
@@ -97,7 +135,7 @@ footer{
         padding: 3dvw;
     }
     #descripcion{
-        font-size: 10px;
+        width: 100%;
         padding: 3dvw;
     }
     #disclaimer h2{
@@ -115,9 +153,34 @@ footer{
     #more{
         font-size: 3rem;
     }
+    #tituloCentrado{
+        font-size: 2rem;
+    }
 }
 @media screen and (max-width: 500px){
     .designHeader{
         display: none;
     }
+}
+
+@keyframes show {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
+.post{
+    z-index: -1;
+    view-timeline-name: --image;
+    view-timeline-axis: block;
+
+    animation-timeline: --image;
+    animation-name: show;
+
+    animation-range: entry 10% cover 40%;
+    animation-fill-mode: both;
 }

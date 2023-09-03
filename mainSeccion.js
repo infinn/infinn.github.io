@@ -8,11 +8,24 @@ lol.send();
 lol.onreadystatechange = function(){
     if(this.readyState == 4 && this.status == 200){
         let datos = JSON.parse(this.responseText);
-        crearPost(datos)
+        if (seccion == "Design"){
+            document.getElementById("work").innerHTML="DISEÑO";
+            document.title="DISEÑO";
+            crearPost(datos);
+        }   else if(seccion == "Music"){
+            document.getElementById("work").innerHTML="MUSICO";
+            document.title="MUSICO";
+            crearPost(datos);
+        }   else if(seccion == "Developer"){
+            document.getElementById("work").innerHTML="DEV";
+            document.title="PROGRAMADOR";
+            crearPost(datos);
+        }   else{
+            document.getElementById("work").innerHTML="404 NOT FOUND ;(";
+        }
     }
 };
 function crearPost(datos){
-
     let keysPost = Object.keys(datos);
     let i = keysPost.length;
 
@@ -32,8 +45,7 @@ function crearPost(datos){
             padre.appendChild(articulo)
             articulo.setAttribute("id", "seccionPost")
         }
-        document.getElementById("work").innerHTML=seccion;
-        document.getElementById(seccion).style.color = "gray";
+        
     }
-    document.title=seccion;
+    
 }

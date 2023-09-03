@@ -1,21 +1,27 @@
 html {
     scroll-behavior: smooth;
-  }
+    color: white;
+    user-select: none;
+}
 body{
     font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
-    background-color: black;
-    margin: 0;
+    font-size: 0.7rem;
+    background-color: #1c1c1c;
+    margin: 5rem;
+    margin-top: 0;
 }
 header{
     display: flex;
     height: 10vh;
-    color: white;
+    max-height: 1rem;
 }
 #ab{
     display: flex;
     justify-content: right;
     
+}
+.mainPostFoto{
+    justify-content: center;
 }
 #ab a:hover{
     transition: 0.5s;
@@ -25,26 +31,17 @@ header{
     margin-left: 15px;
 }
 footer{
-    padding: 1dvw;
-    height: 20dvw;
+    height: 1rem;
     display: flex;
-    color: white;
-    background-color: rgb(1, 10, 19);
-    font-size: 1rem;
+    font-size: 0.7rem;
 }
-footer h1{
-    font-size: 1rem;
+footer div{
+    display: flex;
+    justify-content: space-between;
 }
 footer a:hover{
     transition: 0.5s;
     transform: translate(2%);
-}
-#sec1{
-    padding: 10px;
-    width: 25%;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
 
 #leftTop{
@@ -65,6 +62,13 @@ footer a:hover{
 }
 #Numero{
     margin: 10px;
+    font-size: 3rem;
+    font-weight: 800;
+}
+#NumeroPst{
+    position: sticky;
+    display: flex;
+    top: 0;
 }
 
 .encabezado{
@@ -73,7 +77,6 @@ footer a:hover{
     display: flex;
     top: 0;
     border-top: 1px solid white;
-    color: white;
     font-size: 0.8rem;
     padding: 2px;
 }
@@ -82,9 +85,9 @@ footer a:hover{
     justify-content: center;
     align-items: center;
     max-width: 50vw;
-    padding: 2dvw;
     transition: 0.5s;
     object-fit: cover;
+    width: 100%;
 }
 .post{
     display: flex;
@@ -106,34 +109,28 @@ footer a:hover{
     justify-content: right;
     margin: 10px;
 }
-#mainName{
-    font-size: 15px;
+#name{
+    font-size: 3rem;
+    justify-content: left;
+    font-weight: 800;
 }
 #texto{
     font-size: 7rem;
     padding: 5px;
-    background-color: black;
-    color: white;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
-    height: 40dvw;
-    margin-bottom: 4dvw;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-weight: 800;
 }
-#work, #vibe, #about, #divisor{
-    display: flex;
-    justify-content: center;
-    color: white;
-}
-#postGeneral{
-    background-color: black;
-    color: white;
-}
+
 .designHeader{
+    padding: 2dvw;
+    display: flex;
+    height: 10vh;
+    max-height: 1rem;
     position: sticky;
     top: 0;
-    padding: 2dvw;
-    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
 }
 .headerMain{
     padding: 2dvw;
@@ -144,39 +141,38 @@ a{
 }
 
 #seccionPost{
-    padding: 5dvw;
     display: flex;
-    margin: 5dvw;
-    color: white;
+    border-top: 1px solid white;
 }
 #info{
     position: sticky;
     top: 7.5dvw;
-
-}
-#info{
     font-size: 2rem;
+    font-weight: 800;
 }
 #info h2{
     padding: 0;
     font-size: 1rem;
+    font-weight: 300;
 }
 #fotoSeccion{
-    width: 50vw;
+    width: 100%;
     transition: 0.5s;
     object-fit: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 #fotoSeccion:hover{
-    transform: scale(1.05);
+    transform: translate(0, -2px);
 }
 #foto:hover{
-    transform: scale(1.1);
+    transform: translate(-5px, 0);
 }
 .textoHome{
     transition: 0.5s;
 }
 .textoHome:hover{
-    transform: scale(1.1);
+    transform: translate(2%);
 }
 #fechaPst{
     padding: 10px;
@@ -185,14 +181,22 @@ a{
     padding-bottom: 20%;
     font-size: 0.9rem;
 }
+#seccionArreglo{
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
 
 @media screen and (max-width: 850px){
+    body{
+        
+        margin: 0;
+    }
     .post{
+        
         display: block;
     }
     #texto{
-        font-size: 50px;
-        height: 40vh;
+        font-size: 3rem;
     }
     #seccionPost{
         flex-direction: column;
@@ -200,6 +204,7 @@ a{
         justify-content: center;
         margin: 0;
         padding: 0;
+        border-top: 0px;
     }
     #seccionArreglo{
         width: 100%;
@@ -207,11 +212,12 @@ a{
     #foto{
         margin: 0;
         padding: 0;
-        max-width:  100dvw;
+        max-width:  100%;
     }
     .fift{
         width: 100%;
         margin: 0;
+        display: block;
     }
     .vei{
         width: 100%;
@@ -236,17 +242,69 @@ a{
         padding: 10px;
     }
     footer{
-        height: 50vh;
-        display: flex;
-        flex-direction:column;
+        display: block;
     }
-    #sec1{
-        width: 100vw;
-        
+    #Numero{
+        display: none;
     }
+    #name{
+        margin: 1rem;
+        font-size: 1.9rem;
+    }
+    .headerMain{
+        display: none;
+    }
+    .textoHome{
+        margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
+    }
+    
 }
 @media screen and (max-width: 500px){
     .designHeader{
         display: none;
     }
+    #texto{
+        font-size: 1.7rem;
+    }
+    hr{
+        display: none;
+    }
+    .encabezado{
+        display: none;
+    }
+}
+
+@keyframes show {
+    from {
+        opacity: 0;
+        transform: translate(-2rem, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate(0, 0);
+    }
+}
+
+img {
+    z-index: -1;
+    view-timeline-name: --image;
+    view-timeline-axis: block;
+
+    animation-timeline: --image;
+    animation-name: show;
+
+    animation-range: entry 10% cover 40%;
+    animation-fill-mode: both;
+}
+p {
+    z-index: -1;
+    view-timeline-name: --image;
+    view-timeline-axis: block;
+
+    animation-timeline: --image;
+    animation-name: show;
+
+    animation-range: entry 10% cover 40%;
+    animation-fill-mode: both;
 }

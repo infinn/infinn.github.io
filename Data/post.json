@@ -10,7 +10,8 @@
                 },
                 "03" : {
                     "text" : "El encargo consistía en crear un póster inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
-                },"04":{
+                },
+                "04":{
                     "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
@@ -19,7 +20,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1HhWGZFG3Fy3GjwR660ZQ4UgYPimtyMEh"
+            "link" : "https://drive.google.com/uc?export=download&id=1VAPBMdefDwOnPFW9F7D3VO4ct4WrPE_v"
         },
         "categoria":{
             "Developer" : 0,
@@ -45,7 +46,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1VsVqVT_OMYiCu7WOLYMQemS4zI4WG1yP"
+            "link" : "https://drive.google.com/uc?export=download&id=16Live7UCYTjYG_c7eP6EGcHFMgGXpDY1"
         },
         "categoria":{
             "Developer" : 0,
@@ -90,7 +91,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1h1tNeZ2W3Cv2yG2eZTfCoHDbY0M1u4rw"
+            "link" : "https://drive.google.com/uc?export=download&id=1CRLFGVF5wG1SY7xbaKLAkzttqsVGp_VO"
         },
         "categoria":{
             "Developer" : 0,
@@ -125,7 +126,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1hPVL5kmPmzPO7a26gSZdtdgaWdKD2nqB"
+            "link" : "https://drive.google.com/uc?export=download&id=1o38QVpTyhfGv3utId9Dd7rcE6PjCPrYh"
         },
         "categoria":{
             "Developer" : 0,
@@ -160,7 +161,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1SHPIdSVY3Y72oPFQpUl-m2Xgij4KBggg"
+            "link" : "https://drive.google.com/uc?export=download&id=12roCGzpLNjQdUid-WYF0F6nXy9uFs6Zp"
         },
         "categoria":{
             "Developer" : 1,
@@ -193,7 +194,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=106G3wY5qDcfhOH-DtYz0d-hfIAM10zkM"
+            "link" : "https://drive.google.com/uc?export=download&id=17fPbT1E8cKKyGZt7TFJ6PFFPwByRSoYZ"
         },
         "categoria":{
             "Developer" : 0,
@@ -220,7 +221,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1bb_d15hD-hyqV14imgMCSnFT3nvkWZvd"
+            "link" : "https://drive.google.com/uc?export=download&id=1lLavfMFwxFFAlNcKGh1em9gZ-ktD8WVQ"
         },
         "categoria":{
             "Developer" : 0,
@@ -231,7 +232,7 @@
     },
     "0008": {
         "esp":{
-            "La llamada de Cthulhu":{
+            "Libro La llamada de Cthulhu":{
                 "01" : {
                     "text" : "Libro la llamada de Cthulhu"
                 },"02":{
@@ -257,7 +258,7 @@
             "test" : "lorem ipsum"
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1Hq6JrvRq19gcfpSEUCsVzRL6hy3CjONv"
+            "link" : "https://drive.google.com/uc?export=download&id=1H6QDz8lq7BQR8ZM2Cld8lYBdVg0ZJPQl"
         },
         "categoria":{
             "Developer" : 0,

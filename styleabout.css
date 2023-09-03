@@ -1,21 +1,27 @@
+html {
+    scroll-behavior: smooth;
+    color: white;
+    user-select: none;
+}
 body{
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
-    background-color: black;
-    margin: 0;
-    color: white;
-    
+    background-color: #1c1c1c;
+    margin: 5rem;
+    margin-top: 0;
+    font-size: 0.7rem;
 }
 a{
     text-decoration: none;
     color: white;
 }
 .designHeader{
+    padding: 2dvw;
     display: flex;
+    height: 10vh;
+    max-height: 1rem;
     position: sticky;
     top: 0;
-    padding: 2dvw; 
-    background: linear-gradient(rgba(0, 0, 0, 1), rgba(0,0,0,0));
 }
 header{
     display: flex;
@@ -34,15 +40,15 @@ header{
 }
 #main{
     display: flex;
-    margin-left: 10dvw;
-    margin-right: 10dvw;
     height: 100%;
 }
 #nombre{
-    font-size: 4vw;
+    font-size: 3rem;
+    font-weight: 800;
 }
 #sobre{
-    font-size: 2vw;
+    font-size: 1rem;
+    font-weight: 300;
 }
 #sobre a:hover{
     transition: 0.5s;
@@ -88,3 +94,6 @@ img{
         justify-content: center;
     }
 }
+
+
+
