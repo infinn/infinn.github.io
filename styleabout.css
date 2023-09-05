@@ -9,11 +9,64 @@ body{
     background-color: #1c1c1c;
     margin: 5rem;
     margin-top: 0;
-    font-size: 0.7rem;
+    font-size: 0.8rem;
+}
+#contenedorNombre{
+    font-size: 3rem;
+    margin: 1.2rem;
+}
+#lugar{
+    font-size: 0.8rem;
+    display: flex;
+    justify-content: space-between;
+}
+#noventa{
+    width: 100%;
+    display: flex;
+}
+#textoSobreMi{
+    margin: 1.2rem;
+    width: 70%;
+    font-size: 2rem;
+    font-weight: 600;
+}
+#redes{
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 1.2rem;
 }
 a{
     text-decoration: none;
     color: white;
+}
+#segundo{
+    display: flex;
+}
+#quehago{
+    width: 20%;
+    margin: 1.2rem;
+}
+.fif{
+    width: 50%;
+    margin: 1.2rem;
+}
+.fif a{
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+#contenedorsegundo{
+    width: 80%;
+
+}
+.conteMainSeg{
+    display: flex;
+    width: 100%;
+}
+
+#im{
+    width: 100%;
 }
 .designHeader{
     padding: 2dvw;
@@ -24,8 +77,14 @@ a{
     top: 0;
 }
 header{
+    margin-top: 0.2rem;
+    font-size: 0.7rem;
     display: flex;
     height: 10vh;
+    max-height: 1rem;
+}
+.fift{
+    width: 50%;
 }
 #ab{
     display: flex;
@@ -34,66 +93,51 @@ header{
 .letrasTop{
     margin-left: 15px;
 }
-.fift{
-    width: 50%;
-    margin: 2vw;
+#version{
+    margin: 1rem;
+    font-size: 0.6rem;
+    color: #7e7e7e;
 }
-#main{
-    display: flex;
-    height: 100%;
+#nostaples{
+    font-size: 0.8rem;
 }
-#nombre{
-    font-size: 3rem;
-    font-weight: 800;
-}
-#sobre{
-    font-size: 1rem;
-    font-weight: 300;
-}
-#sobre a:hover{
-    transition: 0.5s;
-    transform: translate(0, -5px);
-}
-img{
-    width: 40vw;
-}
-@media screen and (max-width: 850px){
-    .fift{
+
+@media screen and (max-width: 900px){
+    body{
         margin: 0;
-        width: 100%;
     }
-    #main{
-        width:  100vw;
-        margin-left: 0;
-        margin-right: 0;
-        flex-direction: column;
-        justify-content: space-between;
-        justify-content: center;
-    }
-    #nombre{
-        font-size: 2rem;
-        padding: 2vw;
-    }
-    #sobre{
-        font-size: 1rem;
-        padding: 2vw;
-    }
-    img{
-        width: 80vw;
-    }
-    #fotomia{
-        padding: 0;
-        display: flex;
-        justify-content: center;
-    }
-    #more{
+    #redes{
         display: none;
     }
-    #top{
-        display: flex;
-        justify-content: center;
+    #textoSobreMi{
+        width: 100%;
+    }
+    #quehago{
+        display: none;
+    }
+    #contenedorsegundo{
+        width: 100%;
+    }
+
+    #up1{
+        display: none;
     }
 }
-
-
-
+@media screen and (max-width: 500px){
+    .designHeader{
+        display: none;
+    }
+    #contenedorNombre{
+        font-size: 2rem;
+    }
+    #textoSobreMi{
+        font-size: 1.5rem;
+    }
+    .conteMainSeg{
+        display: block;
+        margin: 0;
+    }
+    .fif{
+        width: 100%;
+    }
+}
