@@ -15,6 +15,23 @@ header{
     height: 10vh;
     max-height: 1rem;
 }
+.hidden{
+    overflow: hidden;
+}
+#preload{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    margin: 1rem;
+    font-size: 3rem;
+    font-weight: 800;
+    transition: 0.5s;
+}
+#preload div{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
 #ab{
     display: flex;
     justify-content: right;
@@ -31,7 +48,6 @@ header{
     margin-left: 15px;
 }
 footer{
-    height: 1rem;
     display: flex;
     font-size: 0.7rem;
 }
@@ -186,7 +202,7 @@ a{
     margin-bottom: 1rem;
 }
 
-@media screen and (max-width: 850px){
+@media screen and (max-width: 900px){
     body{
         
         margin: 0;
@@ -196,7 +212,8 @@ a{
         display: block;
     }
     #texto{
-        font-size: 3rem;
+        margin: 1rem;
+        font-size: 3.5rem;
     }
     #seccionPost{
         flex-direction: column;
@@ -243,6 +260,13 @@ a{
     }
     footer{
         display: block;
+        margin: 1rem;   
+        margin-bottom: 2rem;
+    }
+    #footerLink{
+        display: flex;
+        justify-content: space-between;
+        
     }
     #Numero{
         display: none;
@@ -251,26 +275,46 @@ a{
         margin: 1rem;
         font-size: 1.9rem;
     }
-    .headerMain{
-        display: none;
-    }
+    
     .textoHome{
         margin-top: 0.5rem;
         margin-bottom: 0.5rem;
     }
+    #fotoSeccion:hover{
+        transform: none;
+    }
+    #foto:hover{
+        transform: none;
+    }
+    #preload{
+        font-size: 2rem;
+    }
     
 }
 @media screen and (max-width: 500px){
+    #preload{
+        font-size: 1rem;
+    }
     .designHeader{
         display: none;
     }
     #texto{
         font-size: 1.7rem;
     }
-    hr{
+    .encabezado{
         display: none;
     }
-    .encabezado{
+    #footerLink{
+        flex-direction: column;
+        margin: 0;
+    }
+    #footerLink a{
+        margin-top: 1rem;
+    }
+    footer{
+        margin-bottom: 2rem;
+    }
+    .headerMain{
         display: none;
     }
 }
