@@ -1,7 +1,7 @@
 {
     "0001": {
         "esp":{
-            "Poster Cosmos":{
+            "Afiche Cosmos":{
                 "01" : {
                     "text" : "Encargo para el curso instrumental"
                 },
@@ -31,7 +31,7 @@
     },
     "0002": {
         "esp":{
-            "Poster Dualidad":{
+            "Afiche Dualidad":{
                 "01" : {
                     "text" : "Encargo para el curso de taller"
                 },

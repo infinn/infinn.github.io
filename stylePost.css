@@ -9,6 +9,7 @@ body{
     background-color: #1c1c1c;
     margin: 0;
     font-size: 0.7rem;
+    max-width: 1980px;
 }
 a{
     text-decoration: none; 
@@ -141,8 +142,9 @@ footer{
 }
 @media screen and (max-width: 900px){
     .main{
-        width: 100dvw;
         padding: 0;
+        margin: 0;
+        width: 100%;
     }
     #titulo{
         font-size: 45px;
@@ -183,6 +185,9 @@ footer{
     }
     #preload{
         font-size: 1rem;
+    }
+    #top h1{
+        font-size: 1.5rem;
     }
 }
 
