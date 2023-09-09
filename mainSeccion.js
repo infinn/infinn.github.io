@@ -35,7 +35,7 @@ function crearPost(datos){
         let imagen = datos[keysPost[i]]["img"]["link"];
         let nombre = Object.keys(keyNombre);
         let categorias = datos[keysPost[i]]["categoria"][seccion];
-        let descripcion = datos[keysPost[i]]["esp"][nombre]["01"]["text"];
+        let descripcion = datos[keysPost[i]]["descripcion"]["esp"];
 
 
         if(categorias == 1){

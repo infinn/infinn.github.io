@@ -2,22 +2,18 @@
     "0001": {
         "esp":{
             "Afiche Cosmos":{
-                "01" : {
-                    "text" : "Encargo para el curso instrumental"
+                "a1" : {
+                    "text" : "El encargo consistía en crear un afiche inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
                 },
-                "02" : {
+                "a2" : {
                     "img" : "https://drive.google.com/uc?export=download&id=1u1Trd2NJ7gqSNzp475YHMgjn1qMmX37M"
-                },
-                "03" : {
-                    "text" : "El encargo consistía en crear un póster inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
-                },
-                "04":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "The assignment was to create a poster inspired by a flower, and I chose the exquisite cosmos flower as the protagonist, with the aim of highlighting its fascinating palette of colors and delicate shapes."
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=1VAPBMdefDwOnPFW9F7D3VO4ct4WrPE_v"
@@ -27,23 +23,27 @@
             "Design" : 1,
             "Music" : 0 
         },
-        "fecha" : "29.04.2022"
+        "fecha" : "29.04.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"El encargo consistía en crear un afiche inspirado en una flor"
+        }
     },
     "0002": {
         "esp":{
             "Afiche Dualidad":{
-                "01" : {
+                "a1" : {
                     "text" : "Encargo para el curso de taller"
                 },
-                "02" : {
+                "a2" : {
                     "img" : "https://drive.google.com/uc?export=download&id=1RK97FWLewdwqWQzsS5VzUaONGrh3H43A"
-                },"03":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "Order for the workshop course"
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=16Live7UCYTjYG_c7eP6EGcHFMgGXpDY1"
@@ -53,42 +53,48 @@
             "Design" : 1,
             "Music" : 0 
         },
-        "fecha" : "05.05.2022"
+        "fecha" : "05.05.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"Encargo para el curso de taller"
+        }
     },
     "0003": {
         "esp":{
             "Tarot la Vega":{
-                "01" : {
-                    "text" : "Encargo Taller sobre la Vega"
-                },
-                "02" : {
-                    "img" : "https://drive.google.com/uc?export=download&id=1pWqe7F8nmUuv00GffGznAgZUSuig2Kdu"
-                },
-                "03":{
+                "a3":{
                     "text":"El encargo consiste en buscar inspiración en la Vega de Santiago de Chile, utilizando el entorno para crear un tarot con técnica y estética libre."
                 },
-                "04":{
+                "a2" : {
+                    "img" : "https://drive.google.com/uc?export=download&id=1pWqe7F8nmUuv00GffGznAgZUSuig2Kdu"
+                },
+                
+                "a4":{
                     "img" : "https://drive.google.com/uc?export=download&id=1hyQPKhUk2huClioUugR_DCrBhKvdx--I"
                 },
-                "05":{
+                "a5":{
                     "img" : "https://drive.google.com/uc?export=download&id=1m5soxy5q64oL3I1JkIu8rupbFJ8X88KP"
                 },
-                "06":{
+                "a6":{
                     "img" : "https://drive.google.com/uc?export=download&id=1PQdNRL3Riy8yOL5Hv2gcTafsZhrfASvf"
                 },
-                "07":{
+                "a7":{
                     "title" : "Mi solucion"
                 },
-                "08":{
+                "a8":{
                     "text":"Mi solución consistió en crear un collage utilizando las imágenes de las portadas de la revista 'The Saturday Evening Post' y darles un giro para reflejar la vida en la Vega, mostrando situaciones comunes del lugar. De esta manera, hice referencia a las respectivas cartas del tarot."
                 },
-                "09":{
+                "a9":{
                     "img" : "https://drive.google.com/uc?export=download&id=1G0fuSBMIlH5RcdaizJFReTtb2YzcVAZn"
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a3":{
+                "text":"The assignment consists of seeking inspiration in the Vega de Santiago de Chile, using the environment to create a tarot with free technique and aesthetics."
+            },"a8":{
+                "text":"My solution was to create a collage using the images from the covers of 'The Saturday Evening Post' magazine and give them a twist to reflect life in La Vega, showing common situations of the place. In this way, I made reference to the respective tarot cards."
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=1CRLFGVF5wG1SY7xbaKLAkzttqsVGp_VO"
@@ -98,32 +104,38 @@
             "Design" : 1,
             "Music" : 0 
         },
-        "fecha" : "05.07.2022"
+        "fecha" : "05.07.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"Encargo consiste en buscar inspiración en la Vega de Santiago de Chile"
+        }
     },
     "0004": {
         "esp":{
             "El sacristan post instagram":{
-                "01" : {
-                    "text" : "Encargo Taller sobre violeta parra"
+                "a1" : {
+                    "text" : "El encargo consistía en crear una publicacion de instagram basandose en una cancion de la cantautora Violeta Parra"
                 },
-                "02" : {
+                "a2" : {
                     "img" : "https://drive.google.com/uc?export=download&id=1_Jac8myDYx1xX-gxAXGa5hqO7Jrc8PxW"
                 },
-                "03":{
+                "a3":{
                     "img" : "https://drive.google.com/uc?export=download&id=1GPYLyXeSLh7FoNqXIOCXt50qYyQcJYZN"
                 },
-                "04":{
+                "a4":{
                     "text":"Para poder ver el Instagram y otros proyectos, haz clic en el enlace proporcionado."
                 },
-                "05":{
+                "a5":{
                     "link":"https://www.instagram.com/parraytierra/"
-                },"06":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "The assignment consisted of creating an instagram post based on a song by the singer-songwriter Violeta Parra"
+            },"a4":{
+                "text":"To view the Instagram and other projects, click on the link provided."
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=1o38QVpTyhfGv3utId9Dd7rcE6PjCPrYh"
@@ -133,32 +145,41 @@
             "Design" : 1,
             "Music" : 1 
         },
-        "fecha" : "09.11.2022"
+        "fecha" : "09.11.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"Encargo Taller sobre violeta parra"
+        }
     },
     "0005": {
         "esp":{
             "Pagina builds LOL":{
-                "01" : {
-                    "text" : "Pagina para crear y analizar builds del juego LOL"
+                "a1" : {
+                    "text" : "Pagina para crear y analizar builds del juego League of legends"
                 },
-                "02":{
+                "a2":{
                     "img":"https://drive.google.com/uc?export=download&id=1FYaUOE57QCSNn5sspga3UFDgdlnaTgAe"
                 },
-                "03":{
+                "a3":{
                     "text":"El objetivo de esta página web es analizar las builds de los campeones del juego League of Legends, enfrentando a dos campeones para determinar cuántos golpes básicos puede resistir tu personaje antes de morir."
                 },
-                "04":{
+                "a4":{
                     "img":"https://drive.google.com/uc?export=download&id=1PC7k-2Mi21IGZAV-WjHuXUIaYVp-EPMC"
                 },
-                "05":{
+                "a5":{
                     "text":"EL PROYECTO POR AHORA ES PRIVADO PROXIMAMENTE SERA PUBLICADO"
-                },"06":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "Website to create and analyze builds of the League of legends game"
+            },"a3":{
+                "text":"The objective of this website is to analyze the builds of the champions of the League of Legends game, pitting two champions against each other to determine how many basic hits your character can withstand before dying."
+            },
+            "a5":{
+                "text":"THE PROJECT IS PRIVATE FOR NOW, IT WILL BE PUBLISHED SOON"
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=12roCGzpLNjQdUid-WYF0F6nXy9uFs6Zp"
@@ -168,30 +189,34 @@
             "Design" : 0,
             "Music" : 0 
         },
-        "fecha" : "21.02.2023"
+        "fecha" : "21.02.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"Pagina para crear y analizar builds del juego LOL"
+        }
     },
     "0006": {
         "esp":{
             "SNKRS megazine":{
-                "01" : {
+                "a1" : {
                     "text" : "Revista para el curso de instrumental"
-                },"02":{
+                },"a2":{
                     "img":"https://drive.google.com/uc?export=download&id=1TdFhmVjDEIdLAHl2v_df5SDmijTaeATG"
-                },"03":{
+                },"a3":{
                     "img":"https://drive.google.com/uc?export=download&id=1Nt9vJIn0hiYztXkDPNYBFfmUZ_zqV6SE"
-                },"04":{
+                },"a4":{
                     "img":"https://drive.google.com/uc?export=download&id=1JoSVbRMdMGkiAQ1P9pOVhr5WsFdW7yXf"
-                },"05":{
+                },"a5":{
                     "img":"https://drive.google.com/uc?export=download&id=12mOtRNVW2WqBxpMJEDzrkr9nTpjtteyt"
-                },"06":{
+                },"a6":{
                     "img":"https://drive.google.com/uc?export=download&id=1T9v8HUFMpEb622xYd4G4lP0NIVpxwlvI"
-                },"07":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "Magazine for the instrumental course"
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=17fPbT1E8cKKyGZt7TFJ6PFFPwByRSoYZ"
@@ -201,24 +226,28 @@
             "Design" : 1,
             "Music" : 0 
         },
-        "fecha" : "04.04.2023"
+        "fecha" : "04.04.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"Revista para el curso de instrumental"
+        }
     },
     "0007": {
         "esp":{
             "Molchat Doma afiche":{
-                "01" : {
+                "a1" : {
                     "text" : "Afiche de la banda Molchat Doma"
-                },"02":{
+                },"a2":{
                     "img":"https://drive.google.com/uc?export=download&id=1_IT1XH9Jm9sltOlrHOHSmUznK-QDym_7"
-                },"03":{
+                },"a3":{
                     "img":"https://drive.google.com/uc?export=download&id=1j_MxDSqilFvN-pV4DFjNHBoAQuUX5jwv"
-                },"04":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "Molchat Doma band poster"
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=1lLavfMFwxFFAlNcKGh1em9gZ-ktD8WVQ"
@@ -228,34 +257,38 @@
             "Design" : 1,
             "Music" : 1 
         },
-        "fecha" : "29.05.2023"
+        "fecha" : "29.05.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"Afiche de la banda Molchat Doma"
+        }
     },
     "0008": {
         "esp":{
             "Libro La llamada de Cthulhu":{
-                "01" : {
+                "a1" : {
                     "text" : "Libro la llamada de Cthulhu"
-                },"02":{
+                },"a2":{
                     "img":"https://drive.google.com/uc?export=download&id=11Z4jn77Ig18ELAJHvbzoNy9kvxAloqzu"
-                },"03":{
+                },"a3":{
                     "img":"https://drive.google.com/uc?export=download&id=1aXgrUVfVTcb3pEvGfoceHKYR1-eMqrWb"
-                },"04":{
+                },"a4":{
                     "img":"https://drive.google.com/uc?export=download&id=1H8LxbOrprSBuQDKdinfuT5FDq2-Dypwh"
-                },"05":{
+                },"a5":{
                     "img":"https://drive.google.com/uc?export=download&id=1x3N_DUDfVhmKjBYR7Is7NubVWGD20QgQ"
-                },"06":{
+                },"a6":{
                     "img":"https://drive.google.com/uc?export=download&id=1S5aZDDmyeYvRaIjAvNhMll0tCag7anBn"
-                },"07":{
+                },"a7":{
                     "img":"https://drive.google.com/uc?export=download&id=1XthbhkYDjC2_ufYqcl9Dcm9FCHzLe9sm"
-                },"08":{
+                },"a8":{
                     "img":"https://drive.google.com/uc?export=download&id=1WLP6CP1x0gmHriIap_i45tZzoVaewklL"
-                },"09":{
-                    "disc":"Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real."
                 }
             }            
         },
         "eng":{
-            "test" : "lorem ipsum"
+            "a1" : {
+                "text" : "Call of Cthulhu book"
+            }
         },
         "img":{
             "link" : "https://drive.google.com/uc?export=download&id=1H6QDz8lq7BQR8ZM2Cld8lYBdVg0ZJPQl"
@@ -265,6 +298,10 @@
             "Design" : 1,
             "Music" : 0 
         },
-        "fecha" : "27.06.2023"
+        "fecha" : "27.06.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"Libro la llamada de Cthulhu"
+        }
     }
 }

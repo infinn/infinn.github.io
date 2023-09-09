@@ -46,6 +46,10 @@ a{
 .fift{
     width: 50%;
 }
+#lenguaje{
+    font-weight: 800;
+    font-size: 1.2rem;
+}
 #ab{
     display: flex;
     justify-content: right;
@@ -54,10 +58,10 @@ a{
     margin-left: 15px;
 }
 .main{
-    padding: 3dvw;
+    
     display: flex;
     flex-direction: column;
-    width: 80dvw;
+    width: 100%;
     justify-content: space-between;
 }
 
@@ -86,8 +90,9 @@ a{
 }
 .post{
     display: flex;
-    margin-top: 1rem;
-    margin-bottom: 1.2rem;
+}
+.post a{
+    margin: 0;
 }
 #centro{
     margin: 5dvw;
@@ -101,10 +106,10 @@ a{
 }
 #descripcion{
     width: 50%;
-    padding-bottom: 30px;
     font-size: 1rem;
     left: 0;
     font-weight: 300;
+    margin-right: 1rem;
 }
 #titulo2{
     justify-content: left;
@@ -134,11 +139,48 @@ footer{
     transition: 0.5s;
     transform: translate(0, -5px);
 }
-
-#disclaimer h2{
+#disclaimer{
+    margin-top: 2rem;
+}
+#disclaimer p{
     font-size: 0.7rem;
     color: rgb(184, 184, 184);
     font-weight: 300;
+    margin: 0;
+}
+#descripcionContenedor{
+    width: 100%;
+    display: flex;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+#inglesDivisor{
+    display: none;
+}
+#foto.active{
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 3;
+    top: 0;
+    left: 0;
+    
+}
+#foto.active img{
+    width: 50%;
+}
+#foto.active::after{
+    content: "";
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.50);
+    z-index: -1;
 }
 @media screen and (max-width: 900px){
     .main{
@@ -155,13 +197,15 @@ footer{
     }
     #descripcion{
         width: 100%;
-        padding: 3dvw;
     }
-    #disclaimer h2{
-        padding: 3dvw;
+    #descripcionContenedor{
+        display: block;
+        width: 100%;
+        padding: 1rem;
     }
-        
-    
+    .post a{
+        margin: 1rem;
+    }
 
     #titulo2{
         font-size: 15px;
@@ -177,6 +221,15 @@ footer{
     }
     #preload{
         font-size: 2rem;
+    }
+    #lenguaje{
+        display: none;
+    }
+    #inglesDivisor{
+        display: block;
+    }
+    #disclaimer p{
+        margin: 1rem;
     }
 }
 @media screen and (max-width: 500px){

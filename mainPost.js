@@ -15,7 +15,6 @@ function crearPost(datos){
     let keysPost = Object.keys(datos);
 
     let posicion = keysPost.indexOf(seccion);
-    console.log(posicion)
     if (posicion == -1){
         const father = document.querySelector(".mainPostFoto");
 
@@ -26,8 +25,8 @@ function crearPost(datos){
         let datosGeneral = datos[keysPost[posicion]]["esp"];
         let titulo = Object.keys(datosGeneral);
         document.title=titulo;
-
-
+        const padre = document.querySelector(".main");
+        
         const father = document.querySelector(".mainPostFoto");
 
 
@@ -35,9 +34,12 @@ function crearPost(datos){
         articulos.innerHTML = '<div id="topp"><img src="'+datos[keysPost[posicion]]["img"]["link"]+'"><h1>'+titulo[0]+'</h1></div>';
         father.appendChild(articulos);
         
-        
+        let inglesEspañol = document.createElement("div");
+        inglesEspañol.innerHTML = '<div class="fift" id="lenguaje"> <p> ESP </p> </div><div class="fift"  id="lenguaje"> <p> ENG</p> </div> ';
+        inglesEspañol.setAttribute("class", "post");
+        padre.appendChild(inglesEspañol);
 
-        
+
         let a1 = datos[keysPost[posicion]]["esp"][titulo];
         let Npost = Object.keys(a1);
         
@@ -51,57 +53,51 @@ function crearPost(datos){
             let ref = datos[keysPost[posicion]]["esp"][titulo][Npost[i]][tipo];
             i = i + 1;
             if(tipo[0] == "text"){
-                const padre = document.querySelector(".main");
+                let ingles = datos[keysPost[posicion]]["eng"][Npost[i-1]][tipo];
+
+                
                 let articulo = document.createElement("div");
-                articulo.innerHTML = '<h2 id="descripcion">'+ref+'</h2>';
+                articulo.innerHTML = '<div id="descripcionContenedor"><p id="descripcion">'+ref+'</p><hr id="inglesDivisor"><p id="descripcion">'+ingles+'</p></div>';
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
             }   else if (tipo[0] == "img"){
-                const padre = document.querySelector(".main");
+                
                 let articulo = document.createElement("div");
                 articulo.innerHTML = '<img src="'+ref+'" id="fotopost">';
                 articulo.setAttribute("id", "foto");
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
             }   else if (tipo[0] == "title"){
-                const padre = document.querySelector(".main");
+                
                 let articulo = document.createElement("div");
                 articulo.innerHTML = '<h1>'+ref+'</h1>';
                 articulo.setAttribute("id", "titulo2");
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
             }   else if (tipo[0] == "link"){
-                const padre = document.querySelector(".main");
+                
                 let articulo = document.createElement("div");
                 articulo.innerHTML = '<a href="'+ref+'" target="_blank"> Click here </a>';
                 articulo.setAttribute("id", "descripcion");
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
-            }   else if(tipo[0] == "disc"){
-                const padre = document.querySelector(".main");
-                let articulo = document.createElement("div");
-                articulo.innerHTML = '<h2>'+ref+'</h2>';
-                articulo.setAttribute("id", "disclaimer");
-                articulo.setAttribute("class", "post");
-                padre.appendChild(articulo);
             }
         }
-        
+        let articulo = document.createElement("div");
+
+        articulo.innerHTML = '<p>Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas. Si bien se han realizado esfuerzos para garantizar la precisión y la calidad de los resultados presentados, no se puede garantizar su total exactitud o validez en un entorno real.</p>';
+        articulo.setAttribute("id", "disclaimer");
+        articulo.setAttribute("class", "post");
+        padre.appendChild(articulo);
     }
+    
+
     const more = document.getElementById("more");
     const largo = keysPost.length;
-    let check = 0;
-    while (check == 0){
-        let x = random(0,largo);
-        if (x == posicion){
-            check = 0;
-        }   else if (x != posicion){
-            let nuevo = keysPost[x];
-            more.href="post.html?post="+nuevo;
-            check = 1;
-        }   else if (x>largo){
-            check =0;
-        }
+    if (keysPost[posicion -1]== undefined){
+        more.href="post.html?post="+[keysPost[largo-1]]
+    }   else{
+        more.href="post.html?post="+keysPost[posicion -1]
     }
     
 } 
@@ -110,9 +106,25 @@ function random(min,max){
     return Math.round(Math.random() * (max - min) + min);
 }
 window.onload = function(){
-    
-
     document.getElementById("preload").style.display = "none";
     var element = document.getElementById("test");
     element.classList.remove("hidden");
 }
+/*
+document.querySelectorAll(".main img").forEach(el=>{
+    el.addEventListener("click",function(ev){
+        ev.stopPropagation();
+        this.parentNode.classList.add("active");
+        console.log("click");
+    })
+});
+document.querySelectorAll(".main").forEach(el=>{
+    el.addEventListener("click", function(ev){
+        this.classList.remove("active");
+        console.log("click");
+    })
+})
+function AbrirImagen(){
+    console.log("click");
+};
+document.getElementById('foto').addEventListener('click', AbrirImagen());*/
