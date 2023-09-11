@@ -2,6 +2,12 @@ const keysUrl = window.location.search;
 const urlParametros = new URLSearchParams(keysUrl);
 let seccion = urlParametros.get("post");
 
+window.onload = function(){
+    document.getElementById("preload").style.display = "none";
+    var element = document.getElementById("test");
+    element.classList.remove("hidden");
+}
+
 const lol = new XMLHttpRequest();
 lol.open("GET", "Data/post.json", true);
 lol.send();
@@ -105,11 +111,7 @@ function crearPost(datos){
 function random(min,max){
     return Math.round(Math.random() * (max - min) + min);
 }
-window.onload = function(){
-    document.getElementById("preload").style.display = "none";
-    var element = document.getElementById("test");
-    element.classList.remove("hidden");
-}
+
 /*
 document.querySelectorAll(".main img").forEach(el=>{
     el.addEventListener("click",function(ev){

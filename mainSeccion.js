@@ -2,6 +2,14 @@ const keysUrl = window.location.search;
 const urlParametros = new URLSearchParams(keysUrl);
 let seccion = urlParametros.get("sec");
 
+window.onload = function(){
+    
+
+    document.getElementById("preload").style.display = "none";
+    var element = document.getElementById("test");
+    element.classList.remove("hidden");
+};
+
 const lol = new XMLHttpRequest();
 lol.open("GET", "Data/post.json", true);
 lol.send();
@@ -39,20 +47,14 @@ function crearPost(datos){
 
 
         if(categorias == 1){
-            const padre = document.querySelector(".here")
-            let articulo = document.createElement("article")
-            articulo.innerHTML = '<div class="fift" id="fotoSeccion"><div id="fotoSeccion"><a href="post.html?post='+keysPost[i]+'"><img src="'+imagen+'" id="fotoSeccion"></a></div></div><div class="fift" id="seccionArreglo"><div id="info"><a href="post.html?post='+keysPost[i]+'">'+nombre+'</a><h2>'+descripcion+'</h2></div></div>'
-            padre.appendChild(articulo)
-            articulo.setAttribute("id", "seccionPost")
-        }
+            const padre = document.querySelector(".here");
+            let articulo = document.createElement("article");
+            articulo.innerHTML = '<div class="fift" id="fotoSeccion"><div id="fotoSeccion"><a href="post.html?post='+keysPost[i]+'"><img src="'+imagen+'" id="fotoSeccion"></a></div></div><div class="fift" id="seccionArreglo"><div id="info"><a href="post.html?post='+keysPost[i]+'">'+nombre+'</a><h2>'+descripcion+'</h2></div></div>';
+            padre.appendChild(articulo);
+            articulo.setAttribute("id", "seccionPost");
+        };
         
-    }
+    };
     
-}
-window.onload = function(){
-    
+};
 
-    document.getElementById("preload").style.display = "none";
-    var element = document.getElementById("test");
-    element.classList.remove("hidden");
-}
