@@ -12,6 +12,7 @@ body{
     margin: 5rem;
     margin-top: 0;
     max-width: 1980px;
+    width: 80vw;
 }
 header{
     display: flex;
@@ -74,7 +75,9 @@ footer a:hover{
     width: 25%;
     display: flex;
 }
-
+hr{
+    z-index: 1;
+}
 .fift{
     width: 50%;
     margin: 10px;
@@ -107,6 +110,7 @@ footer a:hover{
     transition: 0.5s;
     object-fit: cover;
     width: 100%;
+    z-index: -1;
 }
 .post{
     display: flex;
@@ -129,12 +133,12 @@ footer a:hover{
     margin: 10px;
 }
 #name{
-    font-size: 3rem;
+    font-size: 2.5rem;
     justify-content: left;
     font-weight: 800;
 }
 #texto{
-    font-size: 7rem;
+    font-size: 8vw;
     padding: 5px;
     display: flex;
     flex-direction: column;
@@ -168,6 +172,7 @@ a{
     top: 7.5dvw;
     font-size: 2rem;
     font-weight: 800;
+    margin: 2rem;
 }
 #info h2{
     padding: 0;
@@ -204,10 +209,15 @@ a{
     margin-top: 1rem;
     margin-bottom: 1rem;
 }
-
+@media screen and (min-width: 1980px){
+    #texto{
+        font-size: 9rem;
+        
+    }
+}
 @media screen and (max-width: 900px){
     body{
-        
+        width: 100vw;
         margin: 0;
     }
     .post{
@@ -216,7 +226,6 @@ a{
     }
     #texto{
         margin: 1rem;
-        font-size: 3.5rem;
     }
     #seccionPost{
         flex-direction: column;
@@ -302,7 +311,7 @@ a{
         display: none;
     }
     #texto{
-        font-size: 1.7rem;
+        font-size: 2rem;
     }
     .encabezado{
         display: none;

@@ -247,6 +247,9 @@ footer{
     #more{
         font-size: 2rem;
     }
+    #topp h1{
+        font-size: 2rem;
+    }
 }
 
 @keyframes show {
