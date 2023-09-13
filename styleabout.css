@@ -2,6 +2,8 @@ html {
     scroll-behavior: smooth;
     color: white;
     user-select: none;
+    display: flex;
+    justify-content: center;
 }
 body{
     font-family: 'Montserrat', sans-serif;
@@ -163,5 +165,14 @@ header{
     }
     .fif{
         width: 100%;
+    }
+}
+@media (prefers-color-scheme: light){
+    body{
+        background-color: #E2E2DE;
+        color: #1c1c1c;
+    }
+    a {
+        color: #1c1c1c;
     }
 }

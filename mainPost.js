@@ -26,6 +26,7 @@ function crearPost(datos){
 
         let articulos = document.createElement("article");
         articulos.innerHTML = '<div id="notfound">404 NOT FOUND ;(</div>';
+        document.title="404 ;c";
         father.appendChild(articulos);
     }else {
         let datosGeneral = datos[keysPost[posicion]]["esp"];

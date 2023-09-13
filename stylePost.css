@@ -2,6 +2,8 @@ html {
     scroll-behavior: smooth;
     color: white;
     user-select: none;
+    display: flex;
+    justify-content: center;
 }
 body{
     font-family: 'Montserrat', sans-serif;
@@ -242,6 +244,9 @@ footer{
     #top h1{
         font-size: 1.5rem;
     }
+    #more{
+        font-size: 2rem;
+    }
 }
 
 @keyframes show {
@@ -251,6 +256,19 @@ footer{
     to {
         opacity: 1;
     }
+}
+@media (prefers-color-scheme: light){
+    body{
+        background-color: #E2E2DE;
+        color: #1c1c1c;
+    }
+    a {
+        color: #1c1c1c;
+    }
+    #topp, #mainName, .letrasTop, #more{
+        color: #E2E2DE;
+    }
+
 }
 
 

@@ -18,18 +18,19 @@ lol.onreadystatechange = function(){
         let datos = JSON.parse(this.responseText);
         if (seccion == "Design"){
             document.getElementById("work").innerHTML="DISEÑO";
-            document.title="DISEÑO";
+            document.title="Diseño";
             crearPost(datos);
         }   else if(seccion == "Music"){
             document.getElementById("work").innerHTML="MUSICO";
-            document.title="MUSICO";
+            document.title="Musico";
             crearPost(datos);
         }   else if(seccion == "Developer"){
             document.getElementById("work").innerHTML="DEV";
-            document.title="PROGRAMADOR";
+            document.title="Programador";
             crearPost(datos);
         }   else{
             document.getElementById("work").innerHTML="404 NOT FOUND ;(";
+            document.title="404 ;c";
         }
     }
 };
