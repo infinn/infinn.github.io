@@ -29,7 +29,7 @@ function crearPost(datos){
 
         const padre = document.querySelector(".here");
         let articulo = document.createElement("article");
-        articulo.innerHTML = '<div class="encabezado"></div><div class="post"><div class="fift" id="Numero"><p id="NumeroPst">#'+(i+1)+'</p></div><div class="fift" id="fotopost"><div id="foto" ><a href="post.html?post='+keysPost[i]+'"><img src="'+imagen+'" id="foto"</a></div><div id="name"><p>'+nombre[0]+'</p></div></div></div>'
+        articulo.innerHTML = '<div class="encabezado"></div><div class="post"><div class="fift" id="Numero"><p id="NumeroPst">#'+(i+1)+'</p></div><div class="fift" id="fotopost"><div id="foto" ><a href="post.html?post='+keysPost[i]+'"><img src="'+imagen+'" id="foto"</a></div><div id="name"><h2>'+nombre[0]+'</h2></div></div></div>'
         padre.appendChild(articulo);
         articulo.setAttribute("id", "postGeneral");
         console.log(i);

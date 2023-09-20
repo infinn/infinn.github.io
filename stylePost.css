@@ -195,7 +195,8 @@ footer{
         padding: 3dvw;
     }
     #titulo2{
-        padding: 3dvw;
+        padding: 1rem;
+        font-size: 1.5rem;
     }
     #descripcion{
         width: 100%;
@@ -209,9 +210,6 @@ footer{
         margin: 1rem;
     }
 
-    #titulo2{
-        font-size: 15px;
-    }
     #centro{
         margin: 0;
     }

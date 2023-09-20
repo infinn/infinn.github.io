@@ -18,15 +18,15 @@ lol.onreadystatechange = function(){
         let datos = JSON.parse(this.responseText);
         if (seccion == "Design"){
             document.getElementById("work").innerHTML="DISEÑO";
-            document.title="Diseño";
+            document.title="Matias Quilodran | Diseño";
             crearPost(datos);
         }   else if(seccion == "Music"){
             document.getElementById("work").innerHTML="MUSICO";
-            document.title="Musico";
+            document.title="Matias Quilodran | Musico";
             crearPost(datos);
         }   else if(seccion == "Developer"){
             document.getElementById("work").innerHTML="DEV";
-            document.title="Programador";
+            document.title="Matias Quilodran | Programador";
             crearPost(datos);
         }   else{
             document.getElementById("work").innerHTML="404 NOT FOUND ;(";
