@@ -6,6 +6,7 @@ window.onload = function(){
     document.getElementById("preload").style.display = "none";
     var element = document.getElementById("test");
     element.classList.remove("hidden");
+    
 }
 
 const lol = new XMLHttpRequest();
@@ -45,7 +46,7 @@ function crearPost(datos){
         inglesEspañol.innerHTML = '<div class="fift" id="lenguaje"> <p> ESP </p> </div><div class="fift"  id="lenguaje"> <p> ENG</p> </div> ';
         inglesEspañol.setAttribute("class", "post");
         padre.appendChild(inglesEspañol);
-
+ 
 
         let a1 = datos[keysPost[posicion]]["esp"][titulo];
         let Npost = Object.keys(a1);
@@ -70,7 +71,8 @@ function crearPost(datos){
             }   else if (tipo[0] == "img"){
                 
                 let articulo = document.createElement("div");
-                articulo.innerHTML = '<img src="'+ref+'" id="fotopost">';
+                let imagen = "image"+ i
+                articulo.innerHTML = '<button type="button" onclick="AbrirImagen('+imagen+')"><img src="'+ref+'" class="fotopost" id="image'+i+'"></button>';
                 articulo.setAttribute("id", "foto");
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
@@ -112,6 +114,9 @@ function crearPost(datos){
 function random(min,max){
     return Math.round(Math.random() * (max - min) + min);
 }
+function AbrirImagen(imagen){
+    console.log(imagen);
+};
 
 /*
 document.querySelectorAll(".main img").forEach(el=>{
@@ -130,4 +135,4 @@ document.querySelectorAll(".main").forEach(el=>{
 function AbrirImagen(){
     console.log("click");
 };
-document.getElementById('foto').addEventListener('click', AbrirImagen());*/
+document.getElementById('fotopost').addEventListener('click', AbrirImagen());*/
