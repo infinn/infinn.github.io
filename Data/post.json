@@ -500,5 +500,123 @@
             "eng":"",
             "esp":"El proyecto implica la creación de un afiche informativo destinado a concienciar sobre los Objetivos de Desarrollo Sostenible o Metas Globales."
         }
+    },
+    "0011":{
+        "esp":{
+            "Intervención Valparaíso":{
+                "a1":{
+                    "text" :"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso, Chile. Esta intervención tiene como fin crear conciencia entre los ciudadanos acerca de uno de los Objetivos de Desarrollo Sostenible (ODS). A cada agencia se le asignará un espacio para intervenir, que puede ser una muralla, suelos, infraestructura o incluso el entorno aéreo. Tanto el lugar de intervención como la forma de llevar a cabo la misma serán determinados por cada agencia de manera independiente."
+                },
+                "a3*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1LE99S-RgDR7VOIHcIgUTCY4o3QpThoTh"
+                },
+                "a2":{
+                    "title":"InSitu"
+                },
+                "a3":{
+                    "text":"Pronunciación: [in-sítu], que significa 'en el lugar, sobre el terreno'. Nuestra agencia de diseño se compone de Matías Quilodrán, Cristian Verdejo, Javier Calquín y Daniela Aedo. Como agencia, nuestra misión es narrar historias, evocar emociones y enriquecer la vida de las personas a través del diseño. Transformamos espacios en entornos con profundidad e identidad, destinados a la reflexión y la contemplación."
+                },
+                "a4":{
+                    "title":"Nuestra Propuesta"
+                },"a2*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1ero0ZbXfB_iF3eAQ7xwVQ3pklm56Qb6J"
+                },
+                "a5":{
+                    "text":"El espacio asignado para nuestra intervención fue el suelo, lo que nos llevó a comprender que su función principal es facilitar el desplazamiento. Por lo tanto, decidimos centrarnos en la mejora de la experiencia de transitar. Con esta premisa, concluimos que el lugar idóneo para nuestra intervención sería una escalera, un verdadero ícono de la ciudad de Valparaíso debido a su topografía montañosa. Las escaleras representan un lugar ideal para transitar, detenerse y contemplar."
+                },
+                "a6":{
+                    "text":"Como primer paso de nuestra intervención, creamos un afiche que presenta nuestra propuesta con un diagrama que ilustra la ejecución del proyecto. Como agencia, decidimos enfocarnos en el ODS 6, 'Agua y Saneamiento'. Nuestra propuesta se centró en la creación de 'Río de Pasos', una serie de cintas que representan la cantidad de agua utilizada en la ciudad de Valparaíso en forma de porcentajes, demostrando cómo se emplea en diferentes aspectos de la vida cotidiana. Al ubicar esta instalación en la escalera, buscamos establecer una conexión entre el esfuerzo requerido para subir los escalones y el esfuerzo hídrico que enfrenta la ciudad y la región."
+                },
+                "a1*":{
+                    "img":"https://drive.google.com/uc?export=download&id=18OJ5pwT1dUwlI5HgSXBGJZxYIp7CslQx"
+                },
+                "a7":{
+                    "title":"Intervención"
+                },
+                "a5*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1284MyLTsAEdIXrDbnqv-_nhbv1HrTMdu"
+                },
+                "a8":{
+                    "text":"La escalera seleccionada para llevar a cabo la intervención se encuentra en la Avenida España, justo enfrente de la Universidad Técnica Federico Santa María. Esta escalera desempeña un papel crucial como un punto de paso esencial, ya que conecta la playa Los Placeres con la carretera adyacente, atravesando sobre la línea del metro tren de Valparaíso. Click en el link para ver la ubicación"
+                },
+                "a8-2":{
+                    "link":"https://maps.app.goo.gl/Yywcz3NvAgNB8o8Y9"
+                },
+                "a9":{
+                    "text":"Para dar vida a nuestra propuesta, creamos cinco patrones distintos para cada uno de los elementos propuestos. Estos patrones se imprimieron en papel bond con tecnología láser y se adhirieron utilizando una mezcla de cola y agua. Esta elección permite que la intervención sea efímera, pero a la vez duradera en su impacto."
+                },
+                "a4*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1JMXL70rAjfmVwlsfomtQpMfQJosrOhBO"
+                },
+                
+                "a6*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1rKUojYXu_sK5Mawrqcd2GEN0wo-lqExh"
+                },
+                "a7*":{
+                    "img":"https://drive.google.com/uc?export=download&id=187EdNrn_XLNEs-X3oibd7g26Ode-QI49"
+                },
+                "a10":{
+                    "title":"Recepción"
+                },
+                "a11":{
+                    "text":"La respuesta al proyecto fue mayormente positiva. La mayoría de las personas que se acercaban a observar tomaban fotos y nos hacían preguntas sobre la iniciativa. En general, les pareció interesante la elección de abordar la problemática del agua y el enfoque en concienciar sobre este tema. Sin embargo, es importante señalar que el lugar elegido no es muy concurrido. Optamos por este lugar debido a que la instalación requería varias horas de trabajo, y como agencia, deseábamos evitar que la instalación obstaculizara el flujo normal de la ciudad."
+                },
+                "a8*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1SpZMcLAPRtbQ2iYIf0UpQZxVjw7w5yiz"
+                },
+                "a9*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1FN6AZnwnh9_twqTLtEWLvlJAiT2ZSLFc"
+                },
+                "a10*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1beEkJp44xet_nTkskK5TxPN6-56bAZd_"
+                },
+                "a12":{
+                    "text":"La intervención se mantuvo en su lugar con la intención de que desapareciera gradualmente con el paso de las personas, la influencia del agua marina y las lluvias, ya que siempre fue nuestro enfoque. Sin embargo, el período de su permanencia es incierto, por lo que diseñamos una serie de patrones de modo que, aunque la información se desvanezca, permanezca como una forma decorativa."
+                },
+                "a11*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1KP6aEKkRpYEdn5wqcxVVZr2F9lK5sUMO"
+                }
+
+            }            
+        },
+        "eng":{
+            "a1":{
+                "text" :"The assignment involves forming groups with the purpose of establishing a fictional design agency, with the objective of carrying out an intervention in the city of Valparaíso, Chile. This intervention aims to raise awareness among citizens about one of the Sustainable Development Goals (SDGs). Each agency will be assigned a space to intervene, which can be a wall, floors, infrastructure, or even the aerial environment. Both the intervention location and the method of execution will be determined independently by each agency."
+            },
+            "a3":{
+                "text":"Pronunciation: [in-situ], which means 'in place, on-site.' Our design agency is composed of Matías Quilodrán, Cristian Verdejo, Javier Calquín, and Daniela Aedo. As an agency, our mission is to tell stories, evoke emotions, and enrich people's lives through design. We transform spaces into environments with depth and identity, intended for reflection and contemplation."
+            },
+            "a5":{
+                "text":"The space assigned for our intervention was the ground, which led us to understand that its main function is to facilitate movement. Therefore, we decided to focus on improving the transit experience. With this premise, we concluded that the ideal place for our intervention would be a staircase, a true icon of the city of Valparaíso due to its hilly topography. Stairs provide an ideal space for transit, stopping, and contemplation."
+            },
+            "a6":{
+                "text":"As the first step of our intervention, we created a poster presenting our proposal with a diagram illustrating the project's execution. As an agency, we decided to focus on SDG 6, 'Clean Water and Sanitation.' Our proposal revolved around the creation of 'River of Steps,' a series of ribbons representing the amount of water used in the city of Valparaíso in the form of percentages, demonstrating how it is employed in various aspects of daily life. By placing this installation on the staircase, we aimed to establish a connection between the effort required to climb the steps and the water-related challenges faced by the city and the region."
+            },
+            "a8":{
+                "text":"The selected staircase for the intervention is located on Avenida España, right in front of the Federico Santa María Technical University. This staircase plays a crucial role as a vital crossing point, connecting Los Placeres Beach with the adjacent road, spanning over the Valparaíso Metro train line. Click on the link to view the location."
+            },
+            "a9":{
+                "text":"To bring our proposal to life, we created five different patterns for each of the proposed elements. These patterns were printed on bond paper using laser technology and were adhered using a mixture of glue and water. This choice allows the intervention to be ephemeral, yet enduring in its impact"
+            },
+            "a11":{
+                "text":"The response to the project was mostly positive. Most people who approached to observe took photos and asked us questions about the initiative. Overall, they found the choice to address the issue of water and raise awareness about it interesting. However, it's important to note that the chosen location is not very crowded. We opted for this location because the installation required several hours of work, and as an agency, we wanted to avoid disrupting the city's normal flow."
+            },
+            "a12":{
+                "text":"The intervention was intended to gradually disappear over time due to people passing by, the influence of seawater, and rainfall, as it was always our focus. However, the duration of its permanence is uncertain, so we designed a series of patterns so that, even as the information fades, it remains as a decorative form"
+            }
+        },
+        "img":{
+            "link" : "https://drive.google.com/uc?export=download&id=1CwsT7KqQEP3DgDVj6FMClUPXC3lH3gDd"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "26.10.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso."
+        }
     }
 }

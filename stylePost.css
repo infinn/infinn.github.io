@@ -4,10 +4,10 @@ html {
     user-select: none;
     display: flex;
     justify-content: center;
+    font-family: 'Montserrat', sans-serif;
 }
 body{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
+    
     background-color: #1c1c1c;
     margin: 0;
     font-size: 0.7rem;
@@ -40,7 +40,6 @@ button{
     flex-direction: column;
     justify-content: flex-end;
 }
-
 
 .designHeader{
     padding: 2dvw;

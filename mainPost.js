@@ -32,7 +32,7 @@ function crearPost(datos){
     }else {
         let datosGeneral = datos[keysPost[posicion]]["esp"];
         let titulo = Object.keys(datosGeneral);
-        document.title=titulo;
+        document.title=titulo+" | Matias Quilodran diseñador";
         const padre = document.querySelector(".main");
         
         const father = document.querySelector(".mainPostFoto");
