@@ -152,8 +152,6 @@ footer{
 #descripcionContenedor{
     width: 100%;
     display: flex;
-    margin-bottom: 2rem;
-    margin-top: 2rem;
 }
 #inglesDivisor{
     display: none;
@@ -228,6 +226,9 @@ footer{
         display: block;
     }
     #disclaimer p{
+        margin: 1rem;
+    }
+    #fecha{
         margin: 1rem;
     }
 }

@@ -6,7 +6,7 @@
                     "text" : "El encargo consistía en crear un afiche inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
                 },
                 "a2" : {
-                    "img" : "https://drive.google.com/uc?export=download&id=1u1Trd2NJ7gqSNzp475YHMgjn1qMmX37M"
+                    "img" : "/Data/images/Cosmos/cosmosPoster2.jpg"
                 }
             }            
         },
@@ -16,7 +16,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1VAPBMdefDwOnPFW9F7D3VO4ct4WrPE_v"
+            "link" : "/Data/images/Cosmos/CosmosPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -36,7 +36,7 @@
                     "text" : "Encargo para el curso de taller"
                 },
                 "a2" : {
-                    "img" : "https://drive.google.com/uc?export=download&id=1RK97FWLewdwqWQzsS5VzUaONGrh3H43A"
+                    "img" : "/Data/images/dualidad/aficheDualidad.jpg"
                 }
             }            
         },
@@ -46,7 +46,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=16Live7UCYTjYG_c7eP6EGcHFMgGXpDY1"
+            "link" : "/Data/images/dualidad/dualidadPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -66,17 +66,17 @@
                     "text":"El encargo consiste en buscar inspiración en la Vega de Santiago de Chile, utilizando el entorno para crear un tarot con técnica y estética libre."
                 },
                 "a2" : {
-                    "img" : "https://drive.google.com/uc?export=download&id=1pWqe7F8nmUuv00GffGznAgZUSuig2Kdu"
+                    "img" : "/Data/images/tarot/MockupTarot.jpg"
                 },
                 
                 "a4":{
-                    "img" : "https://drive.google.com/uc?export=download&id=1hyQPKhUk2huClioUugR_DCrBhKvdx--I"
+                    "img" : "/Data/images/tarot/tarot1.jpg"
                 },
                 "a5":{
-                    "img" : "https://drive.google.com/uc?export=download&id=1m5soxy5q64oL3I1JkIu8rupbFJ8X88KP"
+                    "img" : "/Data/images/tarot/tarot2.jpg"
                 },
                 "a6":{
-                    "img" : "https://drive.google.com/uc?export=download&id=1PQdNRL3Riy8yOL5Hv2gcTafsZhrfASvf"
+                    "img" : "/Data/images/tarot/tarot3.jpg"
                 },
                 "a7":{
                     "title" : "Mi solucion"
@@ -85,7 +85,7 @@
                     "text":"Mi solución consistió en crear un collage utilizando las imágenes de las portadas de la revista 'The Saturday Evening Post' y darles un giro para reflejar la vida en la Vega, mostrando situaciones comunes del lugar. De esta manera, hice referencia a las respectivas cartas del tarot."
                 },
                 "a9":{
-                    "img" : "https://drive.google.com/uc?export=download&id=1G0fuSBMIlH5RcdaizJFReTtb2YzcVAZn"
+                    "img" : "/Data/images/tarot/TarotCartas.jpg"
                 }
             }            
         },
@@ -97,7 +97,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1CRLFGVF5wG1SY7xbaKLAkzttqsVGp_VO"
+            "link" : "/Data/images/tarot/tarotPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -117,10 +117,10 @@
                     "text" : "El encargo consistía en crear una publicacion de instagram basandose en una cancion de la cantautora Violeta Parra"
                 },
                 "a2" : {
-                    "img" : "https://drive.google.com/uc?export=download&id=1_Jac8myDYx1xX-gxAXGa5hqO7Jrc8PxW"
+                    "img" : "/Data/images/Carrusel/sacristan1.jpg"
                 },
                 "a3":{
-                    "img" : "https://drive.google.com/uc?export=download&id=1GPYLyXeSLh7FoNqXIOCXt50qYyQcJYZN"
+                    "img" : "/Data/images/Carrusel/sacristan2.jpg"
                 },
                 "a4":{
                     "text":"Para poder ver el Instagram y otros proyectos, haz clic en el enlace proporcionado."
@@ -138,7 +138,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1o38QVpTyhfGv3utId9Dd7rcE6PjCPrYh"
+            "link" : "/Data/images/Carrusel/SacristanPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -158,13 +158,13 @@
                     "text" : "Pagina para crear y analizar builds del juego League of legends"
                 },
                 "a2":{
-                    "img":"https://drive.google.com/uc?export=download&id=1FYaUOE57QCSNn5sspga3UFDgdlnaTgAe"
+                    "img":"/Data/images/paginaLol/Pagina1.png"
                 },
                 "a3":{
                     "text":"El objetivo de esta página web es analizar las builds de los campeones del juego League of Legends, enfrentando a dos campeones para determinar cuántos golpes básicos puede resistir tu personaje antes de morir."
                 },
                 "a4":{
-                    "img":"https://drive.google.com/uc?export=download&id=1PC7k-2Mi21IGZAV-WjHuXUIaYVp-EPMC"
+                    "img":"/Data/images/paginaLol/Pagina2.png"
                 },
                 "a5":{
                     "text":"EL PROYECTO POR AHORA ES PRIVADO PROXIMAMENTE SERA PUBLICADO"
@@ -182,7 +182,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=12roCGzpLNjQdUid-WYF0F6nXy9uFs6Zp"
+            "link" : "/Data/images/paginaLol/paginaPortada.jpg"
         },
         "categoria":{
             "Developer" : 1,
@@ -201,15 +201,15 @@
                 "a1" : {
                     "text" : "Revista para el curso de instrumental"
                 },"a2":{
-                    "img":"https://drive.google.com/uc?export=download&id=1TdFhmVjDEIdLAHl2v_df5SDmijTaeATG"
+                    "img":"/Data/images/snkrs/snkr1.jpg"
                 },"a3":{
-                    "img":"https://drive.google.com/uc?export=download&id=1Nt9vJIn0hiYztXkDPNYBFfmUZ_zqV6SE"
+                    "img":"/Data/images/snkrs/snkr2.jpg"
                 },"a4":{
-                    "img":"https://drive.google.com/uc?export=download&id=1JoSVbRMdMGkiAQ1P9pOVhr5WsFdW7yXf"
+                    "img":"/Data/images/snkrs/snkr3.jpg"
                 },"a5":{
-                    "img":"https://drive.google.com/uc?export=download&id=12mOtRNVW2WqBxpMJEDzrkr9nTpjtteyt"
+                    "img":"/Data/images/snkrs/snkr4.jpg"
                 },"a6":{
-                    "img":"https://drive.google.com/uc?export=download&id=1T9v8HUFMpEb622xYd4G4lP0NIVpxwlvI"
+                    "img":"/Data/images/snkrs/snkr5.jpg"
                 }
             }            
         },
@@ -219,7 +219,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=17fPbT1E8cKKyGZt7TFJ6PFFPwByRSoYZ"
+            "link" : "/Data/images/snkrs/snkrsPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -238,13 +238,13 @@
                 "a1" : {
                     "text" : "La tarea implica seleccionar una banda para la cual crear un póster promocional de un concierto ficticio. Este afiche debe incluir detalles sobre el lugar, la fecha, el acto de apertura, así como información legal, incluyendo una empresa productora y una entidad encargada de la venta de entradas."
                 },"a2":{
-                    "img":"https://drive.google.com/uc?export=download&id=1_IT1XH9Jm9sltOlrHOHSmUznK-QDym_7"
+                    "img":"/Data/images/molchat/AficheMolchatDoma.jpg"
                 },"a3":{
                     "title":"Personaje"
                 },"a4":{
                     "text":"El personaje principal del póster fue creado por una inteligencia artificial llamada Dalle-2. La razón de elegir una imagen generada por inteligencia artificial se debe a que la banda seleccionada fusiona guitarras eléctricas tocadas por humanos con baterías generadas por computadoras en su música. Por lo tanto, el objetivo del póster es destacar esta combinación."
                 },"a5":{
-                    "img":"https://drive.google.com/uc?export=download&id=1j_MxDSqilFvN-pV4DFjNHBoAQuUX5jwv"
+                    "img":"/Data/images/molchat/Manik.png"
                 }
             }            
         },
@@ -257,7 +257,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1lLavfMFwxFFAlNcKGh1em9gZ-ktD8WVQ"
+            "link" : "/Data/images/molchat/molchatDomaPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -276,24 +276,24 @@
                 "a1" : {
                     "text" : "El encargo consistía en la creación de un libro físico diseñado en InDesign. Para familiarizarse con el programa, se permitía intervenir el libro tanto a través de manipulaciones tipográficas como mediante la inclusión de imágenes."
                 },"a2":{
-                    "img":"https://drive.google.com/uc?export=download&id=11Z4jn77Ig18ELAJHvbzoNy9kvxAloqzu"
+                    "img":"/Data/images/cutulo/portada1.jpg"
                 },"a4":{
                     "title":"La llamada de Cthulhu"
                 },
                 "a5":{
                     "text":"Para este proyecto, opté por seleccionar el libro La llamada de Cthulhu del autor H.P. Lovecraft."
                 },"a3":{
-                    "img":"https://drive.google.com/uc?export=download&id=1aXgrUVfVTcb3pEvGfoceHKYR1-eMqrWb"
+                    "img":"/Data/images/cutulo/cutulo1.jpg"
                 },"a6":{
-                    "img":"https://drive.google.com/uc?export=download&id=1H8LxbOrprSBuQDKdinfuT5FDq2-Dypwh"
+                    "img":"/Data/images/cutulo/cutulo2.jpg"
                 },"a7":{
-                    "img":"https://drive.google.com/uc?export=download&id=1x3N_DUDfVhmKjBYR7Is7NubVWGD20QgQ"
+                    "img":"/Data/images/cutulo/cutulo3.jpg"
                 },"a8":{
-                    "img":"https://drive.google.com/uc?export=download&id=1S5aZDDmyeYvRaIjAvNhMll0tCag7anBn"
+                    "img":"/Data/images/cutulo/cutulo4.jpg"
                 },"a9":{
-                    "img":"https://drive.google.com/uc?export=download&id=1XthbhkYDjC2_ufYqcl9Dcm9FCHzLe9sm"
+                    "img":"/Data/images/cutulo/cutulo5.jpg"
                 },"a10":{
-                    "img":"https://drive.google.com/uc?export=download&id=1WLP6CP1x0gmHriIap_i45tZzoVaewklL"
+                    "img":"/Data/images/cutulo/cutulo6.jpg"
                 },"a11":{
                     "title":"Sobre el proyecto"
                 },
@@ -317,7 +317,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1H6QDz8lq7BQR8ZM2Cld8lYBdVg0ZJPQl"
+            "link" : "/Data/images/cutulo/cutuloPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -343,7 +343,7 @@
                     "text":"El vermut es una bebida alcohólica aromatizada que se obtiene al macerar una variedad de hierbas, especias, frutas y raíces en vino blanco o vino tinto. Se caracteriza por su sabor amargo y su aroma complejo, y se puede disfrutar solo, en cócteles o como ingrediente en diversas recetas.Nuestro vermut será una experiencia ligera y delicada, con sutiles matices aromáticos. Nos esforzamos por evitar que te abrumes al beberlo, permitiendo que lo consideres incluso como una opción para acompañar tus comidas. Cada sorbo te transportará a un equilibrio perfecto entre sabor y frescura."
                 },
                 "a4":{
-                    "img":"https://drive.google.com/uc?export=download&id=1W9KZfD1jzzS3kPWGz96Uun-R2Dk7l2jF"
+                    "img":"/Data/images/duque/latas.jpg"
                 },
                 "a5":{
                     "title":"Nuestra narrativa"
@@ -355,10 +355,10 @@
                     "title":"Variedades"
                 },
                 "a8":{
-                    "img":"https://drive.google.com/uc?export=download&id=1DuMg-1bfrOCtFVTsijJnGOwGw4xRFoxp"
+                    "img":"/Data/images/duque/rose.jpg"
                 },
                 "a9":{
-                    "img":"https://drive.google.com/uc?export=download&id=19GuraAcMDU9QRoNbjJsXesbY-YnaeJm6"
+                    "img":"/Data/images/duque/rose2.jpg"
                 },
                 "a10":{
                     "title":"Cataluña Rose"
@@ -367,10 +367,10 @@
                     "text":"Combinación de vino blanco y vino tinto, esencia de la nuez moscada, un toque de cardamomo, la intriga del ajenjo y la serenidad de la naranja."
                 },
                 "a12":{
-                    "img":"https://drive.google.com/uc?export=download&id=1e-fg4hkVP-dYYhRKNO68foOwtuAAlqzn"
+                    "img":"/Data/images/duque/ROSSO.jpg"
                 },
                 "a13":{
-                    "img":"https://drive.google.com/uc?export=download&id=1hP0RruadOb3ZCegfLCn1D8MixMXOOF-2"
+                    "img":"/Data/images/duque/ROSSO2.jpg"
                 },
                 "a14":{
                     "title":"Piamonte Rosso"
@@ -379,10 +379,10 @@
                     "text":"Una mezcla perfecta de vino seleccionado, un toque de dulzura, un delicado equilibrio de alcohol, extracto aromatizado, un suave toque de caramelo y una pizca de vainilla."
                 },
                 "a16":{
-                    "img":"https://drive.google.com/uc?export=download&id=1TXNZ9xTiuJSCcRr-8fqflrrjQ5-40ZIO"
+                    "img":"/Data/images/duque/SECCO.jpg"
                 },
                 "a17":{
-                    "img":"https://drive.google.com/uc?export=download&id=1O01kb2XjNGfJH8GAd-w4R-XSfm78rcBK"
+                    "img":"/Data/images/duque/SECCO2.jpg"
                 },
                 "a18":{
                     "title":"Borgoña Secco"
@@ -397,25 +397,25 @@
                     "title":"Afiche"
                 },
                 "a22":{
-                    "img":"https://drive.google.com/uc?export=download&id=1Iv5g0-Pkbi8vwnBj8HXDyRkSOvRWfUdu"
+                    "img":"/Data/images/duque/AficheDuqueVittorio.jpg"
                 },
                 "a23":{
                     "text":"Una parte del encargo implicaba la creación de piezas gráficas complementarias para la marca, así como la elaboración de afiches publicitarios."
                 },
                 "a24":{
-                    "img":"https://drive.google.com/uc?export=download&id=1CB2P-TlLt3Q6FK5_75dn7-Ay-3t507U6"
+                    "img":"/Data/images/duque/publicidad1.jpg"
                 },
                 "a25":{
-                    "img":"https://drive.google.com/uc?export=download&id=1iJHvw4kIRkfZCulAqdrenoXKCjwBMzmd"
+                    "img":"/Data/images/duque/publicidad2.jpg"
                 },
                 "a26":{
-                    "img":"https://drive.google.com/uc?export=download&id=1S095PaND3oWEeQrxAtdKCPTb4TJrjLD6"
+                    "img":"/Data/images/duque/publi2.jpg"
                 },
                 "a27":{
-                    "img":"https://drive.google.com/uc?export=download&id=1qR121_Vhe0dTpSQZd1i1F9M-K04IrR1k"
+                    "img":"/Data/images/duque/insta.jpg"
                 },
                 "a28":{
-                    "img":"https://drive.google.com/uc?export=download&id=1Xkinmb4CuJS-uqGZJTEpCF_v8DUrg5gQ"
+                    "img":"/Data/images/duque/pagina.jpg"
                 }
             }            
         },
@@ -446,7 +446,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1iCY0FFTYs3gUE_WF3caKkaBjCbWIbG0u"
+            "link" : "/Data/images/duque/duqueVittorioPortada.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -475,7 +475,7 @@
                     "link":"https://www.un.org/sustainabledevelopment/es/economic-growth/"
                 },
                 "a5":{
-                    "img":"https://drive.google.com/uc?export=download&id=1Hoc14yJ5vBpujyUdYzhXqiiGOzeeyapp"
+                    "img":"/Data/images/ods/ods8.jpg"
                 }
             }            
         },
@@ -488,7 +488,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1b5oLpsejrCy2h6Wp9i1RdZN2v6W5jfHi"
+            "link" : "/Data/images/ods/ods.jpg"
         },
         "categoria":{
             "Developer" : 0,
@@ -519,7 +519,7 @@
                 "a4":{
                     "title":"Nuestra Propuesta"
                 },"a2*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1ero0ZbXfB_iF3eAQ7xwVQ3pklm56Qb6J"
+                    "img":"/Data/images/valpo/aficheMockup.jpg"
                 },
                 "a5":{
                     "text":"El espacio asignado para nuestra intervención fue el suelo, lo que nos llevó a comprender que su función principal es facilitar el desplazamiento. Por lo tanto, decidimos centrarnos en la mejora de la experiencia de transitar. Con esta premisa, concluimos que el lugar idóneo para nuestra intervención sería una escalera, un verdadero ícono de la ciudad de Valparaíso debido a su topografía montañosa. Las escaleras representan un lugar ideal para transitar, detenerse y contemplar."
@@ -528,13 +528,13 @@
                     "text":"Como primer paso de nuestra intervención, creamos un afiche que presenta nuestra propuesta con un diagrama que ilustra la ejecución del proyecto. Como agencia, decidimos enfocarnos en el ODS 6, 'Agua y Saneamiento'. Nuestra propuesta se centró en la creación de 'Río de Pasos', una serie de cintas que representan la cantidad de agua utilizada en la ciudad de Valparaíso en forma de porcentajes, demostrando cómo se emplea en diferentes aspectos de la vida cotidiana. Al ubicar esta instalación en la escalera, buscamos establecer una conexión entre el esfuerzo requerido para subir los escalones y el esfuerzo hídrico que enfrenta la ciudad y la región."
                 },
                 "a1*":{
-                    "img":"https://drive.google.com/uc?export=download&id=18OJ5pwT1dUwlI5HgSXBGJZxYIp7CslQx"
+                    "img":"/Data/images/valpo/afiche.jpg"
                 },
                 "a7":{
                     "title":"Intervención"
                 },
                 "a5*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1284MyLTsAEdIXrDbnqv-_nhbv1HrTMdu"
+                    "img":"/Data/images/valpo/fotocorte.jpg"
                 },
                 "a8":{
                     "text":"La escalera seleccionada para llevar a cabo la intervención se encuentra en la Avenida España, justo enfrente de la Universidad Técnica Federico Santa María. Esta escalera desempeña un papel crucial como un punto de paso esencial, ya que conecta la playa Los Placeres con la carretera adyacente, atravesando sobre la línea del metro tren de Valparaíso. Click en el link para ver la ubicación"
@@ -546,14 +546,14 @@
                     "text":"Para dar vida a nuestra propuesta, creamos cinco patrones distintos para cada uno de los elementos propuestos. Estos patrones se imprimieron en papel bond con tecnología láser y se adhirieron utilizando una mezcla de cola y agua. Esta elección permite que la intervención sea efímera, pero a la vez duradera en su impacto."
                 },
                 "a4*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1JMXL70rAjfmVwlsfomtQpMfQJosrOhBO"
+                    "img":"/Data/images/valpo/foto3.jpg"
                 },
                 
                 "a6*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1rKUojYXu_sK5Mawrqcd2GEN0wo-lqExh"
+                    "img":"/Data/images/valpo/foto2.jpg"
                 },
                 "a7*":{
-                    "img":"https://drive.google.com/uc?export=download&id=187EdNrn_XLNEs-X3oibd7g26Ode-QI49"
+                    "img":"/Data/images/valpo/foto5.jpg"
                 },
                 "a10":{
                     "title":"Recepción"
@@ -562,13 +562,13 @@
                     "text":"La respuesta al proyecto fue mayormente positiva. La mayoría de las personas que se acercaban a observar tomaban fotos y nos hacían preguntas sobre la iniciativa. En general, les pareció interesante la elección de abordar la problemática del agua y el enfoque en concienciar sobre este tema. Sin embargo, es importante señalar que el lugar elegido no es muy concurrido. Optamos por este lugar debido a que la instalación requería varias horas de trabajo, y como agencia, deseábamos evitar que la instalación obstaculizara el flujo normal de la ciudad."
                 },
                 "a8*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1SpZMcLAPRtbQ2iYIf0UpQZxVjw7w5yiz"
+                    "img":"/Data/images/valpo/foto4.jpg"
                 },
                 "a9*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1FN6AZnwnh9_twqTLtEWLvlJAiT2ZSLFc"
+                    "img":"/Data/images/valpo/foto1.jpg"
                 },
                 "a10*":{
-                    "img":"https://drive.google.com/uc?export=download&id=1beEkJp44xet_nTkskK5TxPN6-56bAZd_"
+                    "img":"/Data/images/valpo/foto7.jpg"
                 },
                 "a12":{
                     "text":"La intervención se mantuvo en su lugar con la intención de que desapareciera gradualmente con el paso de las personas, la influencia del agua marina y las lluvias, ya que siempre fue nuestro enfoque. Sin embargo, el período de su permanencia es incierto, por lo que diseñamos una serie de patrones de modo que, aunque la información se desvanezca, permanezca como una forma decorativa."
@@ -606,7 +606,7 @@
             }
         },
         "img":{
-            "link" : "https://drive.google.com/uc?export=download&id=1CwsT7KqQEP3DgDVj6FMClUPXC3lH3gDd"
+            "link" : "/Data/images/valpo/intervencionCover.jpg"
         },
         "categoria":{
             "Developer" : 0,

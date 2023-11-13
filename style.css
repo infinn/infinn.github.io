@@ -214,6 +214,9 @@ a{
         font-size: 9rem;
         
     }
+    body{
+        max-width: 1980;
+    }
 }
 @media screen and (max-width: 900px){
     body{
@@ -351,6 +354,9 @@ a{
     }
     #seccionPost{
         border-top: 1px solid #1c1c1c;
+    }
+    hr{
+        color: #1c1c1c;
     }
 }
 

@@ -41,12 +41,19 @@ function crearPost(datos){
         let articulos = document.createElement("article");
         articulos.innerHTML = '<div id="topp"><img src="'+datos[keysPost[posicion]]["img"]["link"]+'"><h1>'+titulo[0]+'</h1></div>';
         father.appendChild(articulos);
-        
+
+        /* vvv pone la fecha vvv */
+        let fecha = document.createElement("div");
+        fecha.innerHTML = '<div id="fecha"><p>'+datos[keysPost[posicion]]["fecha"]+'</p></div>';
+        fecha.setAttribute("class", "post");
+        padre.appendChild(fecha);
+
+        /* vvv pone las palabras ESP y ENG vvv*/
         let inglesEspañol = document.createElement("div");
         inglesEspañol.innerHTML = '<div class="fift" id="lenguaje"> <p> ESP </p> </div><div class="fift"  id="lenguaje"> <p> ENG</p> </div> ';
         inglesEspañol.setAttribute("class", "post");
         padre.appendChild(inglesEspañol);
- 
+        
 
         let a1 = datos[keysPost[posicion]]["esp"][titulo];
         let Npost = Object.keys(a1);
@@ -61,6 +68,8 @@ function crearPost(datos){
             let ref = datos[keysPost[posicion]]["esp"][titulo][Npost[i]][tipo];
             i = i + 1;
             if(tipo[0] == "text"){
+
+                /* vvv textos vvv */
                 let ingles = datos[keysPost[posicion]]["eng"][Npost[i-1]][tipo];
 
                 
@@ -69,7 +78,8 @@ function crearPost(datos){
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
             }   else if (tipo[0] == "img"){
-                
+
+                /* vvv imagenes vvv */
                 let articulo = document.createElement("div");
                 let imagen = "image"+ i
                 articulo.innerHTML = '<button type="button" onclick="AbrirImagen('+imagen+')"><img src="'+ref+'" class="fotopost" id="image'+i+'"></button>';
@@ -77,14 +87,16 @@ function crearPost(datos){
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
             }   else if (tipo[0] == "title"){
-                
+
+                /* vvv titulos vvv */
                 let articulo = document.createElement("div");
-                articulo.innerHTML = '<h1>'+ref+'</h1>';
+                articulo.innerHTML = '<h2>'+ref+'</h2>';
                 articulo.setAttribute("id", "titulo2");
                 articulo.setAttribute("class", "post");
                 padre.appendChild(articulo);
             }   else if (tipo[0] == "link"){
                 
+                /* vvv link vvv */
                 let articulo = document.createElement("div");
                 articulo.innerHTML = '<a href="'+ref+'" target="_blank"> Click here </a>';
                 articulo.setAttribute("id", "descripcion");
