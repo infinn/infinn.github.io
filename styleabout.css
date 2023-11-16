@@ -30,8 +30,8 @@ body{
 #textoSobreMi{
     margin: 1.2rem;
     width: 70%;
-    font-size: 2rem;
-    font-weight: 600;
+    font-size: 1.8rem;
+    font-weight: 800;
 }
 #redes{
     width: 30%;
@@ -120,6 +120,10 @@ header{
 }
 #nostaples{
     font-size: 0.8rem;
+}
+.fif h2:hover{
+    transition: 0.5s;
+    transform: translate(3px, 0);
 }
 
 @media screen and (max-width: 900px){
