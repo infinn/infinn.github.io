@@ -52,7 +52,7 @@ header{
     top: 0;
     z-index: 5;
     background-color: #1c1c1c;
-    transform: translateZ(500px);
+    -webkit-transform: translate3d(0,0,50px);
     overflow: visible;
 }
 header #centrador{
@@ -83,13 +83,13 @@ header a{
     position: sticky;
     top: 0;
     z-index: 1;
-    transform: translateZ(100px);
+    -webkit-transform: translate3d(0,0,10px);
     overflow: visible;
 }
 #topp{
     position: relative;
     z-index: -1;
-    transform: translateZ(-100px);
+    -webkit-transform: translate3d(0,0,-10px);
     overflow: visible;
 }
 #contenedorMainImg{
@@ -139,6 +139,7 @@ header a{
     background-color: #1c1c1c;
     padding: 5dvw;
     z-index: 3;
+    -webkit-transform: translate3d(0,0,30px);
 }
 .fotopost{
     width: 100%;
