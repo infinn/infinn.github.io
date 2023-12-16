@@ -8,9 +8,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;600;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="stylePost.css">
+    <link rel="stylesheet" href="Css/stylePost.css">
     <link rel="icon" href="Data/logo.png">
-    <script src="mainPost.js"></script>
+    <script src="Js/mainPost.js"></script>
 </head>
 <body class="hidden" id="test">
     <article id="preload">
@@ -18,31 +18,43 @@
             <h1>MATIAS <br>QUILODRAN</h1>
         </div>
     </article>
-    <div id="scroll"></div>
-    <header class="designHeader">
-        <div class="fift">
-            <a id="mainName" href="index.html">MATIAS QUILODRAN</a>
-        </div>
-        <div class="fift">
-            <div id="ab">
-                <a class="letrasTop" href="seccion.html?sec=Design"> DISEÑO</a>
-                <a class="letrasTop" href="seccion.html?sec=Music"> MUSICA</a>
-                <a class="letrasTop" href="seccion.html?sec=Developer"> DEV</a>
-                <a class="letrasTop" href="about.html"> ABOUT</a>
+    <header>
+        <nav id="centrador">
+            <div class="fift">
+                <a href="index.html">MATIAS QUILODRAN</a>
             </div>
-        </div>
-        
+            <div class="fift" id="topright">
+                <div id="contA">
+                    <div>
+                        <a class="letrasTop" href="seccion.html?sec=Design"> DISEÑO</a>
+                    </div>
+                    <div>
+                        <a class="letrasTop" href="seccion.html?sec=Music"> MUSICA</a>
+                    </div>
+                    <div>
+                        <a class="letrasTop" href="seccion.html?sec=Developer"> DEV</a>
+                    </div>
+                    <div>
+                        <a class="letrasTop" href="about.html"> ABOUT</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
     </header>
-    <article class="mainPostFoto hidden">
-    </article>
-    
-    <div id="centro">
-        <hr id="postHr">
-        <div class="main">
-        </div>
-    </div>
-    <footer>
-        <a href="" id="more"> BUSCAS MAS?</a>
-    </footer>
+    <main>
+        <section>
+            <article class="mainPostFoto">
+            </article>
+            <section id="centro">
+                <div id="titulo"></div>
+                <hr id="postHr">
+                <section class="main">
+                </section>
+            </section>
+        </section>
+        <footer>
+            <a href="" id="more"> BUSCAS MAS?</a>
+        </footer>
+    </main>
 </body>
 </html>

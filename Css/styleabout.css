@@ -2,24 +2,29 @@ html {
     scroll-behavior: smooth;
     color: white;
     user-select: none;
-    display: flex;
     justify-content: center;
+    font-size: 0.7rem;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #1c1c1c;
 }
 body{
     font-family: 'Montserrat', sans-serif;
-    font-size: 15px;
     background-color: #1c1c1c;
     margin: 5rem;
     margin-top: 0;
-    font-size: 0.8rem;
+    font-size: 1rem;
     max-width: 1980px;
+}
+#contA{
+    display: flex;
+    justify-content: right;
 }
 #contenedorNombre{
     font-size: 3rem;
     margin: 1.2rem;
 }
 #lugar{
-    font-size: 0.8rem;
+    font-size: 1rem;
     display: flex;
     justify-content: space-between;
 }
@@ -71,14 +76,6 @@ a{
 #im{
     width: 100%;
 }
-.designHeader{
-    padding: 2dvw;
-    display: flex;
-    height: 10vh;
-    max-height: 1rem;
-    position: sticky;
-    top: 0;
-}
 .hidden{
     overflow: hidden;
 }
@@ -90,6 +87,7 @@ a{
     font-size: 3rem;
     font-weight: 800;
     transition: 0.5s;
+    z-index: 10;
 }
 #preload div{
     display: flex;
@@ -97,11 +95,25 @@ a{
     justify-content: flex-end;
 }
 header{
-    margin-top: 0.2rem;
-    font-size: 0.7rem;
     display: flex;
-    height: 10vh;
-    max-height: 1rem;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    z-index: 3;
+    background-color: #1c1c1c;
+}
+header #centrador{
+    padding: 2rem;
+    width: 100%;
+    display: flex;
+    position: sticky;
+    top: 0;
+    padding-left: 8rem;
+    padding-right: 8rem;
+}
+header a{
+    margin: 1rem;
+    font-size: 1rem;
 }
 .fift{
     width: 50%;
@@ -115,7 +127,7 @@ header{
 }
 #version{
     margin: 1rem;
-    font-size: 0.6rem;
+    font-size: 1rem;
     color: #7e7e7e;
 }
 #nostaples{
@@ -178,5 +190,12 @@ header{
     }
     a {
         color: #1c1c1c;
+    }
+    html{
+        background-color: #E2E2DE;
+        color: #1c1c1c;
+    }
+    header{
+        background-color: #E2E2DE;
     }
 }

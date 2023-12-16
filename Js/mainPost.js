@@ -39,8 +39,16 @@ function crearPost(datos){
 
 
         let articulos = document.createElement("article");
-        articulos.innerHTML = '<div id="topp"><img src="'+datos[keysPost[posicion]]["img"]["link"]+'"><h1>'+titulo[0]+'</h1></div>';
+        articulos.innerHTML = '<div id="mainImg"><img src="'+datos[keysPost[posicion]]["img"]["link"]+'"></div>';
+        articulos.setAttribute("id","contenedorMainImg")
         father.appendChild(articulos);
+
+        /* vvv poner titulo vvv */
+
+        const nombre = document.querySelector("#titulo");
+        let tituloPost = document.createElement("h1");
+        tituloPost.textContent = titulo[0];
+        nombre.appendChild(tituloPost)
 
         /* vvv pone la fecha vvv */
         let fecha = document.createElement("div");

@@ -50,7 +50,7 @@ function crearPost(datos){
         if(categorias == 1){
             const padre = document.querySelector(".here");
             let articulo = document.createElement("article");
-            articulo.innerHTML = '<div class="fift" id="fotoSeccion"><div id="fotoSeccion"><a href="post.html?post='+keysPost[i]+'"><img src="'+imagen+'" id="fotoSeccion"></a></div></div><div class="fift" id="seccionArreglo"><div id="info"><a href="post.html?post='+keysPost[i]+'">'+nombre+'</a><h2>'+descripcion+'</h2></div></div>';
+            articulo.innerHTML = '<nav id="fotoSeccion"><a href="post.html?post='+keysPost[i]+'"><img src="'+imagen+'" id="fotoSeccion"></a></nav><nav id="seccionArreglo"><div id="info"><a href="post.html?post='+keysPost[i]+'"><h2>'+nombre+'</h2></a><p>'+descripcion+'</p></div></nav>';
             padre.appendChild(articulo);
             articulo.setAttribute("id", "seccionPost");
         };
