@@ -161,6 +161,10 @@ header a{
     #preload{
         font-size: 2rem;
     }
+    header #centrador{
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
 }
 @media screen and (max-width: 600px){
     #preload{
@@ -181,6 +185,25 @@ header a{
     }
     .fif{
         width: 100%;
+    }
+    header #centrador{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    
+}
+@media screen and (max-width: 450px){
+    
+    #centrador #topLeft{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #topright{
+        display: none;
+    }
+    header a{
+        margin: 0;
     }
 }
 @media (prefers-color-scheme: light){

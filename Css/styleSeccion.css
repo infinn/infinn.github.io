@@ -279,7 +279,20 @@ img{
         margin: 1rem;
     }
 }
-
+@media screen and (max-width: 450px){
+    
+    #centrador #topLeft{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #topright{
+        display: none;
+    }
+    header a{
+        margin: 0;
+    }
+}
 @keyframes show {
     from {
         opacity: 0;

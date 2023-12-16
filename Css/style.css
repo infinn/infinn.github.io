@@ -317,7 +317,20 @@ main nav a{
         border-top: #1c1c1c 1px solid;
     }    
 }
-
+@media screen and (max-width: 450px){
+    
+    #centrador #topLeft{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #topright{
+        display: none;
+    }
+    header a{
+        margin: 0;
+    }
+}
 img {
     z-index: -1;
     view-timeline-name: --image;

@@ -37,6 +37,7 @@ button{
     font-weight: 800;
     transition: 0.5s;
     z-index: 10;
+    transform: translateZ(1000px)
 }
 #preload div{
     display: flex;
@@ -50,6 +51,7 @@ header{
     top: 0;
     z-index: 5;
     background-color: #1c1c1c;
+    transform: translateZ(500px)
 }
 header #centrador{
     padding: 2rem;
@@ -79,10 +81,12 @@ header a{
     position: sticky;
     top: 0;
     z-index: 1;
+    transform: translateZ(100px)
 }
 #topp{
     position: relative;
     z-index: -1;
+    transform: translateZ(-100px)
 }
 #contenedorMainImg{
     width: 100%;
@@ -211,7 +215,7 @@ footer{
         width: 100%;
     }
     #titulo{
-        font-size: 45px;
+        font-size: 3rem;
         padding: 3dvw;
     }
     #titulo2{
@@ -290,7 +294,20 @@ footer{
         padding-right: 2rem;
     }
 }
-
+@media screen and (max-width: 450px){
+    
+    #centrador #topLeft{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    #topright{
+        display: none;
+    }
+    header a{
+        margin: 0;
+    }
+}
 @keyframes show {
     from {
         opacity: 0;
