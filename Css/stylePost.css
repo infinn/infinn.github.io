@@ -37,7 +37,8 @@ button{
     font-weight: 800;
     transition: 0.5s;
     z-index: 10;
-    transform: translateZ(1000px)
+    transform: translateZ(1000px);
+    overflow: visible;
 }
 #preload div{
     display: flex;
@@ -51,7 +52,8 @@ header{
     top: 0;
     z-index: 5;
     background-color: #1c1c1c;
-    transform: translateZ(500px)
+    transform: translateZ(500px);
+    overflow: visible;
 }
 header #centrador{
     padding: 2rem;
@@ -81,12 +83,14 @@ header a{
     position: sticky;
     top: 0;
     z-index: 1;
-    transform: translateZ(100px)
+    transform: translateZ(100px);
+    overflow: visible;
 }
 #topp{
     position: relative;
     z-index: -1;
-    transform: translateZ(-100px)
+    transform: translateZ(-100px);
+    overflow: visible;
 }
 #contenedorMainImg{
     width: 100%;
