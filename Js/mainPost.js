@@ -128,7 +128,12 @@ function crearPost(datos){
     }   else{
         more.href="post.html?post="+keysPost[posicion -1]
     }
-    
+    var navegador = navigator.userAgent;
+    navegador = navegador.toLowerCase();
+    if(navegador.indexOf("safari") > -1){
+        let fotoPost2 = document.getElementById("fotoContenedor");
+        fotoPost2.style.cssText = 'position: static;';
+    }
 } 
 
 function random(min,max){
