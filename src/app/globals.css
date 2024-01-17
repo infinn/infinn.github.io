@@ -1,0 +1,134 @@
+
+html {
+  scroll-behavior: smooth;
+  color: #DFDBCE;
+  
+  font-size: 0.9rem;
+  background-color: #1c1c1c;
+  display: flex;
+  justify-content: center;
+  overflow-x: hidden;
+  
+  user-select: none;
+}
+body{
+  width: 100%;
+  max-width: 1500px;
+  margin: 0;
+  transition: 0.5s;
+  scroll-behavior: smooth;
+  
+}
+a{
+  position: relative;
+  text-decoration: none;
+  color: #DFDBCE;
+  mix-blend-mode: difference;
+  z-index: 4;
+  text-transform: uppercase;
+}
+#logoLink{
+  mix-blend-mode: normal;
+}
+footer{
+  border-top: solid 1px white;
+  
+}
+footer section{
+  display: flex;
+}
+footer section nav{
+  padding: 2rem;
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+  font-size: 1.5rem;
+}
+header{
+  display: flex;
+  position: sticky;
+  width: 100%;
+  top: 0;
+  z-index: 5;
+  font-size: 1.5rem;
+  mix-blend-mode: difference;
+}
+header nav{
+  width: 50%;
+  padding: 2rem;
+}
+#headerDerecha{
+  display: flex;
+  justify-content: right;
+}
+#headerDerecha div{
+  padding-left: 2rem;
+}
+main section{
+  padding: 2rem;
+} 
+.tituloFinal{
+  height: 12dvw;
+  overflow: hidden;
+  font-weight: 700;
+}
+.tituloFinal h1{
+  font-size: 12.5dvw;
+  text-transform: uppercase;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  
+}
+#blob{
+  background-color: #DFDBCE;
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  mix-blend-mode: difference;
+  z-index: 1;
+  transition: 0.5s;
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+@media screen and (min-width: 1500px){
+  .tituloFinal h1{
+    font-size: 14.6rem;
+  }
+  .tituloFinal{
+    height: 190px;
+  }
+}
+@media screen and (max-width: 750px){
+  header nav{
+    width: 100%;
+  }
+  #logoHeader{
+    display: flex;
+    justify-content: center;
+  }
+  #headerDerecha{
+    display: none;
+  }
+  footer section{
+    display: block;
+  }
+  .footermain{
+    display: block;
+    width: 100%;
+    padding: 0;
+    padding-top: 3rem;
+  }
+  .footermain a{
+    display: flex;
+    padding-bottom: 2rem;
+    width: 100%;
+    justify-content: center;
+    font-size: 9dvw;
+  }
+}

@@ -1,0 +1,633 @@
+[
+    {
+        "title":"Afiche Cosmos",
+        "esp":{
+            "Afiche Cosmos":{
+                "a1" : {
+                    "text" : "El encargo consistía en crear un afiche inspirado en una flor, y elegí la exquisita flor del cosmos como protagonista, con el objetivo de resaltar su fascinante paleta de colores y delicadas formas."
+                },
+                "a2" : {
+                    "img" : "/Data/images/Cosmos/cosmosPoster2.jpg"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "The assignment was to create a poster inspired by a flower, and I chose the exquisite cosmos flower as the protagonist, with the aim of highlighting its fascinating palette of colors and delicate shapes."
+            }
+        },
+        "img":{
+                "link" : "/Data/images/Cosmos/CosmosPortada.jpg"
+        },
+        "categoria":{
+                "Developer" : 0,
+                "Design" : 1,
+                "Music" : 0 
+        },
+        "fecha" : "29.04.2022",
+        "descripcion":{
+                "eng":"",
+                "esp":"El encargo consistía en crear un afiche inspirado en una flor"
+        }
+    },
+    {
+        "title":"Afiche Dualidad",
+        "esp":{
+            "Afiche Dualidad":{
+                "a1" : {
+                    "text" : "Encargo para el curso de taller"
+                },
+                "a2" : {
+                    "img" : "/Data/images/dualidad/aficheDualidad.jpg"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "Order for the workshop course"
+            }
+        },
+        "img":{
+            "link" : "/Data/images/dualidad/dualidadPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "05.05.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"Encargo para el curso de taller"
+        }
+    },
+    {
+        "title":"Tarot la Vega",
+        "esp":{
+            "Tarot la Vega":{
+                "a3":{
+                    "text":"El encargo consiste en buscar inspiración en la Vega de Santiago de Chile, utilizando el entorno para crear un tarot con técnica y estética libre."
+                },
+                "a2" : {
+                    "img" : "/Data/images/tarot/MockupTarot.jpg"
+                },
+                
+                "a4":{
+                    "img" : "/Data/images/tarot/tarot1.jpg"
+                },
+                "a5":{
+                    "img" : "/Data/images/tarot/tarot2.jpg"
+                },
+                "a6":{
+                    "img" : "/Data/images/tarot/tarot3.jpg"
+                },
+                "a7":{
+                    "title" : "Mi solucion"
+                },
+                "a8":{
+                    "text":"Mi solución consistió en crear un collage utilizando las imágenes de las portadas de la revista 'The Saturday Evening Post' y darles un giro para reflejar la vida en la Vega, mostrando situaciones comunes del lugar. De esta manera, hice referencia a las respectivas cartas del tarot."
+                },
+                "a9":{
+                    "img" : "/Data/images/tarot/TarotCartas.jpg"
+                }
+            }            
+        },
+        "eng":{
+            "a3":{
+                "text":"The assignment consists of seeking inspiration in the Vega de Santiago de Chile, using the environment to create a tarot with free technique and aesthetics."
+            },"a8":{
+                "text":"My solution was to create a collage using the images from the covers of 'The Saturday Evening Post' magazine and give them a twist to reflect life in La Vega, showing common situations of the place. In this way, I made reference to the respective tarot cards."
+            }
+        },
+        "img":{
+            "link" : "/Data/images/tarot/tarotPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "05.07.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"Encargo consiste en buscar inspiración en la Vega de Santiago de Chile"
+        }
+    },
+    {
+        "title":"El sacristan post instagram",
+        "esp":{
+            "El sacristan post instagram":{
+                "a1" : {
+                    "text" : "El encargo consistía en crear una publicacion de instagram basandose en una cancion de la cantautora Violeta Parra"
+                },
+                "a2" : {
+                    "img" : "/Data/images/Carrusel/sacristan1.jpg"
+                },
+                "a3":{
+                    "img" : "/Data/images/Carrusel/sacristan2.jpg"
+                },
+                "a4":{
+                    "text":"Para poder ver el Instagram y otros proyectos, haz clic en el enlace proporcionado."
+                },
+                "a5":{
+                    "link":"https://www.instagram.com/parraytierra/"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "The assignment consisted of creating an instagram post based on a song by the singer-songwriter Violeta Parra"
+            },"a4":{
+                "text":"To view the Instagram and other projects, click on the link provided."
+            }
+        },
+        "img":{
+            "link" : "/Data/images/Carrusel/SacristanPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 1 
+        },
+        "fecha" : "09.11.2022",
+        "descripcion":{
+            "eng":"",
+            "esp":"Encargo Taller sobre violeta parra"
+        }
+    },
+    {
+        "title":"Pagina builds LOL",
+        "esp":{
+            "Pagina builds LOL":{
+                "a1" : {
+                    "text" : "Pagina para crear y analizar builds del juego League of legends"
+                },
+                "a2":{
+                    "img":"/Data/images/paginaLol/Pagina1.png"
+                },
+                "a3":{
+                    "text":"El objetivo de esta página web es analizar las builds de los campeones del juego League of Legends, enfrentando a dos campeones para determinar cuántos golpes básicos puede resistir tu personaje antes de morir."
+                },
+                "a4":{
+                    "img":"/Data/images/paginaLol/Pagina2.png"
+                },
+                "a5":{
+                    "text":"EL PROYECTO POR AHORA ES PRIVADO PROXIMAMENTE SERA PUBLICADO"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "Website to create and analyze builds of the League of legends game"
+            },"a3":{
+                "text":"The objective of this website is to analyze the builds of the champions of the League of Legends game, pitting two champions against each other to determine how many basic hits your character can withstand before dying."
+            },
+            "a5":{
+                "text":"THE PROJECT IS PRIVATE FOR NOW, IT WILL BE PUBLISHED SOON"
+            }
+        },
+        "img":{
+            "link" : "/Data/images/paginaLol/paginaPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 1,
+            "Design" : 0,
+            "Music" : 0 
+        },
+        "fecha" : "21.02.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"Pagina para crear y analizar builds del juego LOL"
+        }
+    },
+    {
+        "title":"SNKRS megazine",
+        "esp":{
+            "SNKRS megazine":{
+                "a1" : {
+                    "text" : "Revista para el curso de instrumental"
+                },"a2":{
+                    "img":"/Data/images/snkrs/snkr1.jpg"
+                },"a3":{
+                    "img":"/Data/images/snkrs/snkr2.jpg"
+                },"a4":{
+                    "img":"/Data/images/snkrs/snkr3.jpg"
+                },"a5":{
+                    "img":"/Data/images/snkrs/snkr4.jpg"
+                },"a6":{
+                    "img":"/Data/images/snkrs/snkr5.jpg"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "Magazine for the instrumental course"
+            }
+        },
+        "img":{
+            "link" : "/Data/images/snkrs/snkrsPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "04.04.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"Revista para el curso de instrumental"
+        }
+    },
+    {
+        "title":"Molchat Doma afiche",
+        "esp":{
+            "Molchat Doma afiche":{
+                "a1" : {
+                    "text" : "La tarea implica seleccionar una banda para la cual crear un póster promocional de un concierto ficticio. Este afiche debe incluir detalles sobre el lugar, la fecha, el acto de apertura, así como información legal, incluyendo una empresa productora y una entidad encargada de la venta de entradas."
+                },"a2":{
+                    "img":"/Data/images/molchat/AficheMolchatDoma.jpg"
+                },"a3":{
+                    "title":"Personaje"
+                },"a4":{
+                    "text":"El personaje principal del póster fue creado por una inteligencia artificial llamada Dalle-2. La razón de elegir una imagen generada por inteligencia artificial se debe a que la banda seleccionada fusiona guitarras eléctricas tocadas por humanos con baterías generadas por computadoras en su música. Por lo tanto, el objetivo del póster es destacar esta combinación."
+                },"a5":{
+                    "img":"/Data/images/molchat/Manik.png"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "The task involves selecting a band for which to create a promotional poster for a fictional concert. This poster should include details about the venue, date, opening act, as well as legal information, including a production company and a ticket-selling company."
+            },
+            "a4":{
+                "text":"The main character of the poster was created by an artificial intelligence called Dalle-2. The reason for choosing an image generated by artificial intelligence is that the selected band blends electric guitars played by humans with computer-generated drums in their music. Therefore, the poster's aim is to showcase this fusion."
+            }
+        },
+        "img":{
+            "link" : "/Data/images/molchat/molchatDomaPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 1 
+        },
+        "fecha" : "29.05.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"La tarea implica seleccionar una banda para la cual crear un póster promocional de un concierto ficticio."
+        }
+    },
+    {
+        "title":"Libro La llamada de Cthulhu",
+        "esp":{
+            "Libro La llamada de Cthulhu":{
+                "a1" : {
+                    "text" : "El encargo consistía en la creación de un libro físico diseñado en InDesign. Para familiarizarse con el programa, se permitía intervenir el libro tanto a través de manipulaciones tipográficas como mediante la inclusión de imágenes."
+                },"a2":{
+                    "img":"/Data/images/cutulo/portada1.jpg"
+                },"a4":{
+                    "title":"La llamada de Cthulhu"
+                },
+                "a5":{
+                    "text":"Para este proyecto, opté por seleccionar el libro La llamada de Cthulhu del autor H.P. Lovecraft."
+                },"a3":{
+                    "img":"/Data/images/cutulo/cutulo1.jpg"
+                },"a6":{
+                    "img":"/Data/images/cutulo/cutulo2.jpg"
+                },"a7":{
+                    "img":"/Data/images/cutulo/cutulo3.jpg"
+                },"a8":{
+                    "img":"/Data/images/cutulo/cutulo4.jpg"
+                },"a9":{
+                    "img":"/Data/images/cutulo/cutulo5.jpg"
+                },"a10":{
+                    "img":"/Data/images/cutulo/cutulo6.jpg"
+                },"a11":{
+                    "title":"Sobre el proyecto"
+                },
+                "a12":{
+                    "text":"El libro contiene 48 páginas con intervenciones tipográficas, además de contar con imágenes. Para descargarlo, haz clic en el enlace de abajo."
+                },
+                "a13":{
+                    "link":"https://drive.google.com/file/d/1mQQtuW_kMjr94VAGFezmD3EbPg1JxFeQ/view?usp=sharing"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "The assignment involved the creation of a physical book designed in InDesign. To become acquainted with the program, it was possible to modify the book either typographically or by adding images."
+            },
+            "a5":{
+                "text":"For this assignment, I chose H.P. Lovecraft's book The Call of Cthulhu."
+            },
+            "a12":{
+                "text":"The book consists of 48 pages with typographic interventions, and it also includes images. To download it, click the link below."
+            }
+        },
+        "img":{
+            "link" : "/Data/images/cutulo/cutuloPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "27.06.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"El encargo consistía en la creación de un libro físico diseñado en InDesign."
+        }
+    },
+    {
+        "title":"Branding vermut",
+        "esp":{
+            "Branding vermut":{
+                "a1" : {
+                    "text" : "El proyecto asignado para el curso de Identidad consiste en desarrollar una marca ficticia de vermut que será comercializada en un envase tipo lata. Este proyecto implica la creación de tres variedades diferentes de vermut, incluyendo la concepción de un nombre, el diseño de un estilo gráfico distintivo y la creación de aplicaciones gráficas."
+                },
+                "a2":{
+                    "title":"Vermut"
+                },
+                "a3":{
+                    "text":"El vermut es una bebida alcohólica aromatizada que se obtiene al macerar una variedad de hierbas, especias, frutas y raíces en vino blanco o vino tinto. Se caracteriza por su sabor amargo y su aroma complejo, y se puede disfrutar solo, en cócteles o como ingrediente en diversas recetas.Nuestro vermut será una experiencia ligera y delicada, con sutiles matices aromáticos. Nos esforzamos por evitar que te abrumes al beberlo, permitiendo que lo consideres incluso como una opción para acompañar tus comidas. Cada sorbo te transportará a un equilibrio perfecto entre sabor y frescura."
+                },
+                "a4":{
+                    "img":"/Data/images/duque/latas.jpg"
+                },
+                "a5":{
+                    "title":"Nuestra narrativa"
+                },
+                "a6":{
+                    "text":"Cuando el duque prueba por primera vez la exquisita combinación de los botánicos, descubre uma bebida equilibrada y sorprendente, una mezcla dulce y amarga que resulta tan increíble que decide acoger al vermú como el “licor oficial de la realeza” <br> Nuestra marca se esfuerza por convertir el vermut en tu licor preferido, tal como ha sucedido en esta historia. Te cautivaremos con nuestra irresistible propuesta, dejando atrás otros licores para que te vuelvas un apasionado de nuestro vermut. Hemos creado una experiencia que refleja la realeza y divinidad. De esta manera, podrás adentrarte en el fascinante mundo del vermut mientras saboreas una bebida que cuenta la historia de sus orígenes, sumergiéndote en su legado"
+                },
+                "a7":{
+                    "title":"Variedades"
+                },
+                "a8":{
+                    "img":"/Data/images/duque/rose.jpg"
+                },
+                "a9":{
+                    "img":"/Data/images/duque/rose2.jpg"
+                },
+                "a10":{
+                    "title":"Cataluña Rose"
+                },
+                "a11":{
+                    "text":"Combinación de vino blanco y vino tinto, esencia de la nuez moscada, un toque de cardamomo, la intriga del ajenjo y la serenidad de la naranja."
+                },
+                "a12":{
+                    "img":"/Data/images/duque/ROSSO.jpg"
+                },
+                "a13":{
+                    "img":"/Data/images/duque/ROSSO2.jpg"
+                },
+                "a14":{
+                    "title":"Piamonte Rosso"
+                },
+                "a15":{
+                    "text":"Una mezcla perfecta de vino seleccionado, un toque de dulzura, un delicado equilibrio de alcohol, extracto aromatizado, un suave toque de caramelo y una pizca de vainilla."
+                },
+                "a16":{
+                    "img":"/Data/images/duque/SECCO.jpg"
+                },
+                "a17":{
+                    "img":"/Data/images/duque/SECCO2.jpg"
+                },
+                "a18":{
+                    "title":"Borgoña Secco"
+                },
+                "a19":{
+                    "text":"La elegancia del vino blanco seleccionado, el dulzor delicado del azúcar, extractos naturales de plantas y un toque de sulfitos para garantizar su frescura y calidad."
+                },
+                "a20":{
+                    "text":"Dentro de los requisitos del proyecto, se incluye la creación de un afiche publicitario en formato físico."
+                },
+                "a21":{
+                    "title":"Afiche"
+                },
+                "a22":{
+                    "img":"/Data/images/duque/AficheDuqueVittorio.jpg"
+                },
+                "a23":{
+                    "text":"Una parte del encargo implicaba la creación de piezas gráficas complementarias para la marca, así como la elaboración de afiches publicitarios."
+                },
+                "a24":{
+                    "img":"/Data/images/duque/publicidad1.jpg"
+                },
+                "a25":{
+                    "img":"/Data/images/duque/publicidad2.jpg"
+                },
+                "a26":{
+                    "img":"/Data/images/duque/publi2.jpg"
+                },
+                "a27":{
+                    "img":"/Data/images/duque/insta.jpg"
+                },
+                "a28":{
+                    "img":"/Data/images/duque/pagina.jpg"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "The assignment for the Identity course involves creating a fictitious vermouth brand, which will be sold in a can format. It should include three varieties and require the development of a brand name, a graphic style, and graphic applications."
+            },
+            "a3":{
+                "text":"Vermouth is an aromatic fortified wine obtained by macerating a variety of herbs, spices, fruits, and roots in white or red wine. It is characterized by its bitter taste and complex aroma, and can be enjoyed on its own, in cocktails, or as an ingredient in various recipes. Our vermouth will offer a light and delicate experience with subtle aromatic nuances. We strive to prevent it from overwhelming your palate, allowing you to consider it even as an option to accompany your meals. Each sip will transport you to a perfect balance between flavor and freshness."
+            },
+            "a6":{
+                "text":"When the Duke first tastes the exquisite combination of botanicals, he discovers a balanced and surprising beverage, a sweet and bitter blend so incredible that he decides to embrace vermouth as the “official liquor of royalty.”<br> Our brand strives to make vermouth your preferred liquor, just as it happened in this story. We will captivate you with our irresistible proposal, leaving other liquors behind so you become passionate about our vermouth. We have created an experience that reflects royalty and divinity. In this way, you can immerse yourself in the fascinating world of vermouth while savoring a drink that tells the story of its origins, immersing you in its legacy."
+            },
+            "a11":{
+                "text":"A combination of white wine and red wine, essence of nutmeg, a hint of cardamom, the intrigue of wormwood, and the serenity of orange."
+            },
+            "a15":{
+                "text":"A perfect blend of selected wine, a touch of sweetness, a delicate balance of alcohol, flavored extract, a gentle hint of caramel, and a dash of vanilla."
+            },
+            "a19":{
+                "text":"The elegance of selected white wine, the delicate sweetness of sugar, natural plant extracts, and a touch of sulfites to ensure its freshness and quality."
+            },
+            "a20":{
+                "text":"Part of the assignment involves creating a physical advertising poster."
+            },
+            "a23":{
+                "text":"Part of the assignment involved creating graphic elements to accompany the brand, as well as designing advertising posters."
+            }
+        },
+        "img":{
+            "link" : "/Data/images/duque/duqueVittorioPortada.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "29.06.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"El proyecto asignado para el curso de Identidad consiste en desarrollar una marca ficticia de vermut que será comercializada en un envase tipo lata."
+        }
+    },
+    {
+        "title":"Afiche ODS 8",
+        "esp":{
+            "Afiche ODS 8":{
+                "a1" : {
+                    "text" : "El proyecto implica la creación de un afiche informativo destinado a concienciar sobre los Objetivos de Desarrollo Sostenible o Metas Globales. Para ello, se debe elegir uno de estos objetivos y crear una infografía relacionada."
+                },
+                "a2":{
+                    "title":"Trabajo decente y crecimiento económico"
+                },
+                "a3":{
+                    "text":"8.1  Mantener el crecimiento económico per capita de conformidad con las circunstancias nacionales y, en particular, un crecimiento del producto interno bruto de al menos el 7% anual en los países menos adelantados <br> 8.2  Lograr niveles más elevados de productividad económica mediante la diversificación, la modernización tecnológica y la innovación, entre otras cosas centrándose en los sectores con gran valor añadido y un uso intensivo de la mano de obra. Para ver mas:"
+                },
+                "a4":{
+                    "link":"https://www.un.org/sustainabledevelopment/es/economic-growth/"
+                },
+                "a5":{
+                    "img":"/Data/images/ods/ods8.jpg"
+                }
+            }            
+        },
+        "eng":{
+            "a1" : {
+                "text" : "The task involves creating an informative poster to raise awareness about the Sustainable Development Goals or Global Goals, choosing one of them to create an infographic for."
+            },
+            "a3":{
+                "text":"8.1 Maintain per capita economic growth in accordance with national circumstances, including a GDP growth of at least 7% annually in the least developed countries.<br>8.2 Achieve higher levels of economic productivity through diversification, technological modernization, and innovation, with a focus on sectors with high value-added and labor-intensive use. Learn more:"
+            }
+        },
+        "img":{
+            "link" : "/Data/images/ods/ods.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "13.09.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"El proyecto implica la creación de un afiche informativo destinado a concienciar sobre los Objetivos de Desarrollo Sostenible o Metas Globales."
+        }
+    },
+    {
+        "title":"Intervención Valparaíso",
+        "esp":{
+            "Intervención Valparaíso":{
+                "a1":{
+                    "text" :"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso, Chile. Esta intervención tiene como fin crear conciencia entre los ciudadanos acerca de uno de los Objetivos de Desarrollo Sostenible (ODS). A cada agencia se le asignará un espacio para intervenir, que puede ser una muralla, suelos, infraestructura o incluso el entorno aéreo. Tanto el lugar de intervención como la forma de llevar a cabo la misma serán determinados por cada agencia de manera independiente."
+                },
+                "a3*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1LE99S-RgDR7VOIHcIgUTCY4o3QpThoTh"
+                },
+                "a2":{
+                    "title":"InSitu"
+                },
+                "a3":{
+                    "text":"Pronunciación: [in-sítu], que significa 'en el lugar, sobre el terreno'. Nuestra agencia de diseño se compone de Matías Quilodrán, Cristian Verdejo, Javier Calquín y Daniela Aedo. Como agencia, nuestra misión es narrar historias, evocar emociones y enriquecer la vida de las personas a través del diseño. Transformamos espacios en entornos con profundidad e identidad, destinados a la reflexión y la contemplación."
+                },
+                "a4":{
+                    "title":"Nuestra Propuesta"
+                },"a2*":{
+                    "img":"/Data/images/valpo/aficheMockup.jpg"
+                },
+                "a5":{
+                    "text":"El espacio asignado para nuestra intervención fue el suelo, lo que nos llevó a comprender que su función principal es facilitar el desplazamiento. Por lo tanto, decidimos centrarnos en la mejora de la experiencia de transitar. Con esta premisa, concluimos que el lugar idóneo para nuestra intervención sería una escalera, un verdadero ícono de la ciudad de Valparaíso debido a su topografía montañosa. Las escaleras representan un lugar ideal para transitar, detenerse y contemplar."
+                },
+                "a6":{
+                    "text":"Como primer paso de nuestra intervención, creamos un afiche que presenta nuestra propuesta con un diagrama que ilustra la ejecución del proyecto. Como agencia, decidimos enfocarnos en el ODS 6, 'Agua y Saneamiento'. Nuestra propuesta se centró en la creación de 'Río de Pasos', una serie de cintas que representan la cantidad de agua utilizada en la ciudad de Valparaíso en forma de porcentajes, demostrando cómo se emplea en diferentes aspectos de la vida cotidiana. Al ubicar esta instalación en la escalera, buscamos establecer una conexión entre el esfuerzo requerido para subir los escalones y el esfuerzo hídrico que enfrenta la ciudad y la región."
+                },
+                "a1*":{
+                    "img":"/Data/images/valpo/afiche.jpg"
+                },
+                "a7":{
+                    "title":"Intervención"
+                },
+                "a5*":{
+                    "img":"/Data/images/valpo/fotocorte.jpg"
+                },
+                "a8":{
+                    "text":"La escalera seleccionada para llevar a cabo la intervención se encuentra en la Avenida España, justo enfrente de la Universidad Técnica Federico Santa María. Esta escalera desempeña un papel crucial como un punto de paso esencial, ya que conecta la playa Los Placeres con la carretera adyacente, atravesando sobre la línea del metro tren de Valparaíso. Click en el link para ver la ubicación"
+                },
+                "a8-2":{
+                    "link":"https://maps.app.goo.gl/Yywcz3NvAgNB8o8Y9"
+                },
+                "a9":{
+                    "text":"Para dar vida a nuestra propuesta, creamos cinco patrones distintos para cada uno de los elementos propuestos. Estos patrones se imprimieron en papel bond con tecnología láser y se adhirieron utilizando una mezcla de cola y agua. Esta elección permite que la intervención sea efímera, pero a la vez duradera en su impacto."
+                },
+                "a4*":{
+                    "img":"/Data/images/valpo/foto3.jpg"
+                },
+                
+                "a6*":{
+                    "img":"/Data/images/valpo/foto2.jpg"
+                },
+                "a7*":{
+                    "img":"/Data/images/valpo/foto5.jpg"
+                },
+                "a10":{
+                    "title":"Recepción"
+                },
+                "a11":{
+                    "text":"La respuesta al proyecto fue mayormente positiva. La mayoría de las personas que se acercaban a observar tomaban fotos y nos hacían preguntas sobre la iniciativa. En general, les pareció interesante la elección de abordar la problemática del agua y el enfoque en concienciar sobre este tema. Sin embargo, es importante señalar que el lugar elegido no es muy concurrido. Optamos por este lugar debido a que la instalación requería varias horas de trabajo, y como agencia, deseábamos evitar que la instalación obstaculizara el flujo normal de la ciudad."
+                },
+                "a8*":{
+                    "img":"/Data/images/valpo/foto4.jpg"
+                },
+                "a9*":{
+                    "img":"/Data/images/valpo/foto1.jpg"
+                },
+                "a10*":{
+                    "img":"/Data/images/valpo/foto7.jpg"
+                },
+                "a12":{
+                    "text":"La intervención se mantuvo en su lugar con la intención de que desapareciera gradualmente con el paso de las personas, la influencia del agua marina y las lluvias, ya que siempre fue nuestro enfoque. Sin embargo, el período de su permanencia es incierto, por lo que diseñamos una serie de patrones de modo que, aunque la información se desvanezca, permanezca como una forma decorativa."
+                },
+                "a11*":{
+                    "img":"https://drive.google.com/uc?export=download&id=1KP6aEKkRpYEdn5wqcxVVZr2F9lK5sUMO"
+                }
+
+            }            
+        },
+        "eng":{
+            "a1":{
+                "text" :"The assignment involves forming groups with the purpose of establishing a fictional design agency, with the objective of carrying out an intervention in the city of Valparaíso, Chile. This intervention aims to raise awareness among citizens about one of the Sustainable Development Goals (SDGs). Each agency will be assigned a space to intervene, which can be a wall, floors, infrastructure, or even the aerial environment. Both the intervention location and the method of execution will be determined independently by each agency."
+            },
+            "a3":{
+                "text":"Pronunciation: [in-situ], which means 'in place, on-site.' Our design agency is composed of Matías Quilodrán, Cristian Verdejo, Javier Calquín, and Daniela Aedo. As an agency, our mission is to tell stories, evoke emotions, and enrich people's lives through design. We transform spaces into environments with depth and identity, intended for reflection and contemplation."
+            },
+            "a5":{
+                "text":"The space assigned for our intervention was the ground, which led us to understand that its main function is to facilitate movement. Therefore, we decided to focus on improving the transit experience. With this premise, we concluded that the ideal place for our intervention would be a staircase, a true icon of the city of Valparaíso due to its hilly topography. Stairs provide an ideal space for transit, stopping, and contemplation."
+            },
+            "a6":{
+                "text":"As the first step of our intervention, we created a poster presenting our proposal with a diagram illustrating the project's execution. As an agency, we decided to focus on SDG 6, 'Clean Water and Sanitation.' Our proposal revolved around the creation of 'River of Steps,' a series of ribbons representing the amount of water used in the city of Valparaíso in the form of percentages, demonstrating how it is employed in various aspects of daily life. By placing this installation on the staircase, we aimed to establish a connection between the effort required to climb the steps and the water-related challenges faced by the city and the region."
+            },
+            "a8":{
+                "text":"The selected staircase for the intervention is located on Avenida España, right in front of the Federico Santa María Technical University. This staircase plays a crucial role as a vital crossing point, connecting Los Placeres Beach with the adjacent road, spanning over the Valparaíso Metro train line. Click on the link to view the location."
+            },
+            "a9":{
+                "text":"To bring our proposal to life, we created five different patterns for each of the proposed elements. These patterns were printed on bond paper using laser technology and were adhered using a mixture of glue and water. This choice allows the intervention to be ephemeral, yet enduring in its impact"
+            },
+            "a11":{
+                "text":"The response to the project was mostly positive. Most people who approached to observe took photos and asked us questions about the initiative. Overall, they found the choice to address the issue of water and raise awareness about it interesting. However, it's important to note that the chosen location is not very crowded. We opted for this location because the installation required several hours of work, and as an agency, we wanted to avoid disrupting the city's normal flow."
+            },
+            "a12":{
+                "text":"The intervention was intended to gradually disappear over time due to people passing by, the influence of seawater, and rainfall, as it was always our focus. However, the duration of its permanence is uncertain, so we designed a series of patterns so that, even as the information fades, it remains as a decorative form"
+            }
+        },
+        "img":{
+            "link" : "/Data/images/valpo/intervencionCover.jpg"
+        },
+        "categoria":{
+            "Developer" : 0,
+            "Design" : 1,
+            "Music" : 0 
+        },
+        "fecha" : "26.10.2023",
+        "descripcion":{
+            "eng":"",
+            "esp":"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso."
+        }
+    }
+]

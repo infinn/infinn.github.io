@@ -1,0 +1,133 @@
+#tituloMain{
+    position: sticky;
+    top: 4rem;
+    width: 100%;
+    mix-blend-mode: difference;
+    z-index: 5;
+}
+#tituloMain h1{
+    font-size: 8dvw;
+    text-align: center; 
+    text-transform: uppercase;
+    margin: 0;
+    pointer-events: none;
+}
+#error404{
+    font-size: 20dvw;
+    text-transform: uppercase;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+#mainFoto{
+    grid-column-start: span 1;
+}
+#mainTag{
+    display: flex;
+}
+.tags{
+    font-weight: 400;
+    font-size: 1rem;
+    padding: 1rem;
+    border: 1px solid #DFDBCE;
+    margin-right: 1.5rem;
+    border-radius: 2rem;
+    text-transform: uppercase;
+}
+#cita{
+    font-size: 5dvw;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    opacity: .5;
+    text-transform: uppercase;
+    display: flex;
+    grid-column-start: span 6;
+    margin: 0;
+    
+}
+#cita span{
+    width: 75%;
+    text-align: center;
+    margin: 0;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+#textos{
+    font-size: 1.5rem;
+    font-weight: 400;
+    grid-column-start: span 2;
+    margin: 0;
+}
+#titlos{
+    font-size: 4rem;
+    text-transform: uppercase;
+    grid-column-start: span 6;
+    margin: 0;
+    padding-bottom: 5rem;
+}
+#links{
+    grid-column-start: span 2;
+}
+#links a{
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #DFDBCE;
+    background-color: #1c1c1c;
+    border-radius: 3rem;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    mix-blend-mode: normal;
+    border: #DFDBCE solid 1px;
+    transition: .5s;
+}
+#links a:hover{
+    color: #1c1c1c;
+    background-color: #DFDBCE;
+    mix-blend-mode: normal;
+}
+#links span{
+    padding: 1.5rem;
+}
+.proyecto{
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    gap: 5rem 1.5rem;
+    padding-bottom: 7rem;
+}
+.cardFirst{
+    display: grid;
+    padding-bottom: 5rem;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+#seccionProyecto{
+    padding-top: 15rem;
+}
+@media (width < 1050px){
+    .proyecto{
+        display: block;
+    }
+    #cita span{
+        width: 100%;
+    }
+    #cita{
+        padding-bottom: 2rem;
+    }
+    #textos{
+        max-width: 500px;
+        padding-bottom: 2rem;
+    }
+    img{
+        padding-bottom: 2rem;
+    }
+    #links{
+        padding-bottom: 5rem;
+    }
+    .cardFirst{
+        display: block;
+    }
+    #seccionProyecto{
+        padding-top: 5rem;
+    }
+}
