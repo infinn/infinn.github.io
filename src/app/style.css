@@ -249,6 +249,15 @@ svg:hover {
 #proyectos{
     padding-bottom: 5rem;
 }
+#diseñemos h2{
+    width: 100%;
+    font-size: 12dvw;
+    text-transform: uppercase;
+    text-align: center;
+    background-color: #DFDBCE;
+    color: #1c1c1c;
+    margin: 0;
+}
 @media screen and (min-width: 1500px){
     .mainTitle h1{
         font-size: 14.6rem;
@@ -258,6 +267,9 @@ svg:hover {
     }
     .contact h3{
         font-size: 7rem;
+    }
+    #diseñemos h2{
+        font-size: 15rem;
     }
 }
 @media screen and (max-width: 750px) {

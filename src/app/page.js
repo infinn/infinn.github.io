@@ -1,7 +1,6 @@
 
 import "./style.css"
 import CreadorProyectos from "./components/creador-proyectos/page";
-import Slider from "./slider/page";
 import { Reveal } from "./components/revial";
 
 export const metadata = {
@@ -70,7 +69,7 @@ export default function Home(){
             </Reveal>
             <div class="imgContainer">
               <a href="/proyectos/Arquitecura-Chilena">
-                <img src="/images/Arquitectura-chilena/cover.gif" alt=""/>
+                <img src="/images/Arquitectura-chilena/cover.gif" alt="Arquitectura Chilena gif"/>
               </a>
             </div>
           </div>
@@ -95,7 +94,7 @@ export default function Home(){
             </Reveal>
             <div class="imgContainer">
               <a href="/proyectos/Duque-Vittorio">
-                <img src="/images/duque/portada.gif" alt=""/>
+                <img src="/images/duque/portada.gif" alt="branding vermut duque vittorio gif"/>
               </a>
             </div>
           </div>
@@ -121,14 +120,14 @@ export default function Home(){
             </Reveal>
             <div class="imgContainer">
               <a href="/proyectos/Valparaiso">
-                <img src="/images/valpo/cover.gif" alt=""/>
+                <img src="/images/valpo/Cover.gif" alt="Intervención Valparaíso gif"/>
               </a>
             </div>
           </div>
         </article>
       </section>
-      <div class="slider">
-        <Slider />
+      <div id="diseñemos">
+        <h2>diseñemos juntos</h2>
       </div>
       <section>
         <article class="contact">

@@ -24,7 +24,8 @@ img{
     grid-column-start: span 1;
 }
 #mainTag{
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, auto));
 }
 .tags{
     font-weight: 400;
@@ -34,6 +35,7 @@ img{
     margin-right: 1.5rem;
     border-radius: 2rem;
     text-transform: uppercase;
+    text-align:center;
 }
 #cita{
     font-size: 5dvw;
