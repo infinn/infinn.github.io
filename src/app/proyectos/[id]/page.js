@@ -9,10 +9,11 @@ export async function generateStaticParams() {
     }))
 }
 export default function Page({params}){
+    const { id } = params
     return(
         <>
             <section>
-                <CreadorPost id = {id}>
+                <CreadorPost id = { id }>
                 </CreadorPost>
             </section>
         </>
