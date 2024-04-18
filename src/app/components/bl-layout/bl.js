@@ -33,8 +33,8 @@ export default function Inner({ children }){
         }
     }
     return(
-        <main class="inner">
-            <motion.div mode="wait" class="slide" {...anim(slide)}></motion.div>
+        <main className="inner">
+            <motion.div mode="wait" className="slide" {...anim(slide)}></motion.div>
             {children}
         </main>
         

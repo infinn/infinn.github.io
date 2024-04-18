@@ -37,23 +37,23 @@ export default function RootLayout({ children }) {
           </div>
         </nav>
       </header>
-      <Inner>
-        {children}
-      </Inner>
+        <main>
+          {children}
+        </main>
       <footer>
         <section>
-          <nav class='footermain'>
+          <nav className='footermain'>
             <a href="#top"id="link">BACK TO TOP</a>
           </nav>
-          <nav class='footermain'>
+          <nav className='footermain'>
             <a href="https://www.behance.net/matiasquilodran2" target="_blank" id="link">BEHANCE</a>
             <a href="https://www.instagram.com/antisocial_infinn/" target="_blank" id="link">INSTAGRAM</a>
             <a href="https://github.com/infinn" target="_blank" id="link">GITHUB</a>
             <a href="https://www.beatstars.com/infinn" target="_blank" id="link">BEATSTARS</a>
           </nav>
         </section>
-        <p style={{fontSize:"0.8rem", fontWeight:"300", textAlign:"center"}}>Version: 2.0.1 / Next.js 14 / Framer Motion </p>
-        <section class="tituloFinal">
+        <p style={{fontSize:"0.8rem", fontWeight:"300", textAlign:"center"}}>Version: 2.1 / Next.js 14 / Framer Motion </p>
+        <section className="tituloFinal">
           <h1>trabajemos juntos</h1>
         </section>
       </footer>

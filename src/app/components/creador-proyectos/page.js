@@ -9,7 +9,7 @@ export default async function creadorProyectos(){
         <section style={{paddingTop:"7rem"}}>
             {
                 proyect.toReversed().map( (proyects, index ) => {
-                    return <Reveal time={0.5}><Proyect key={index} index={index} title={proyects.title} tag={proyects.tag[0]} cover={proyects.cover} id={proyects.id}/></Reveal>
+                    return <Reveal time={0.4}><Proyect key={index} index={index} title={proyects.title} tag={proyects.tag[0]} cover={proyects.cover} id={proyects.id}/></Reveal>
                 })
             }
         </section>

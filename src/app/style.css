@@ -94,7 +94,7 @@
     text-transform: uppercase;
     font-size: 9.5dvw;
     margin: 0;
-    padding-bottom: 5rem;
+    padding-bottom: 1rem;
 }
 .tituloMain p{
     font-size: 2rem;
@@ -149,7 +149,6 @@ svg:hover {
     text-transform: uppercase;
     font-size: 5.5dvw;
     text-align: right;
-    padding: 1rem;
     margin: 0;
     position: sticky;
     top: 2rem;
@@ -251,28 +250,36 @@ svg:hover {
 }
 #diseñemos h2{
     width: 100%;
-    font-size: 12dvw;
+    font-size: 13dvw;
     text-transform: uppercase;
     text-align: center;
     background-color: #DFDBCE;
     color: #1c1c1c;
     margin: 0;
 }
-@media screen and (min-width: 1500px){
-    .mainTitle h1{
-        font-size: 14.6rem;
+@media only screen and (min-width:1500px){
+    .tituloMain h1{
+        font-size: 11rem;
     }
-    #sliderContainer p{
-        font-size: 9.8rem;
+    #diseñemos h2{
+        font-size: 13rem;
     }
     .contact h3{
         font-size: 7rem;
     }
+}
+@media (width < 1500px){
+    #sliderContainer p{
+        font-size: 9.8rem;
+    }
+    .contact h3{
+        font-size: 8dvw;
+    }
     #diseñemos h2{
-        font-size: 15rem;
+        font-size: 13dvw;
     }
 }
-@media screen and (max-width: 750px) {
+@media (width < 750px) {
     #nombre{
         font-size: 1rem;
     }
@@ -335,6 +342,7 @@ svg:hover {
     }
     .contactTextContainer{
         width: 100%;
+        padding: 0;
     }
     .proyectosTodos a{
         background-color: transparent;

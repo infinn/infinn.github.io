@@ -52,10 +52,14 @@ header{
   z-index: 5;
   font-size: 1.5rem;
   mix-blend-mode: difference;
+  pointer-events: none;
 }
 header nav{
   width: 50%;
   padding: 2rem;
+}
+header a{
+  pointer-events: all;
 }
 #headerDerecha{
   display: flex;

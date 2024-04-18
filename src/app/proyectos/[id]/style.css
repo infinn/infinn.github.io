@@ -41,7 +41,6 @@ img{
     font-size: 5dvw;
     justify-content: center;
     font-family: 'Montserrat', sans-serif;
-    opacity: .5;
     text-transform: uppercase;
     display: flex;
     grid-column-start: span 6;

@@ -4,7 +4,7 @@
         "tag": [
             "Diseño Gráfico"
         ],
-        "cover": "/images/tarot/cover.jpg",
+        "cover": "/images/tarot/cover.webp",
         "id": "Tarot-la-Vega",
         "descripcion":"El encargo consiste en buscar inspiración en la Vega de Santiago de Chile, utilizando el entorno para crear un tarot con técnica y estética libre.",
         "esp": [
@@ -13,28 +13,28 @@
             },
             {
                 "img": {
-                    "links":"/images/tarot/MockupTarot.jpg",
+                    "links":"/images/tarot/MockupTarot.webp",
                     "gridSpan":4,
                     "alt":"Mockup"
                 }
             },
             {
                 "img": {
-                    "links":"/images/tarot/tarot1.jpg",
+                    "links":"/images/tarot/tarot1.webp",
                     "gridSpan":3,
                     "alt":"Tarot-1"
                 }
             },
             {
                 "img": {
-                    "links":"/images/tarot/tarot2.jpg",
+                    "links":"/images/tarot/tarot2.webp",
                     "gridSpan":3,
                     "alt":"Tarot-2"
                 }
             },
             {
                 "img": {
-                    "links":"/images/tarot/tarot3.jpg",
+                    "links":"/images/tarot/tarot3.webp",
                     "gridSpan":6,
                     "alt":"Tarot-3"
                 }
@@ -47,7 +47,7 @@
             },
             {
                 "img": {
-                    "links":"/images/tarot/TarotCartas.jpg",
+                    "links":"/images/tarot/TarotCartas.webp",
                     "gridSpan":4,
                     "alt":"Tarot-4"
                 }
@@ -61,7 +61,7 @@
                 "text": "My solution was to create a collage using the images from the covers of 'The Saturday Evening Post' magazine and give them a twist to reflect life in La Vega, showing common situations of the place. In this way, I made reference to the respective tarot cards."
             }
         },
-        "img": "/images/tarot/tarotPortada.jpg",
+        "img": "/images/tarot/tarotPortada.webp",
         "fecha": "05.07.2022"
     },
     {
@@ -78,35 +78,35 @@
             },
             {
                 "img": {
-                    "links":"/images/snkrs/snkr1.jpg",
+                    "links":"/images/snkrs/snkr1.webp",
                     "gridSpan":4,
                     "alt":"Revista paginas 10-11"
                 }
             },
             {
                 "img": {
-                    "links":"/images/snkrs/snkr2.jpg",
+                    "links":"/images/snkrs/snkr2.webp",
                     "gridSpan":3,
                     "alt":"Revista paginas 8-9"
                 }
             },
             {
                 "img": {
-                    "links":"/images/snkrs/snkr3.jpg",
+                    "links":"/images/snkrs/snkr3.webp",
                     "gridSpan":3,
                     "alt":"Revista paginas 6-7"
                 }
             },
             {
                 "img": {
-                    "links":"/images/snkrs/snkr4.jpg",
+                    "links":"/images/snkrs/snkr4.webp",
                     "gridSpan":3,
                     "alt":"Revista paginas 4-5"
                 }
             },
             {
                 "img": {
-                    "links":"/images/snkrs/snkr5.jpg",
+                    "links":"/images/snkrs/snkr5.webp",
                     "gridSpan":3,
                     "alt":"Revista paginas 2-3"
                 }
@@ -117,7 +117,7 @@
                 "text": "Magazine for the instrumental course"
             }
         },
-        "img": "/images/snkrs/snkrsPortada.jpg",
+        "img": "/images/snkrs/snkrsPortada.webp",
         "fecha": "04.04.2023"
     },
     {
@@ -147,7 +147,7 @@
             },
             {
                 "img": {
-                    "links":"/images/ods/ods8.jpg",
+                    "links":"/images/ods/ods8.webp",
                     "gridSpan":6,
                     "alt":"Afiche ODS 8"
                 }
@@ -160,7 +160,7 @@
             },
             {
                 "img": {
-                    "links":"/images/molchat/AficheMolchatDoma.jpg",
+                    "links":"/images/molchat/AficheMolchatDoma.webp",
                     "gridSpan":4,
                     "alt":"Afiche Molchat Doma"
                 }
@@ -170,7 +170,7 @@
             },
             {
                 "img": {
-                    "links":"/images/molchat/Manik.png",
+                    "links":"/images/molchat/Manik.webp",
                     "gridSpan":4,
                     "alt":"Dall-e imagen"
                 }
@@ -187,7 +187,7 @@
             },
             {
                 "img": {
-                    "links":"/images/dualidad/aficheDualidad.jpg",
+                    "links":"/images/dualidad/aficheDualidad.webp",
                     "gridSpan":4,
                     "alt":"Afiche Dualidad"
                 }
@@ -197,7 +197,7 @@
             },
             {
                 "img": {
-                    "links":"/images/Cosmos/cosmosPoster2.jpg",
+                    "links":"/images/Cosmos/cosmosPoster2.webp",
                     "gridSpan":4,
                     "alt":"Afiche Cosmos"
                 }
@@ -232,7 +232,7 @@
             },
             {
                 "img": {
-                    "links":"/images/cutulo/portada1.jpg",
+                    "links":"/images/cutulo/portada1.webp",
                     "gridSpan":6,
                     "alt":"Imagen latas Duque Vittorio"
                 }
@@ -245,42 +245,42 @@
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo1.jpg",
+                    "links":"/images/cutulo/cutulo1.webp",
                     "gridSpan":6,
                     "alt":"Libro pagina 6-7"
                 }
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo2.jpg",
+                    "links":"/images/cutulo/cutulo2.webp",
                     "gridSpan":3,
                     "alt":"Libro pagina 16-17"
                 }
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo3.jpg",
+                    "links":"/images/cutulo/cutulo3.webp",
                     "gridSpan":3,
                     "alt":"Libro pagina 32-33"
                 }
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo4.jpg",
+                    "links":"/images/cutulo/cutulo4.webp",
                     "gridSpan":3,
                     "alt":"Libro pagina 44-45"
                 }
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo5.jpg",
+                    "links":"/images/cutulo/cutulo5.webp",
                     "gridSpan":3,
                     "alt":"Libro pagina"
                 }
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo6.jpg",
+                    "links":"/images/cutulo/cutulo6.webp",
                     "gridSpan":6,
                     "alt":"Libro pagina 26-27"
                 }
@@ -335,7 +335,7 @@
             },
             {
                 "img": {
-                    "links":"/images/duque/latas.jpg",
+                    "links":"/images/duque/latas.webp",
                     "gridSpan":6,
                     "alt":"Imagen latas Duque Vittorio"
                 }
@@ -357,14 +357,14 @@
             },
             {
                 "img": {
-                    "links":"/images/duque/rose.jpg",
+                    "links":"/images/duque/rose.webp",
                     "gridSpan":3,
                     "alt":"Cataluña Rose varieda"
                 }
             },
             {
                 "img": {
-                    "links":"/images/duque/rose2.jpg",
+                    "links":"/images/duque/rose2.webp",
                     "gridSpan":3,
                     "alt":"Cataluña Rose variedad para impresiones"
                 }
@@ -377,14 +377,14 @@
             },
             {
                 "img": {
-                    "links":"/images/duque/ROSSO.jpg",
+                    "links":"/images/duque/ROSSO.webp",
                     "gridSpan":3,
                     "alt":"Piamonte Rosso variedad "
                 }
             },
             {
                 "img": {
-                    "links":"/images/duque/ROSSO2.jpg",
+                    "links":"/images/duque/ROSSO2.webp",
                     "gridSpan":3,
                     "alt":"Piamonte Rosso variedad para impresiones"
                 }
@@ -397,14 +397,14 @@
             },
             {
                 "img": {
-                    "links":"/images/duque/SECCO.jpg",
+                    "links":"/images/duque/SECCO.webp",
                     "gridSpan":3,
                     "alt":"Borgoña Secco variedad para impresiones"
                 }
             },
             {
                 "img": {
-                    "links":"/images/duque/SECCO2.jpg",
+                    "links":"/images/duque/SECCO2.webp",
                     "gridSpan":3,
                     "alt":"Borgoña Secco variedad para impresiones"
                 }
@@ -421,7 +421,7 @@
             
             {
                 "img": {
-                    "links":"/images/duque/AficheDuqueVittorio.jpg",
+                    "links":"/images/duque/AficheDuqueVittorio.webp",
                     "gridSpan":4,
                     "alt":"Afiche publicitario"
                 }
@@ -429,7 +429,7 @@
             
             {
                 "img": {
-                    "links":"/images/duque/publicidad2.jpg",
+                    "links":"/images/duque/publicidad2.webp",
                     "gridSpan":4,
                     "alt":"Afiche publicitario"
                 }
@@ -439,21 +439,21 @@
             },
             {
                 "img": {
-                    "links":"/images/duque/publi2.jpg", 
+                    "links":"/images/duque/publi2.webp", 
                     "gridSpan":2,
                     "alt":"Calle afiches publicitarios"
                 }
             },
             {
                 "img": {
-                    "links":"/images/duque/insta.jpg",
+                    "links":"/images/duque/insta.webp",
                     "gridSpan":2,
                     "alt":"Instagram Duque Vittorio"
                 }
             },
             {
                 "img": {
-                    "links":"/images/duque/pagina.jpg",
+                    "links":"/images/duque/pagina.webp",
                     "gridSpan":2,
                     "alt":"Pagina web Duque Vittorio"
                 }
@@ -515,7 +515,7 @@
             },
             {
                 "img": {
-                    "links":"/images/valpo/aficheMockup.jpg",
+                    "links":"/images/valpo/aficheMockup.webp",
                     "gridSpan":6,
                     "alt":"Afiche Mockup"
                 }
@@ -528,7 +528,7 @@
             },
             {
                 "img": {
-                    "links":"/images/valpo/afiche.jpg",
+                    "links":"/images/valpo/afiche.webp",
                     "gridSpan":2,
                     "alt":"Afiche"
                 }
@@ -538,7 +538,7 @@
             },
             {
                 "img": {
-                    "links":"/images/valpo/fotocorte.jpg",
+                    "links":"/images/valpo/fotocorte.webp",
                     "gridSpan":6,
                     "alt":"Imagen del lugar 1"
                 }
@@ -555,21 +555,21 @@
             },
             {
                 "img": {
-                    "links":"/images/valpo/foto3.jpg",
+                    "links":"/images/valpo/foto3.webp",
                     "gridSpan":3,
                     "alt":"Imagen del lugar 2"
                 }
             },
             {
                 "img": {
-                    "links":"/images/valpo/foto2.jpg",
+                    "links":"/images/valpo/foto2.webp",
                     "gridSpan":3,
                     "alt":"Imagen del lugar 3"
                 }
             },
             {
                 "img": {
-                    "links":"/images/valpo/foto5.jpg",
+                    "links":"/images/valpo/foto5.webp",
                     "gridSpan":6,
                     "alt":"Imagen del lugar 4"
                 }
@@ -582,21 +582,21 @@
             },
             {
                 "img": {
-                    "links":"/images/valpo/foto4.jpg",
+                    "links":"/images/valpo/foto4.webp",
                     "gridSpan":6,
                     "alt":"Imagen del lugar 5"
                 }
             },
             {
                 "img": {
-                    "links":"/images/valpo/foto1.jpg",
+                    "links":"/images/valpo/foto1.webp",
                     "gridSpan":3,
                     "alt":"Imagen del lugar 4"
                 }
             },
             {
                 "img": {
-                    "links":"/images/valpo/foto7.jpg",
+                    "links":"/images/valpo/foto7.webp",
                     "gridSpan":3,
                     "alt":"Imagen del lugar 5"
                 }
@@ -666,7 +666,7 @@
             },
             {
                 "img":{
-                    "links":"/images/Arquitectura-chilena/i3.jpg",
+                    "links":"/images/Arquitectura-chilena/i3.webp",
                     "gridSpan":6,
                     "alt":"gif"
                 }
@@ -690,7 +690,7 @@
             },
             {
                 "img":{
-                    "links":"/images/Arquitectura-chilena/i4.jpg",
+                    "links":"/images/Arquitectura-chilena/i4.webp",
                     "gridSpan":6,
                     "alt":"gif"
                 }
@@ -717,7 +717,7 @@
             },
             {
                 "img":{
-                    "links":"/images/Arquitectura-chilena/i2.jpg",
+                    "links":"/images/Arquitectura-chilena/i2.webp",
                     "gridSpan":4,
                     "alt":"gif"
                 }
@@ -736,7 +736,7 @@
             },
             {
                 "img":{
-                    "links":"/images/Arquitectura-chilena/full-page.jpg",
+                    "links":"/images/Arquitectura-chilena/full-page.webp",
                     "gridSpan":2,
                     "alt":"gif"
                 }
