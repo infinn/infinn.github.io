@@ -12,12 +12,11 @@ export default function Page({params}){
     const { id } = params
     return(
         <>
-            <section>
+            <article style={{ padding: "2rem", maxWidth:"1500px"}}>
                 <CreadorPost id = { id }>
                 </CreadorPost>
-            </section>
+            </article>
         </>
-        
     )
 }
 

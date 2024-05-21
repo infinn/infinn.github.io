@@ -1,0 +1,23 @@
+.SliderDiseño{
+    min-width: fit-content;
+    display: flex;
+}
+.SliderDiseño span{
+    text-transform: uppercase;
+    font-size: 14dvw;
+    margin: 0;
+    width: 100dvw;
+    animation: scroll-left 6s linear infinite;
+}
+
+@keyframes scroll-left {
+    to{
+        transform: translateX(-100%);
+    }
+}
+@media (width > 1500px) {
+    .SliderDiseño span{
+        font-size: 15rem;
+        width: 1500px;
+    }
+}

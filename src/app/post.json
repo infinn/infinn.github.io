@@ -4,6 +4,7 @@
         "tag": [
             "Diseño Gráfico"
         ],
+        "color":"#1c1c1c",
         "cover": "/images/tarot/cover.webp",
         "id": "Tarot-la-Vega",
         "descripcion":"El encargo consiste en buscar inspiración en la Vega de Santiago de Chile, utilizando el entorno para crear un tarot con técnica y estética libre.",
@@ -69,6 +70,7 @@
         "tag": [
             "Diseño Gráfico","Diseño Editorial"
         ],
+        "color":"#be113f",
         "cover": "/images/snkrs/cover.jpg",
         "id": "SNKRS",
         "descripcion":"Revista para el curso de instrumental",
@@ -125,6 +127,7 @@
         "tag": [
             "Diseño Gráfico","Afiches"
         ],
+        "color":"#DFDBCE",
         "cover": "/images/molchat/cover.gif",
         "id": "Afiches-2023",
         "descripcion":"Conjunto de afiches hechos el 2023",
@@ -222,6 +225,7 @@
         "tag": [
             "Diseño Editorial","Diseño Grafico","Tipografia"
         ],
+        "color":"#ebdc84",
         "cover": "/images/cutulo/coverslide.gif",
         "descripcion":"El encargo consistía en la creación de un libro físico diseñado en InDesign.",
         "id": "Cthulhu",
@@ -317,6 +321,7 @@
         "tag": [
             "Branding","Diseño Gráfico"
         ],
+        "color":"#ee8715",
         "cover": "/images/duque/Cover.gif",
         "id": "Duque-Vittorio",
         "descripcion":"El proyecto asignado para el curso de Identidad consiste en desarrollar una marca ficticia de vermut que será comercializada en un envase tipo lata.",
@@ -494,6 +499,7 @@
         "tag": [
             "Diseño Grafico"
         ],
+        "color":"#722f41",
         "cover": "/images/valpo/coverSlide.gif",
         "id": "Valparaiso",
         "descripcion":"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso, Chile. Esta intervención tiene como fin crear conciencia entre los ciudadanos acerca de uno de los Objetivos de Desarrollo Sostenible (ODS).",
@@ -632,16 +638,14 @@
             }
         },
         "img": "/images/valpo/cover.gif",
-        "fecha": "26.10.2023",
-        "color":[
-            "cbfef5","1c1c1c"
-        ]
+        "fecha": "26.10.2023"
     },
     {
         "title":"Arquitectura Chilena",
         "tag":[
             "Diseño Web", "UX/UI","HTML","Css","javascript"
         ],
+        "color":"#DFDBCE",
         "cover":"/images/Arquitectura-chilena/cover-slide.gif",
         "id":"Arquitecura-Chilena",
         "descripcion":"Esta plataforma web tiene la misión de promover el aprecio y la conciencia hacia la arquitectura chilena, focalizándose en los proyectos cercanos a las estaciones de la línea 1 del metro de Santiago de Chile.",
@@ -743,9 +747,6 @@
             }
         ],
         "img":"/images/Arquitectura-chilena/cover.gif",
-        "fecha":"06.12.2023",
-        "color":[
-            "000000","DFDBCE"
-        ]
+        "fecha":"06.12.2023"
     }
 ]
