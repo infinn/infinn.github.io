@@ -30,7 +30,7 @@ const proyectosDestacados = [
   },
   {
     link:"/proyectos/Valparaiso",
-    url:"/images/valpo/cover.gif",
+    url:"/images/valpo/coverslide.gif",
     alt:"Intervención Valparaíso cover",
     nombre:"Intervención Valparaíso",
     tag:"branding",

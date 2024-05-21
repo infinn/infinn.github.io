@@ -322,7 +322,7 @@
             "Branding","Diseño Gráfico"
         ],
         "color":"#ee8715",
-        "cover": "/images/duque/Cover.gif",
+        "cover": "/images/duque/cover.gif",
         "id": "Duque-Vittorio",
         "descripcion":"El proyecto asignado para el curso de Identidad consiste en desarrollar una marca ficticia de vermut que será comercializada en un envase tipo lata.",
         "esp": [
@@ -500,7 +500,7 @@
             "Diseño Grafico"
         ],
         "color":"#722f41",
-        "cover": "/images/valpo/coverSlide.gif",
+        "cover": "/images/valpo/coverslide.gif",
         "id": "Valparaiso",
         "descripcion":"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso, Chile. Esta intervención tiene como fin crear conciencia entre los ciudadanos acerca de uno de los Objetivos de Desarrollo Sostenible (ODS).",
         "esp": [
