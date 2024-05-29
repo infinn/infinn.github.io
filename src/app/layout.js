@@ -54,7 +54,7 @@ export default function RootLayout({ children }) {
             <a href="https://www.linkedin.com/in/mat%C3%ADas-quilodran-b294aa2b1/" target="_blank" id="link">linkedin</a>
           </nav>
         </section>
-        <p style={{fontSize:"0.8rem", fontWeight:"300", textAlign:"center"}}>Version: 2.2 / Next.js 14 / Framer Motion </p>
+        <p style={{fontSize:"0.8rem", fontWeight:"300", textAlign:"center"}}>Version: 2.2.1 / Next.js 14 / Framer Motion </p>
         <section className="tituloFinal">
           <h1>trabajemos juntos</h1>
         </section>

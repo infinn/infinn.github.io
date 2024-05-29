@@ -29,8 +29,16 @@ const proyectosDestacados = [
     cover:"/images/duque/cover-image.webp"
   },
   {
+    link:"/proyectos/Cthulhu",
+    url:"/images/cutulo/slide.gif",
+    alt:"Libro La llamada de Cthulhu cover",
+    nombre:"Libro La llamada de Cthulhu",
+    tag:"Editorial",
+    cover:"/images/cutulo/portada.jpg"
+  },
+  {
     link:"/proyectos/Valparaiso",
-    url:"/images/valpo/coverslide.gif",
+    url:"/images/valpo/slide.gif",
     alt:"Intervención Valparaíso cover",
     nombre:"Intervención Valparaíso",
     tag:"branding",
@@ -156,7 +164,7 @@ export default function Home() {
                 correo
               </span>
             </a>
-            <a href="https://github.com/infinn" target="_blank">
+            <a href="https://www.instagram.com/antisocial_infinn" target="_blank">
               <span>
                 instagram
               </span>

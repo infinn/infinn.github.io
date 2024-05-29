@@ -226,71 +226,43 @@
             "Diseño Editorial","Diseño Grafico","Tipografia"
         ],
         "color":"#ebdc84",
-        "cover": "/images/cutulo/coverslide.gif",
+        "cover": "/images/cutulo/slide.gif",
         "descripcion":"El encargo consistía en la creación de un libro físico diseñado en InDesign.",
         "id": "Cthulhu",
         "esp": [
-            
-            {
-                "text": "El encargo consistía en la creación de un libro físico diseñado en InDesign. Para familiarizarse con el programa, se permitía intervenir el libro tanto a través de manipulaciones tipográficas como mediante la inclusión de imágenes."
-            },
             {
                 "img": {
-                    "links":"/images/cutulo/portada1.webp",
+                    "links":"/images/cutulo/i4.jpg",
                     "gridSpan":6,
-                    "alt":"Imagen latas Duque Vittorio"
+                    "alt":"La llamada de Cthulhu"
                 }
             },
             {
                 "title": "La llamada de Cthulhu"
             },
             {
-                "text": "Para este proyecto, opté por seleccionar el libro La llamada de Cthulhu del autor H.P. Lovecraft."
+                "text": "No hay en el mundo fortuna mayor, creo, que la incapacidad de la mente humana para relacionar entre sí todo lo que hay en ella. Vivimos en una isla de plácida ignorancia, rodeados por los negros mares de lo infinito, y no es nuestro destino emprender largos viajes"
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo1.webp",
+                    "links":"/images/cutulo/i3.jpg",
                     "gridSpan":6,
-                    "alt":"Libro pagina 6-7"
+                    "alt":"Libro paginas"
                 }
             },
             {
                 "img": {
-                    "links":"/images/cutulo/cutulo2.webp",
-                    "gridSpan":3,
-                    "alt":"Libro pagina 16-17"
-                }
-            },
-            {
-                "img": {
-                    "links":"/images/cutulo/cutulo3.webp",
-                    "gridSpan":3,
-                    "alt":"Libro pagina 32-33"
-                }
-            },
-            {
-                "img": {
-                    "links":"/images/cutulo/cutulo4.webp",
-                    "gridSpan":3,
-                    "alt":"Libro pagina 44-45"
-                }
-            },
-            {
-                "img": {
-                    "links":"/images/cutulo/cutulo5.webp",
-                    "gridSpan":3,
-                    "alt":"Libro pagina"
-                }
-            },
-            {
-                "img": {
-                    "links":"/images/cutulo/cutulo6.webp",
+                    "links":"/images/cutulo/i1.jpg",
                     "gridSpan":6,
-                    "alt":"Libro pagina 26-27"
+                    "alt":"Libro paginas"
                 }
             },
             {
-                "title": "Sobre el proyecto"
+                "img": {
+                    "links":"/images/cutulo/i2.jpg",
+                    "gridSpan":6,
+                    "alt":"Libro paginas"
+                }
             },
             {
                 "text": "El libro contiene 48 páginas con intervenciones tipográficas, además de contar con imágenes. Para descargarlo, haz clic en el enlace de abajo."
@@ -313,7 +285,7 @@
                 "text": "The book consists of 48 pages with typographic interventions, and it also includes images. To download it, click the link below."
             }
         },
-        "img": "/images/cutulo/cover.gif",
+        "img": "/images/cutulo/slide.gif",
         "fecha": "27.06.2023"
     },
     {
@@ -500,7 +472,7 @@
             "Diseño Grafico"
         ],
         "color":"#722f41",
-        "cover": "/images/valpo/coverslide.gif",
+        "cover": "/images/valpo/slide.gif",
         "id": "Valparaiso",
         "descripcion":"El encargo implica la formación de grupos con el propósito de establecer una agencia ficticia de diseño, con el objetivo de llevar a cabo una intervención en la ciudad de Valparaíso, Chile. Esta intervención tiene como fin crear conciencia entre los ciudadanos acerca de uno de los Objetivos de Desarrollo Sostenible (ODS).",
         "esp": [
@@ -637,7 +609,7 @@
                 "text": "The intervention was intended to gradually disappear over time due to people passing by, the influence of seawater, and rainfall, as it was always our focus. However, the duration of its permanence is uncertain, so we designed a series of patterns so that, even as the information fades, it remains as a decorative form"
             }
         },
-        "img": "/images/valpo/cover.gif",
+        "img": "/images/valpo/slide.gif",
         "fecha": "26.10.2023"
     },
     {
