@@ -26,7 +26,8 @@ export default async function CreadorPost({ id }){
             </>
         )
     }
-    
+    let extensionImage = proyect[i].cover.split('.').pop()
+    let imagen = extensionImage == "mp4" ? <video src={proyect[i].cover} autoPlay loop muted playsInline /> : <img src={proyect[i].cover} id="mainFoto"/>
     return(
         <>
         <TitulosPost/>
@@ -38,7 +39,9 @@ export default async function CreadorPost({ id }){
         <div id='seccionProyecto'>
             <div className="cardFirst">
                 <Reveal time={1}>
-                    <img src={proyect[i].img} id="mainFoto"/>
+                    {
+                        imagen
+                    }
                 </Reveal>
                 <div style={{gridColumnStart:"span 1"}}>
                     <p style={{ fontWeight:"400", margin:"0", paddingBottom:"2rem", fontSize:"1.5rem"}}>
@@ -67,7 +70,7 @@ export default async function CreadorPost({ id }){
                 }
             </div>
         </div>
-            <p>Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial.El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas.</p>
+            <p>Todos los proyectos realizados y presentados en este contexto son puramente con fines de aprendizaje y sin ningún objetivo de lucro. Se debe tener en cuenta que cualquier información, código, diseño o solución proporcionada es resultado de un ejercicio académico y no debe ser considerado como un servicio profesional o comercial. El propósito principal de estos proyectos es el desarrollo de habilidades y la adquisición de conocimientos prácticos en diversas áreas.</p>
         </>
     )
 }

@@ -14,6 +14,14 @@
     margin: 0;
     padding: 0;
 }
+.image-container-proyects video{
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    margin: 0;
+    padding: 0;
+    border-radius: 0;
+}
 .image-container-proyects-background{
     display: flex;
     justify-content: center;

@@ -14,8 +14,7 @@ export default async function creadorProyectos(){
     proyect.toReversed().map((index) =>{
         imgaesURL.push(index.cover)
     })
-
-
+    
     return(
         <>
             <FollowImage images={imgaesURL} />

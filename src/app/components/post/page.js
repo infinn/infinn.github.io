@@ -6,7 +6,7 @@ export default function CrearPostDatos({ tipo, contenido }) {
     if (tipo == "text") {
         return (
             <p id="textos">
-                <Reveal time={0.4}>
+                <Reveal time={0.3}>
                     {contenido}
                 </Reveal>
             </p>
@@ -17,11 +17,11 @@ export default function CrearPostDatos({ tipo, contenido }) {
         </RevealImg>
     } else if (tipo == "title") {
         return <h2 id="titlos">
-            <Reveal time={0.4}>{contenido}</Reveal>
+            <Reveal time={0.3}>{contenido}</Reveal>
         </h2>
     } else if (tipo == "link") {
         return <div id="links">
-            <Reveal time={0.4}>
+            <Reveal time={0.3}>
                 <a href={contenido.links} target="_blank">
                     <span>
                         {contenido.text}
@@ -32,7 +32,7 @@ export default function CrearPostDatos({ tipo, contenido }) {
     } else if (tipo == "cita") {
         return <h3 id="cita">
             <span>
-                <Reveal time={0.5}>{contenido}</Reveal>
+                <Reveal time={0.3}>{contenido}</Reveal>
             </span>
         </h3>
     }

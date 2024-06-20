@@ -70,13 +70,30 @@ export default function FollowImage({images}){
                     <div className="movement-container" style={{transform: `translateY(${hoveredDiv * -250}px)`}}>
                         {
                             images.map((index)=>{
-                                return(
-                                    <>
-                                        <div className="image-container-proyects-background" key={index}>
-                                            <img src={index} />
-                                        </div>
-                                    </>
-                                )
+                                let extension = index.split('.').pop();
+                                if(extension == "mp4"){
+                                    return(
+                                        <>
+                                            <div className="image-container-proyects-background" key={index}>
+                                                <video 
+                                                    src={index} 
+                                                    autoPlay 
+                                                    loop 
+                                                    muted 
+                                                    playsInline 
+                                                />
+                                            </div>
+                                        </>
+                                    )
+                                } else{
+                                    return(
+                                        <>
+                                            <div className="image-container-proyects-background" key={index}>
+                                                <img src={index} />
+                                            </div>
+                                        </>
+                                    )
+                                }
                             })
                         }
                     </div>

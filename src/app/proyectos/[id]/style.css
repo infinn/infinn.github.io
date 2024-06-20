@@ -102,6 +102,9 @@ img{
     grid-template-columns: 1fr 1fr;
     gap: 2rem;
 }
+.cardFirst video{
+    width: 100%;
+}
 #seccionProyecto{
     padding-top: 10rem;
 }
@@ -127,14 +130,12 @@ img{
         max-width: 500px;
         padding-bottom: 2rem;
     }
-    img{
-        padding-bottom: 2rem;
-    }
     #links{
         padding-bottom: 5rem;
     }
     .cardFirst{
-        display: block;
+        display: grid;
+        grid-template-columns: 1fr;
     }
     #seccionProyecto{
         padding-top: 5rem;

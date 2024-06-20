@@ -21,8 +21,24 @@
     justify-content: right;
     font-weight: 400;
 }
+video{
+    width: 100%;
+    height: 300px;
+    border-radius: var(--mainGap);
+    object-fit: cover;
+}
 @media (width < 750px){
     .protect-home-link{
         grid-column: span 12
+    }
+    .nombre-container h2{
+        margin: 0;
+    }
+    .protect-home-link .nombre-container div{
+        padding: 0;
+    }
+    .protect-home-link .nombre-container{
+        gap: var(--mainGap);
+        margin: var(--mainGap);
     }
 }

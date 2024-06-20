@@ -12,9 +12,18 @@ export const metadata = {
 };
 
 const proyectosDestacados = [
+  
+  {
+    link:"/proyectos/Tasky",
+    url:"/images/tasky/cover.mp4",
+    alt:"Tasky branding",
+    nombre:"Tasky branding",
+    tag:"Branding",
+    cover:"/images/tasky/tasky5.webp"
+  },
   {
     link:"/proyectos/Arquitecura-Chilena",
-    url:"/images/Arquitectura-chilena/cover.gif",
+    url:"/images/Arquitectura-chilena/cover.mp4",
     alt:"Arquitectura Chilena cover",
     nombre:"Arquitectura Chilena",
     tag:"Desarrollo web",
@@ -22,7 +31,7 @@ const proyectosDestacados = [
   },
   {
     link:"/proyectos/Duque-Vittorio",
-    url:"/images/duque/cover.gif",
+    url:"/images/duque/coverduque.mp4",
     alt:"branding vermut duque vittorio cover",
     nombre:"branding vermut duque vittorio",
     tag:"branding",
@@ -30,19 +39,11 @@ const proyectosDestacados = [
   },
   {
     link:"/proyectos/Cthulhu",
-    url:"/images/cutulo/slide.gif",
+    url:"/images/cutulo/slide.mp4",
     alt:"Libro La llamada de Cthulhu cover",
     nombre:"Libro La llamada de Cthulhu",
     tag:"Editorial",
     cover:"/images/cutulo/portada.jpg"
-  },
-  {
-    link:"/proyectos/Valparaiso",
-    url:"/images/valpo/slide.gif",
-    alt:"Intervención Valparaíso cover",
-    nombre:"Intervención Valparaíso",
-    tag:"branding",
-    cover:"/images/valpo/newcover.webp"
   }
 ]
 
@@ -127,15 +128,16 @@ export default function Home() {
         {
           proyectosDestacados.map((indice) =>{
             return(
-              <ProyectosVisorMain
-                key={ "proyectos-home_"+indice }
-                linkHref={ indice.link }
-                url = { indice.url }
-                alt={ indice.alt }
-                nombre={ indice.nombre }
-                tag={ indice.tag }
-                cover={ indice.cover }
-              />
+                  <ProyectosVisorMain
+                    key={ "proyectos-home_"+indice.nombre }
+                    linkHref={ indice.link }
+                    url = { indice.url }
+                    alt={ indice.alt }
+                    nombre={ indice.nombre }
+                    tag={ indice.tag }
+                    cover={ indice.cover }
+                  />
+              
             )
           })
         }
