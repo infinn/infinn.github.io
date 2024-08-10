@@ -4,6 +4,7 @@ import { Antonio, Montserrat } from 'next/font/google'
 import './globals.css'
 import Inner from './components/bl-layout/bl'
 import BackgroundBlob from './components/background/page'
+import Headder from './components/header/page'
 
 
 export const antonio = Antonio({ weight: '700', subsets: ['latin'] })
@@ -19,27 +20,8 @@ export default function RootLayout({ children }) {
     <body className={antonio.className}>
       <div id="top"></div>
       <BackgroundBlob/>
-      <header>
-        <div style={{ maxWidth: "1500px", width: "100%", display: "flex" }}>
-          <nav>
-            <div id="logoHeader">
-              <a href="/" id="link">
-                Matias Quilodran
-              </a>
-            </div>
-          </nav>
-          <nav id='headerDerecha'> 
-            <div>
-              <a href="/#proyectos" id="link">Proyectos</a>
-            </div>
-            <div>
-              <a href="/#contactame" id="link">Contacto</a>
-            </div>
-          </nav>
-        </div>
-      </header>
+      <Headder />
       <main>
-          
         {children}
       </main>
       <footer style={{ display:"grid", justifyContent:"center"}}>
